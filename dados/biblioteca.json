@@ -1,0 +1,1728 @@
+{
+ "atualizado_em": "2026-10-04T11:31:38+00:00",
+ "total": 246,
+ "dados": [
+  {
+   "appid": 1473350,
+   "nome": "(the) Gnorp Apologue",
+   "horas": 35.7,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2024-01-07"
+  },
+  {
+   "appid": 410110,
+   "nome": "12 is Better Than 6",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 2835590,
+   "nome": "8AM",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 503560,
+   "nome": "911 Operator",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 1969080,
+   "nome": "A Building Full of Cats",
+   "horas": 0.9,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2023-07-17"
+  },
+  {
+   "appid": 4512570,
+   "nome": "A Game About Chopping Trees",
+   "horas": 3.8,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-07-18"
+  },
+  {
+   "appid": 1055540,
+   "nome": "A Short Hike",
+   "horas": 3.5,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2025-10-18"
+  },
+  {
+   "appid": 427410,
+   "nome": "Abiotic Factor",
+   "horas": 1.2,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-06-26"
+  },
+  {
+   "appid": 504390,
+   "nome": "Along the Edge",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 302190,
+   "nome": "Amerzone: The Explorer’s Legacy (1999)",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 2368470,
+   "nome": "An Arcade Full of Cats",
+   "horas": 0.5,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2023-11-21"
+  },
+  {
+   "appid": 1720090,
+   "nome": "Aspire: Ina's Tale",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 3503440,
+   "nome": "Astro Prospector",
+   "horas": 3.4,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-02-16"
+  },
+  {
+   "appid": 668580,
+   "nome": "Atomic Heart",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 1493640,
+   "nome": "Banishers: Ghosts of New Eden",
+   "horas": 0.5,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-03-07"
+  },
+  {
+   "appid": 1990740,
+   "nome": "Barro GT",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 544610,
+   "nome": "Battlestar Galactica Deadlock",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 284160,
+   "nome": "BeamNG.drive",
+   "horas": 51.0,
+   "horas_ultimas_2_semanas": 1.3,
+   "ultima_vez_jogado": "2026-10-02"
+  },
+  {
+   "appid": 7670,
+   "nome": "BioShock",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 8850,
+   "nome": "BioShock 2",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 409720,
+   "nome": "BioShock 2 Remastered",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 8870,
+   "nome": "BioShock Infinite",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 409710,
+   "nome": "BioShock Remastered",
+   "horas": 0.4,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2023-09-28"
+  },
+  {
+   "appid": 774361,
+   "nome": "Blasphemous",
+   "horas": 1.2,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2024-01-11"
+  },
+  {
+   "appid": 49520,
+   "nome": "Borderlands 2",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 738520,
+   "nome": "Breathedge",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 2218460,
+   "nome": "Bunny Guys!",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 1588550,
+   "nome": "Cairn",
+   "horas": 22.2,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-02-15"
+  },
+  {
+   "appid": 3028500,
+   "nome": "Cakey's Twisted Bakery",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 1582650,
+   "nome": "Caravan Sandwitch",
+   "horas": 9.6,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-04-04"
+  },
+  {
+   "appid": 2488370,
+   "nome": "Cash Cleaner Simulator",
+   "horas": 33.7,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2025-08-17"
+  },
+  {
+   "appid": 593280,
+   "nome": "Cat Quest",
+   "horas": 3.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2025-01-04"
+  },
+  {
+   "appid": 914710,
+   "nome": "Cat Quest II",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 330020,
+   "nome": "Children of Morta",
+   "horas": 0.2,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-09-18"
+  },
+  {
+   "appid": 1273400,
+   "nome": "Construction Simulator",
+   "horas": 1.0,
+   "horas_ultimas_2_semanas": 1.0,
+   "ultima_vez_jogado": "2026-10-03"
+  },
+  {
+   "appid": 2881650,
+   "nome": "Content Warning",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 3321460,
+   "nome": "Crimson Desert Enhanced",
+   "horas": 40.4,
+   "horas_ultimas_2_semanas": 10.1,
+   "ultima_vez_jogado": "2026-09-29"
+  },
+  {
+   "appid": 368340,
+   "nome": "CrossCode",
+   "horas": 2.2,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-06-13"
+  },
+  {
+   "appid": 344740,
+   "nome": "CRYPTARK",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 1885110,
+   "nome": "Cryptmaster",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 928840,
+   "nome": "Cybarian: The Time Travelling Warrior",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 1091500,
+   "nome": "Cyberpunk 2077",
+   "horas": 80.3,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2024-10-22"
+  },
+  {
+   "appid": 612390,
+   "nome": "Dandara: Trials of Fear Edition",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 29900,
+   "nome": "Dark Sector",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 1868140,
+   "nome": "DAVE THE DIVER",
+   "horas": 11.9,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-08-27"
+  },
+  {
+   "appid": 1259420,
+   "nome": "Days Gone",
+   "horas": 67.8,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2023-08-08"
+  },
+  {
+   "appid": 384310,
+   "nome": "Dead In Bermuda",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 934700,
+   "nome": "Dead Island 2",
+   "horas": 22.9,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-05-01"
+  },
+  {
+   "appid": 383180,
+   "nome": "Dead Island Riptide Definitive Edition",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 897630,
+   "nome": "Death Fungeon",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 1850570,
+   "nome": "DEATH STRANDING DIRECTOR'S CUT",
+   "horas": 66.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-04-07"
+  },
+  {
+   "appid": 214340,
+   "nome": "Deponia",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 226620,
+   "nome": "Desktop Dungeons",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 1222140,
+   "nome": "Detroit: Become Human",
+   "horas": 3.3,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-04-21"
+  },
+  {
+   "appid": 3361470,
+   "nome": "Digseum",
+   "horas": 2.9,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2025-01-12"
+  },
+  {
+   "appid": 632470,
+   "nome": "Disco Elysium",
+   "horas": 1.4,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2023-05-09"
+  },
+  {
+   "appid": 569610,
+   "nome": "Distant Space",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 729460,
+   "nome": "Distant Space 2",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 230230,
+   "nome": "Divinity: Original Sin (Classic)",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 435150,
+   "nome": "Divinity: Original Sin 2",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 373420,
+   "nome": "Divinity: Original Sin Enhanced Edition",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 2019300,
+   "nome": "Dokimon",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 782330,
+   "nome": "DOOM Eternal",
+   "horas": 52.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2025-08-30"
+  },
+  {
+   "appid": 442070,
+   "nome": "Drawful 2",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 3463050,
+   "nome": "Dreams of Aether",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 1562430,
+   "nome": "DREDGE",
+   "horas": 15.8,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2023-11-12"
+  },
+  {
+   "appid": 237630,
+   "nome": "DuckTales Remastered",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 249050,
+   "nome": "Dungeon of the ENDLESS™",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 289130,
+   "nome": "ENDLESS Legend™",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 1203620,
+   "nome": "Enshrouded",
+   "horas": 23.6,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2024-02-19"
+  },
+  {
+   "appid": 227300,
+   "nome": "Euro Truck Simulator 2",
+   "horas": 5.5,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2023-08-09"
+  },
+  {
+   "appid": 3829620,
+   "nome": "Execute",
+   "horas": 2.2,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-04-12"
+  },
+  {
+   "appid": 427520,
+   "nome": "Factorio",
+   "horas": 650.1,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-08-23"
+  },
+  {
+   "appid": 2207490,
+   "nome": "Factory Town Idle",
+   "horas": 1.2,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-02-16"
+  },
+  {
+   "appid": 377160,
+   "nome": "Fallout 4",
+   "horas": 1.2,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2024-04-21"
+  },
+  {
+   "appid": 1025440,
+   "nome": "Fantasy General II",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 2300320,
+   "nome": "Farming Simulator 25",
+   "horas": 40.5,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-04-05"
+  },
+  {
+   "appid": 224760,
+   "nome": "FEZ",
+   "horas": 1.2,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2023-04-14"
+  },
+  {
+   "appid": 660160,
+   "nome": "Field of Glory II",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 1368870,
+   "nome": "Field of Glory II: Medieval",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 3343160,
+   "nome": "Fill Up The Hole",
+   "horas": 9.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2025-10-04"
+  },
+  {
+   "appid": 2909400,
+   "nome": "FINAL FANTASY VII REBIRTH",
+   "horas": 5.9,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-06-26"
+  },
+  {
+   "appid": 2907010,
+   "nome": "FIND KITTENS: The last of cats",
+   "horas": 0.2,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2024-06-24"
+  },
+  {
+   "appid": 542050,
+   "nome": "Forgotton Anne",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 1149620,
+   "nome": "Gas Station Simulator",
+   "horas": 4.5,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2023-04-29"
+  },
+  {
+   "appid": 2231380,
+   "nome": "Ghost Recon Breakpoint",
+   "horas": 11.9,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-08-29"
+  },
+  {
+   "appid": 1139900,
+   "nome": "Ghostrunner",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 1593500,
+   "nome": "God of War",
+   "horas": 44.8,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2024-10-28"
+  },
+  {
+   "appid": 1245430,
+   "nome": "Golden Light",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 599140,
+   "nome": "Graveyard Keeper",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 4358690,
+   "nome": "Graveyard Keeper 2",
+   "horas": 10.8,
+   "horas_ultimas_2_semanas": 10.8,
+   "ultima_vez_jogado": "2026-10-02"
+  },
+  {
+   "appid": 858710,
+   "nome": "Gravity Circuit",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 1145360,
+   "nome": "Hades",
+   "horas": 20.5,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2025-06-03"
+  },
+  {
+   "appid": 70,
+   "nome": "Half-Life",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 220,
+   "nome": "Half-Life 2",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 320,
+   "nome": "Half-Life 2: Deathmatch",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 360,
+   "nome": "Half-Life Deathmatch: Source",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 1620730,
+   "nome": "Hell is Us",
+   "horas": 13.3,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-07-19"
+  },
+  {
+   "appid": 1608450,
+   "nome": "Hellslave",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 435400,
+   "nome": "Hidden Folks",
+   "horas": 0.7,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2023-12-13"
+  },
+  {
+   "appid": 1659040,
+   "nome": "HITMAN World of Assassination",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 404680,
+   "nome": "Hob",
+   "horas": 10.6,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2023-08-27"
+  },
+  {
+   "appid": 990080,
+   "nome": "Hogwarts Legacy",
+   "horas": 20.2,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2025-11-13"
+  },
+  {
+   "appid": 1151640,
+   "nome": "Horizon Zero Dawn™ Complete Edition",
+   "horas": 91.1,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2024-05-22"
+  },
+  {
+   "appid": 1214470,
+   "nome": "Hotel Renovator",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 383270,
+   "nome": "Hue",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 2158650,
+   "nome": "I Did Not Buy This Ticket",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 307230,
+   "nome": "I, Zombie",
+   "horas": 0.1,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2023-03-30"
+  },
+  {
+   "appid": 2221920,
+   "nome": "Immortals Fenyx Rising",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 1486630,
+   "nome": "Intravenous",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 2071500,
+   "nome": "Islands of Insight",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 1703140,
+   "nome": "Isle of Jura",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 1084160,
+   "nome": "Jagged Alliance 3",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 283270,
+   "nome": "Jagged Alliance Gold",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 829280,
+   "nome": "Kaze and the Wild Masks",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 1954200,
+   "nome": "Kena: Bridge of Spirits",
+   "horas": 16.2,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-03-06"
+  },
+  {
+   "appid": 379430,
+   "nome": "Kingdom Come: Deliverance",
+   "horas": 4.8,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2025-01-25"
+  },
+  {
+   "appid": 2955840,
+   "nome": "Kitchen Wars",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 1796220,
+   "nome": "Laika: Aged Through Blood",
+   "horas": 1.3,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2023-12-13"
+  },
+  {
+   "appid": 978520,
+   "nome": "Legend of Keepers",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 1898290,
+   "nome": "LEGO® Bricktales",
+   "horas": 2.2,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2024-10-31"
+  },
+  {
+   "appid": 4197610,
+   "nome": "Librarian: Tidy Up the Arcane Library!",
+   "horas": 5.6,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-06-26"
+  },
+  {
+   "appid": 1644940,
+   "nome": "Loddlenaut",
+   "horas": 5.4,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2025-08-18"
+  },
+  {
+   "appid": 2564700,
+   "nome": "LoFi Kitten",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 1507190,
+   "nome": "Machinika Museum",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 40990,
+   "nome": "Mafia",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 2905170,
+   "nome": "Magic Archery",
+   "horas": 1.1,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2025-01-10"
+  },
+  {
+   "appid": 1817190,
+   "nome": "Marvel's Spider-Man: Miles Morales",
+   "horas": 20.3,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-07-14"
+  },
+  {
+   "appid": 742300,
+   "nome": "Mega Man 11",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 363440,
+   "nome": "Mega Man Legacy Collection",
+   "horas": 0.1,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2023-06-01"
+  },
+  {
+   "appid": 3405340,
+   "nome": "Megabonk",
+   "horas": 20.8,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2025-11-13"
+  },
+  {
+   "appid": 1267910,
+   "nome": "Melvor Idle",
+   "horas": 47.1,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2024-08-23"
+  },
+  {
+   "appid": 286690,
+   "nome": "Metro 2033 Redux",
+   "horas": 0.6,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-04-22"
+  },
+  {
+   "appid": 43160,
+   "nome": "Metro: Last Light Complete Edition",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 481870,
+   "nome": "Mini Thief",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 1446780,
+   "nome": "MONSTER HUNTER RISE",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 582010,
+   "nome": "Monster Hunter: World",
+   "horas": 10.2,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2025-02-15"
+  },
+  {
+   "appid": 2166050,
+   "nome": "Moonleap",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 606150,
+   "nome": "Moonlighter",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 3530670,
+   "nome": "Mosaic of The Pharaohs",
+   "horas": 19.5,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-08-21"
+  },
+  {
+   "appid": 1369670,
+   "nome": "Motor Town: Behind The Wheel",
+   "horas": 13.9,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-09-04"
+  },
+  {
+   "appid": 640700,
+   "nome": "Narvas",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 1196630,
+   "nome": "Nexomon: Extinction",
+   "horas": 0.7,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2025-05-24"
+  },
+  {
+   "appid": 1501610,
+   "nome": "Nova Lands",
+   "horas": 19.8,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2023-11-10"
+  },
+  {
+   "appid": 2337860,
+   "nome": "Nubs!",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 1662480,
+   "nome": "Nuclear Blaze",
+   "horas": 2.1,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-03-24"
+  },
+  {
+   "appid": 339200,
+   "nome": "Oceanhorn: Monster of Uncharted Seas",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 1200580,
+   "nome": "One Gun Guy",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 862740,
+   "nome": "OneShift",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 753640,
+   "nome": "Outer Wilds",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 2237970,
+   "nome": "Outpath",
+   "horas": 9.9,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2025-10-19"
+  },
+  {
+   "appid": 457140,
+   "nome": "Oxygen Not Included",
+   "horas": 5.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2023-04-16"
+  },
+  {
+   "appid": 1458140,
+   "nome": "Pacific Drive",
+   "horas": 45.5,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2024-03-23"
+  },
+  {
+   "appid": 1623730,
+   "nome": "Palworld",
+   "horas": 43.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-07-15"
+  },
+  {
+   "appid": 418670,
+   "nome": "Pankapu",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 2796010,
+   "nome": "Party Club",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 2694490,
+   "nome": "Path of Exile 2",
+   "horas": 36.9,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-06-13"
+  },
+  {
+   "appid": 3527290,
+   "nome": "PEAK",
+   "horas": 8.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2025-11-27"
+  },
+  {
+   "appid": 3144950,
+   "nome": "Pet Lands",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 568320,
+   "nome": "Pictopix",
+   "horas": 21.4,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2025-11-02"
+  },
+  {
+   "appid": 1215320,
+   "nome": "Piczle Cross Adventure",
+   "horas": 20.2,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2025-10-30"
+  },
+  {
+   "appid": 1986840,
+   "nome": "POPGOES Arcade",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 1337760,
+   "nome": "Potion Permit",
+   "horas": 5.1,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2023-12-08"
+  },
+  {
+   "appid": 108600,
+   "nome": "Project Zomboid",
+   "horas": 101.3,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-09-17"
+  },
+  {
+   "appid": 3083300,
+   "nome": "Proverbs",
+   "horas": 18.1,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-01-19"
+  },
+  {
+   "appid": 1478220,
+   "nome": "Puzzle Together",
+   "horas": 0.2,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2024-01-24"
+  },
+  {
+   "appid": 722560,
+   "nome": "RAD",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 1282100,
+   "nome": "Remnant II",
+   "horas": 12.4,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-07-26"
+  },
+  {
+   "appid": 883710,
+   "nome": "Resident Evil 2",
+   "horas": 26.8,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2023-08-19"
+  },
+  {
+   "appid": 952060,
+   "nome": "Resident Evil 3",
+   "horas": 7.5,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2023-08-20"
+  },
+  {
+   "appid": 418370,
+   "nome": "Resident Evil 7 Biohazard",
+   "horas": 16.6,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-04-12"
+  },
+  {
+   "appid": 952070,
+   "nome": "RESIDENT EVIL RESISTANCE",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 1196590,
+   "nome": "Resident Evil Village",
+   "horas": 19.9,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-04-18"
+  },
+  {
+   "appid": 220700,
+   "nome": "RPG Maker VX Ace",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 2764460,
+   "nome": "Sandustry",
+   "horas": 27.5,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-09-04"
+  },
+  {
+   "appid": 526870,
+   "nome": "Satisfactory",
+   "horas": 569.4,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-07-18"
+  },
+  {
+   "appid": 813540,
+   "nome": "Scheming Through The Zombie Apocalypse: The Beginning",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 814380,
+   "nome": "Sekiro™: Shadows Die Twice",
+   "horas": 6.2,
+   "horas_ultimas_2_semanas": 2.4,
+   "ultima_vez_jogado": "2026-10-03"
+  },
+  {
+   "appid": 635850,
+   "nome": "Sentience: The Android's Tale",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 418240,
+   "nome": "Shadow Tactics: Blades of the Shogun",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 2162800,
+   "nome": "shapez 2 - Factory",
+   "horas": 12.2,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-05-08"
+  },
+  {
+   "appid": 2084000,
+   "nome": "Shogun Showdown",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 2138710,
+   "nome": "Sifu",
+   "horas": 0.8,
+   "horas_ultimas_2_semanas": 0.8,
+   "ultima_vez_jogado": "2026-10-03"
+  },
+  {
+   "appid": 1144770,
+   "nome": "SLUDGE LIFE",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 1465360,
+   "nome": "SnowRunner",
+   "horas": 24.1,
+   "horas_ultimas_2_semanas": 2.5,
+   "ultima_vez_jogado": "2026-09-28"
+  },
+  {
+   "appid": 1419160,
+   "nome": "Souldiers",
+   "horas": 7.2,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2025-06-07"
+  },
+  {
+   "appid": 1176710,
+   "nome": "Space Crew: Legendary Edition",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 972660,
+   "nome": "Spiritfarer®: Farewell Edition",
+   "horas": 8.4,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2024-10-31"
+  },
+  {
+   "appid": 700100,
+   "nome": "Spooky Station",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 1948280,
+   "nome": "Stacklands",
+   "horas": 7.3,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-06-30"
+  },
+  {
+   "appid": 413150,
+   "nome": "Stardew Valley",
+   "horas": 55.9,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2024-11-19"
+  },
+  {
+   "appid": 495420,
+   "nome": "State of Decay 2",
+   "horas": 4.7,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2024-12-24"
+  },
+  {
+   "appid": 252410,
+   "nome": "SteamWorld Dig",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 322190,
+   "nome": "SteamWorld Heist",
+   "horas": 1.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2024-08-12"
+  },
+  {
+   "appid": 1392960,
+   "nome": "STORY OF SEASONS: Pioneers of Olive Town",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 1332010,
+   "nome": "Stray",
+   "horas": 12.3,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2023-07-04"
+  },
+  {
+   "appid": 584640,
+   "nome": "SUPER CHICKEN JUMPER",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 2289750,
+   "nome": "Super Fantasy Kingdom",
+   "horas": 7.1,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2025-11-04"
+  },
+  {
+   "appid": 1262040,
+   "nome": "Super Mombo Quest",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 46500,
+   "nome": "Syberia",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 46510,
+   "nome": "Syberia 2",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 1488200,
+   "nome": "Symphony of War: The Nephilim Saga",
+   "horas": 0.9,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2025-02-15"
+  },
+  {
+   "appid": 482400,
+   "nome": "System Shock",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 1026400,
+   "nome": "Tamashii",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 377600,
+   "nome": "Tcheco in the Castle of Lucio",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 2186570,
+   "nome": "TELEFORUM",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 1180660,
+   "nome": "Tell Me Why",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 105600,
+   "nome": "Terraria",
+   "horas": 0.6,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-08-27"
+  },
+  {
+   "appid": 443910,
+   "nome": "TGV Voyages Train Simulator",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 460960,
+   "nome": "The Deed: Dynasty",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 242760,
+   "nome": "The Forest",
+   "horas": 1.9,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2024-12-26"
+  },
+  {
+   "appid": 731040,
+   "nome": "The Invincible",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 2828500,
+   "nome": "The Jackbox Megapicker",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 990630,
+   "nome": "The Last Campfire",
+   "horas": 7.6,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2023-07-07"
+  },
+  {
+   "appid": 1272160,
+   "nome": "The Life and Suffering of Sir Brante",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 584990,
+   "nome": "The Long Reach",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 624270,
+   "nome": "The Painscreek Killings",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 1703340,
+   "nome": "The Stanley Parable: Ultra Deluxe",
+   "horas": 1.1,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-08-19"
+  },
+  {
+   "appid": 257510,
+   "nome": "The Talos Principle",
+   "horas": 1.6,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2024-03-30"
+  },
+  {
+   "appid": 835960,
+   "nome": "The Talos Principle 2",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 2088570,
+   "nome": "Tiny Rogues",
+   "horas": 51.5,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2024-01-23"
+  },
+  {
+   "appid": 475150,
+   "nome": "Titan Quest Anniversary Edition",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 1307580,
+   "nome": "TOEM",
+   "horas": 7.1,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2024-02-24"
+  },
+  {
+   "appid": 1066780,
+   "nome": "Transport Fever 2",
+   "horas": 2.2,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2025-08-24"
+  },
+  {
+   "appid": 2313250,
+   "nome": "Travellin Cats in Paris",
+   "horas": 0.2,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2023-08-20"
+  },
+  {
+   "appid": 1035510,
+   "nome": "Ultimate Zombie Defense",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 1659420,
+   "nome": "UNCHARTED™: Legacy of Thieves Collection",
+   "horas": 25.7,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-08-11"
+  },
+  {
+   "appid": 391540,
+   "nome": "Undertale",
+   "horas": 0.4,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2025-06-04"
+  },
+  {
+   "appid": 1604030,
+   "nome": "V Rising",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 1794680,
+   "nome": "Vampire Survivors",
+   "horas": 85.3,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-09-04"
+  },
+  {
+   "appid": 1158470,
+   "nome": "Voxelgram",
+   "horas": 26.4,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2023-11-11"
+  },
+  {
+   "appid": 2187290,
+   "nome": "Wall World",
+   "horas": 1.4,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2024-12-29"
+  },
+  {
+   "appid": 431960,
+   "nome": "Wallpaper Engine",
+   "horas": 12.8,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-06-26"
+  },
+  {
+   "appid": 2005010,
+   "nome": "Warhammer 40,000: Boltgun",
+   "horas": 3.6,
+   "horas_ultimas_2_semanas": 3.6,
+   "ultima_vez_jogado": "2026-10-04"
+  },
+  {
+   "appid": 489630,
+   "nome": "Warhammer 40,000: Gladius - Relics of War",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 673880,
+   "nome": "Warhammer 40,000: Mechanicus",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 2183900,
+   "nome": "Warhammer 40,000: Space Marine 2",
+   "horas": 26.1,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-03-03"
+  },
+  {
+   "appid": 552500,
+   "nome": "Warhammer: Vermintide 2",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 1527950,
+   "nome": "Wartales",
+   "horas": 53.5,
+   "horas_ultimas_2_semanas": 14.5,
+   "ultima_vez_jogado": "2026-10-04"
+  },
+  {
+   "appid": 373600,
+   "nome": "Weapon of Choice",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 2747770,
+   "nome": "Wednesdays",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 2139020,
+   "nome": "What the Fog",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 2752710,
+   "nome": "WHAT THE PAK?!",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 445980,
+   "nome": "Wizard of Legend",
+   "horas": 0.4,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2023-08-08"
+  },
+  {
+   "appid": 681640,
+   "nome": "World of Contraptions",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 1235140,
+   "nome": "Yakuza: Like a Dragon",
+   "horas": 1.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-08-28"
+  }
+ ]
+}

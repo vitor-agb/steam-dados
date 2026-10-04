@@ -1,0 +1,832 @@
+{
+ "atualizado_em": "2026-10-04T11:32:36+00:00",
+ "total": 118,
+ "dados": [
+  {
+   "appid": 1473350,
+   "nome": "(the) Gnorp Apologue",
+   "conquistas_feitas": 17,
+   "conquistas_total": 17,
+   "percentual": 100.0
+  },
+  {
+   "appid": 1969080,
+   "nome": "A Building Full of Cats",
+   "conquistas_feitas": 23,
+   "conquistas_total": 24,
+   "percentual": 95.8
+  },
+  {
+   "appid": 4512570,
+   "nome": "A Game About Chopping Trees",
+   "conquistas_feitas": 15,
+   "conquistas_total": 28,
+   "percentual": 53.6
+  },
+  {
+   "appid": 1055540,
+   "nome": "A Short Hike",
+   "conquistas_feitas": 3,
+   "conquistas_total": 12,
+   "percentual": 25.0
+  },
+  {
+   "appid": 427410,
+   "nome": "Abiotic Factor",
+   "conquistas_feitas": 3,
+   "conquistas_total": 53,
+   "percentual": 5.7
+  },
+  {
+   "appid": 2368470,
+   "nome": "An Arcade Full of Cats",
+   "conquistas_feitas": 5,
+   "conquistas_total": 50,
+   "percentual": 10.0
+  },
+  {
+   "appid": 3503440,
+   "nome": "Astro Prospector",
+   "conquistas_feitas": 26,
+   "conquistas_total": 43,
+   "percentual": 60.5
+  },
+  {
+   "appid": 1493640,
+   "nome": "Banishers: Ghosts of New Eden",
+   "conquistas_feitas": 0,
+   "conquistas_total": 43,
+   "percentual": 0.0
+  },
+  {
+   "appid": 284160,
+   "nome": "BeamNG.drive",
+   "conquistas_feitas": 4,
+   "conquistas_total": 58,
+   "percentual": 6.9
+  },
+  {
+   "appid": 409710,
+   "nome": "BioShock Remastered",
+   "conquistas_feitas": 0,
+   "conquistas_total": 65,
+   "percentual": 0.0
+  },
+  {
+   "appid": 774361,
+   "nome": "Blasphemous",
+   "conquistas_feitas": 1,
+   "conquistas_total": 45,
+   "percentual": 2.2
+  },
+  {
+   "appid": 1588550,
+   "nome": "Cairn",
+   "conquistas_feitas": 52,
+   "conquistas_total": 52,
+   "percentual": 100.0
+  },
+  {
+   "appid": 1582650,
+   "nome": "Caravan Sandwitch",
+   "conquistas_feitas": 8,
+   "conquistas_total": 26,
+   "percentual": 30.8
+  },
+  {
+   "appid": 2488370,
+   "nome": "Cash Cleaner Simulator",
+   "conquistas_feitas": 12,
+   "conquistas_total": 26,
+   "percentual": 46.2
+  },
+  {
+   "appid": 593280,
+   "nome": "Cat Quest",
+   "conquistas_feitas": 0,
+   "conquistas_total": 12,
+   "percentual": 0.0
+  },
+  {
+   "appid": 330020,
+   "nome": "Children of Morta",
+   "conquistas_feitas": 0,
+   "conquistas_total": 45,
+   "percentual": 0.0
+  },
+  {
+   "appid": 1273400,
+   "nome": "Construction Simulator",
+   "conquistas_feitas": 0,
+   "conquistas_total": 33,
+   "percentual": 0.0
+  },
+  {
+   "appid": 3321460,
+   "nome": "Crimson Desert Enhanced",
+   "conquistas_feitas": 2,
+   "conquistas_total": 34,
+   "percentual": 5.9
+  },
+  {
+   "appid": 368340,
+   "nome": "CrossCode",
+   "conquistas_feitas": 4,
+   "conquistas_total": 86,
+   "percentual": 4.7
+  },
+  {
+   "appid": 1091500,
+   "nome": "Cyberpunk 2077",
+   "conquistas_feitas": 15,
+   "conquistas_total": 57,
+   "percentual": 26.3
+  },
+  {
+   "appid": 1868140,
+   "nome": "DAVE THE DIVER",
+   "conquistas_feitas": 12,
+   "conquistas_total": 43,
+   "percentual": 27.9
+  },
+  {
+   "appid": 1259420,
+   "nome": "Days Gone",
+   "conquistas_feitas": 37,
+   "conquistas_total": 67,
+   "percentual": 55.2
+  },
+  {
+   "appid": 934700,
+   "nome": "Dead Island 2",
+   "conquistas_feitas": 29,
+   "conquistas_total": 59,
+   "percentual": 49.2
+  },
+  {
+   "appid": 1850570,
+   "nome": "DEATH STRANDING DIRECTOR'S CUT",
+   "conquistas_feitas": 50,
+   "conquistas_total": 63,
+   "percentual": 79.4
+  },
+  {
+   "appid": 1222140,
+   "nome": "Detroit: Become Human",
+   "conquistas_feitas": 5,
+   "conquistas_total": 48,
+   "percentual": 10.4
+  },
+  {
+   "appid": 3361470,
+   "nome": "Digseum",
+   "conquistas_feitas": 10,
+   "conquistas_total": 10,
+   "percentual": 100.0
+  },
+  {
+   "appid": 632470,
+   "nome": "Disco Elysium",
+   "conquistas_feitas": 0,
+   "conquistas_total": 45,
+   "percentual": 0.0
+  },
+  {
+   "appid": 782330,
+   "nome": "DOOM Eternal",
+   "conquistas_feitas": 33,
+   "conquistas_total": 50,
+   "percentual": 66.0
+  },
+  {
+   "appid": 1562430,
+   "nome": "DREDGE",
+   "conquistas_feitas": 31,
+   "conquistas_total": 60,
+   "percentual": 51.7
+  },
+  {
+   "appid": 1203620,
+   "nome": "Enshrouded",
+   "conquistas_feitas": 14,
+   "conquistas_total": 52,
+   "percentual": 26.9
+  },
+  {
+   "appid": 227300,
+   "nome": "Euro Truck Simulator 2",
+   "conquistas_feitas": 3,
+   "conquistas_total": 106,
+   "percentual": 2.8
+  },
+  {
+   "appid": 3829620,
+   "nome": "Execute",
+   "conquistas_feitas": 7,
+   "conquistas_total": 10,
+   "percentual": 70.0
+  },
+  {
+   "appid": 427520,
+   "nome": "Factorio",
+   "conquistas_feitas": 86,
+   "conquistas_total": 88,
+   "percentual": 97.7
+  },
+  {
+   "appid": 2207490,
+   "nome": "Factory Town Idle",
+   "conquistas_feitas": 18,
+   "conquistas_total": 74,
+   "percentual": 24.3
+  },
+  {
+   "appid": 377160,
+   "nome": "Fallout 4",
+   "conquistas_feitas": 2,
+   "conquistas_total": 84,
+   "percentual": 2.4
+  },
+  {
+   "appid": 2300320,
+   "nome": "Farming Simulator 25",
+   "conquistas_feitas": 8,
+   "conquistas_total": 45,
+   "percentual": 17.8
+  },
+  {
+   "appid": 224760,
+   "nome": "FEZ",
+   "conquistas_feitas": 1,
+   "conquistas_total": 12,
+   "percentual": 8.3
+  },
+  {
+   "appid": 3343160,
+   "nome": "Fill Up The Hole",
+   "conquistas_feitas": 39,
+   "conquistas_total": 39,
+   "percentual": 100.0
+  },
+  {
+   "appid": 2909400,
+   "nome": "FINAL FANTASY VII REBIRTH",
+   "conquistas_feitas": 9,
+   "conquistas_total": 61,
+   "percentual": 14.8
+  },
+  {
+   "appid": 2907010,
+   "nome": "FIND KITTENS: The last of cats",
+   "conquistas_feitas": 17,
+   "conquistas_total": 17,
+   "percentual": 100.0
+  },
+  {
+   "appid": 1149620,
+   "nome": "Gas Station Simulator",
+   "conquistas_feitas": 48,
+   "conquistas_total": 101,
+   "percentual": 47.5
+  },
+  {
+   "appid": 2231380,
+   "nome": "Ghost Recon Breakpoint",
+   "conquistas_feitas": 2,
+   "conquistas_total": 50,
+   "percentual": 4.0
+  },
+  {
+   "appid": 1593500,
+   "nome": "God of War",
+   "conquistas_feitas": 28,
+   "conquistas_total": 37,
+   "percentual": 75.7
+  },
+  {
+   "appid": 4358690,
+   "nome": "Graveyard Keeper 2",
+   "conquistas_feitas": 4,
+   "conquistas_total": 38,
+   "percentual": 10.5
+  },
+  {
+   "appid": 1145360,
+   "nome": "Hades",
+   "conquistas_feitas": 37,
+   "conquistas_total": 49,
+   "percentual": 75.5
+  },
+  {
+   "appid": 1620730,
+   "nome": "Hell is Us",
+   "conquistas_feitas": 10,
+   "conquistas_total": 40,
+   "percentual": 25.0
+  },
+  {
+   "appid": 435400,
+   "nome": "Hidden Folks",
+   "conquistas_feitas": 1,
+   "conquistas_total": 8,
+   "percentual": 12.5
+  },
+  {
+   "appid": 404680,
+   "nome": "Hob",
+   "conquistas_feitas": 21,
+   "conquistas_total": 37,
+   "percentual": 56.8
+  },
+  {
+   "appid": 990080,
+   "nome": "Hogwarts Legacy",
+   "conquistas_feitas": 1,
+   "conquistas_total": 45,
+   "percentual": 2.2
+  },
+  {
+   "appid": 1151640,
+   "nome": "Horizon Zero Dawn™ Complete Edition",
+   "conquistas_feitas": 66,
+   "conquistas_total": 79,
+   "percentual": 83.5
+  },
+  {
+   "appid": 307230,
+   "nome": "I, Zombie",
+   "conquistas_feitas": 3,
+   "conquistas_total": 13,
+   "percentual": 23.1
+  },
+  {
+   "appid": 1954200,
+   "nome": "Kena: Bridge of Spirits",
+   "conquistas_feitas": 34,
+   "conquistas_total": 41,
+   "percentual": 82.9
+  },
+  {
+   "appid": 379430,
+   "nome": "Kingdom Come: Deliverance",
+   "conquistas_feitas": 3,
+   "conquistas_total": 82,
+   "percentual": 3.7
+  },
+  {
+   "appid": 1796220,
+   "nome": "Laika: Aged Through Blood",
+   "conquistas_feitas": 2,
+   "conquistas_total": 42,
+   "percentual": 4.8
+  },
+  {
+   "appid": 1898290,
+   "nome": "LEGO® Bricktales",
+   "conquistas_feitas": 3,
+   "conquistas_total": 21,
+   "percentual": 14.3
+  },
+  {
+   "appid": 4197610,
+   "nome": "Librarian: Tidy Up the Arcane Library!",
+   "conquistas_feitas": 10,
+   "conquistas_total": 12,
+   "percentual": 83.3
+  },
+  {
+   "appid": 1644940,
+   "nome": "Loddlenaut",
+   "conquistas_feitas": 19,
+   "conquistas_total": 23,
+   "percentual": 82.6
+  },
+  {
+   "appid": 2905170,
+   "nome": "Magic Archery",
+   "conquistas_feitas": 7,
+   "conquistas_total": 7,
+   "percentual": 100.0
+  },
+  {
+   "appid": 1817190,
+   "nome": "Marvel's Spider-Man: Miles Morales",
+   "conquistas_feitas": 36,
+   "conquistas_total": 50,
+   "percentual": 72.0
+  },
+  {
+   "appid": 363440,
+   "nome": "Mega Man Legacy Collection",
+   "conquistas_feitas": 0,
+   "conquistas_total": 24,
+   "percentual": 0.0
+  },
+  {
+   "appid": 3405340,
+   "nome": "Megabonk",
+   "conquistas_feitas": 87,
+   "conquistas_total": 139,
+   "percentual": 62.6
+  },
+  {
+   "appid": 1267910,
+   "nome": "Melvor Idle",
+   "conquistas_feitas": 5,
+   "conquistas_total": 86,
+   "percentual": 5.8
+  },
+  {
+   "appid": 286690,
+   "nome": "Metro 2033 Redux",
+   "conquistas_feitas": 0,
+   "conquistas_total": 49,
+   "percentual": 0.0
+  },
+  {
+   "appid": 582010,
+   "nome": "Monster Hunter: World",
+   "conquistas_feitas": 13,
+   "conquistas_total": 100,
+   "percentual": 13.0
+  },
+  {
+   "appid": 3530670,
+   "nome": "Mosaic of The Pharaohs",
+   "conquistas_feitas": 99,
+   "conquistas_total": 99,
+   "percentual": 100.0
+  },
+  {
+   "appid": 1369670,
+   "nome": "Motor Town: Behind The Wheel",
+   "conquistas_feitas": 4,
+   "conquistas_total": 25,
+   "percentual": 16.0
+  },
+  {
+   "appid": 1196630,
+   "nome": "Nexomon: Extinction",
+   "conquistas_feitas": 3,
+   "conquistas_total": 56,
+   "percentual": 5.4
+  },
+  {
+   "appid": 1501610,
+   "nome": "Nova Lands",
+   "conquistas_feitas": 22,
+   "conquistas_total": 24,
+   "percentual": 91.7
+  },
+  {
+   "appid": 1662480,
+   "nome": "Nuclear Blaze",
+   "conquistas_feitas": 14,
+   "conquistas_total": 20,
+   "percentual": 70.0
+  },
+  {
+   "appid": 2237970,
+   "nome": "Outpath",
+   "conquistas_feitas": 58,
+   "conquistas_total": 89,
+   "percentual": 65.2
+  },
+  {
+   "appid": 457140,
+   "nome": "Oxygen Not Included",
+   "conquistas_feitas": 0,
+   "conquistas_total": 51,
+   "percentual": 0.0
+  },
+  {
+   "appid": 1458140,
+   "nome": "Pacific Drive",
+   "conquistas_feitas": 31,
+   "conquistas_total": 49,
+   "percentual": 63.3
+  },
+  {
+   "appid": 1623730,
+   "nome": "Palworld",
+   "conquistas_feitas": 11,
+   "conquistas_total": 75,
+   "percentual": 14.7
+  },
+  {
+   "appid": 3527290,
+   "nome": "PEAK",
+   "conquistas_feitas": 17,
+   "conquistas_total": 64,
+   "percentual": 26.6
+  },
+  {
+   "appid": 568320,
+   "nome": "Pictopix",
+   "conquistas_feitas": 10,
+   "conquistas_total": 34,
+   "percentual": 29.4
+  },
+  {
+   "appid": 1215320,
+   "nome": "Piczle Cross Adventure",
+   "conquistas_feitas": 24,
+   "conquistas_total": 24,
+   "percentual": 100.0
+  },
+  {
+   "appid": 1337760,
+   "nome": "Potion Permit",
+   "conquistas_feitas": 6,
+   "conquistas_total": 38,
+   "percentual": 15.8
+  },
+  {
+   "appid": 3083300,
+   "nome": "Proverbs",
+   "conquistas_feitas": 94,
+   "conquistas_total": 94,
+   "percentual": 100.0
+  },
+  {
+   "appid": 1478220,
+   "nome": "Puzzle Together",
+   "conquistas_feitas": 0,
+   "conquistas_total": 34,
+   "percentual": 0.0
+  },
+  {
+   "appid": 1282100,
+   "nome": "Remnant II",
+   "conquistas_feitas": 32,
+   "conquistas_total": 65,
+   "percentual": 49.2
+  },
+  {
+   "appid": 883710,
+   "nome": "Resident Evil 2",
+   "conquistas_feitas": 26,
+   "conquistas_total": 44,
+   "percentual": 59.1
+  },
+  {
+   "appid": 952060,
+   "nome": "Resident Evil 3",
+   "conquistas_feitas": 21,
+   "conquistas_total": 32,
+   "percentual": 65.6
+  },
+  {
+   "appid": 418370,
+   "nome": "Resident Evil 7 Biohazard",
+   "conquistas_feitas": 34,
+   "conquistas_total": 58,
+   "percentual": 58.6
+  },
+  {
+   "appid": 1196590,
+   "nome": "Resident Evil Village",
+   "conquistas_feitas": 26,
+   "conquistas_total": 56,
+   "percentual": 46.4
+  },
+  {
+   "appid": 2764460,
+   "nome": "Sandustry",
+   "conquistas_feitas": 15,
+   "conquistas_total": 16,
+   "percentual": 93.8
+  },
+  {
+   "appid": 526870,
+   "nome": "Satisfactory",
+   "conquistas_feitas": 37,
+   "conquistas_total": 44,
+   "percentual": 84.1
+  },
+  {
+   "appid": 814380,
+   "nome": "Sekiro™: Shadows Die Twice",
+   "conquistas_feitas": 6,
+   "conquistas_total": 34,
+   "percentual": 17.6
+  },
+  {
+   "appid": 2162800,
+   "nome": "shapez 2 - Factory",
+   "conquistas_feitas": 12,
+   "conquistas_total": 83,
+   "percentual": 14.5
+  },
+  {
+   "appid": 2138710,
+   "nome": "Sifu",
+   "conquistas_feitas": 5,
+   "conquistas_total": 61,
+   "percentual": 8.2
+  },
+  {
+   "appid": 1465360,
+   "nome": "SnowRunner",
+   "conquistas_feitas": 15,
+   "conquistas_total": 37,
+   "percentual": 40.5
+  },
+  {
+   "appid": 1419160,
+   "nome": "Souldiers",
+   "conquistas_feitas": 2,
+   "conquistas_total": 38,
+   "percentual": 5.3
+  },
+  {
+   "appid": 972660,
+   "nome": "Spiritfarer®: Farewell Edition",
+   "conquistas_feitas": 5,
+   "conquistas_total": 39,
+   "percentual": 12.8
+  },
+  {
+   "appid": 1948280,
+   "nome": "Stacklands",
+   "conquistas_feitas": 21,
+   "conquistas_total": 36,
+   "percentual": 58.3
+  },
+  {
+   "appid": 413150,
+   "nome": "Stardew Valley",
+   "conquistas_feitas": 14,
+   "conquistas_total": 49,
+   "percentual": 28.6
+  },
+  {
+   "appid": 495420,
+   "nome": "State of Decay 2",
+   "conquistas_feitas": 77,
+   "conquistas_total": 153,
+   "percentual": 50.3
+  },
+  {
+   "appid": 322190,
+   "nome": "SteamWorld Heist",
+   "conquistas_feitas": 3,
+   "conquistas_total": 47,
+   "percentual": 6.4
+  },
+  {
+   "appid": 1332010,
+   "nome": "Stray",
+   "conquistas_feitas": 13,
+   "conquistas_total": 24,
+   "percentual": 54.2
+  },
+  {
+   "appid": 2289750,
+   "nome": "Super Fantasy Kingdom",
+   "conquistas_feitas": 6,
+   "conquistas_total": 52,
+   "percentual": 11.5
+  },
+  {
+   "appid": 1488200,
+   "nome": "Symphony of War: The Nephilim Saga",
+   "conquistas_feitas": 0,
+   "conquistas_total": 19,
+   "percentual": 0.0
+  },
+  {
+   "appid": 105600,
+   "nome": "Terraria",
+   "conquistas_feitas": 2,
+   "conquistas_total": 137,
+   "percentual": 1.5
+  },
+  {
+   "appid": 242760,
+   "nome": "The Forest",
+   "conquistas_feitas": 3,
+   "conquistas_total": 45,
+   "percentual": 6.7
+  },
+  {
+   "appid": 990630,
+   "nome": "The Last Campfire",
+   "conquistas_feitas": 20,
+   "conquistas_total": 22,
+   "percentual": 90.9
+  },
+  {
+   "appid": 1703340,
+   "nome": "The Stanley Parable: Ultra Deluxe",
+   "conquistas_feitas": 4,
+   "conquistas_total": 11,
+   "percentual": 36.4
+  },
+  {
+   "appid": 257510,
+   "nome": "The Talos Principle",
+   "conquistas_feitas": 2,
+   "conquistas_total": 40,
+   "percentual": 5.0
+  },
+  {
+   "appid": 2088570,
+   "nome": "Tiny Rogues",
+   "conquistas_feitas": 43,
+   "conquistas_total": 86,
+   "percentual": 50.0
+  },
+  {
+   "appid": 1307580,
+   "nome": "TOEM",
+   "conquistas_feitas": 48,
+   "conquistas_total": 48,
+   "percentual": 100.0
+  },
+  {
+   "appid": 1066780,
+   "nome": "Transport Fever 2",
+   "conquistas_feitas": 2,
+   "conquistas_total": 61,
+   "percentual": 3.3
+  },
+  {
+   "appid": 2313250,
+   "nome": "Travellin Cats in Paris",
+   "conquistas_feitas": 98,
+   "conquistas_total": 101,
+   "percentual": 97.0
+  },
+  {
+   "appid": 1659420,
+   "nome": "UNCHARTED™: Legacy of Thieves Collection",
+   "conquistas_feitas": 22,
+   "conquistas_total": 101,
+   "percentual": 21.8
+  },
+  {
+   "appid": 1794680,
+   "nome": "Vampire Survivors",
+   "conquistas_feitas": 225,
+   "conquistas_total": 243,
+   "percentual": 92.6
+  },
+  {
+   "appid": 1158470,
+   "nome": "Voxelgram",
+   "conquistas_feitas": 30,
+   "conquistas_total": 37,
+   "percentual": 81.1
+  },
+  {
+   "appid": 2187290,
+   "nome": "Wall World",
+   "conquistas_feitas": 2,
+   "conquistas_total": 24,
+   "percentual": 8.3
+  },
+  {
+   "appid": 431960,
+   "nome": "Wallpaper Engine",
+   "conquistas_feitas": 4,
+   "conquistas_total": 17,
+   "percentual": 23.5
+  },
+  {
+   "appid": 2005010,
+   "nome": "Warhammer 40,000: Boltgun",
+   "conquistas_feitas": 5,
+   "conquistas_total": 21,
+   "percentual": 23.8
+  },
+  {
+   "appid": 2183900,
+   "nome": "Warhammer 40,000: Space Marine 2",
+   "conquistas_feitas": 25,
+   "conquistas_total": 50,
+   "percentual": 50.0
+  },
+  {
+   "appid": 1527950,
+   "nome": "Wartales",
+   "conquistas_feitas": 18,
+   "conquistas_total": 235,
+   "percentual": 7.7
+  },
+  {
+   "appid": 445980,
+   "nome": "Wizard of Legend",
+   "conquistas_feitas": 1,
+   "conquistas_total": 19,
+   "percentual": 5.3
+  },
+  {
+   "appid": 1235140,
+   "nome": "Yakuza: Like a Dragon",
+   "conquistas_feitas": 0,
+   "conquistas_total": 63,
+   "percentual": 0.0
+  }
+ ]
+}
