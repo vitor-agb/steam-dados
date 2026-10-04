@@ -1,0 +1,33 @@
+name: Atualizar dados da Steam
+
+on:
+  schedule:
+    - cron: "0 9 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Rodar script
+        env:
+          STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
+        run: python fetch_steam.py
+      - name: Commitar mudanças
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dados
+          if git diff --cached --quiet; then
+            echo "Sem mudanças"
+          else
+            git commit -m "Atualiza dados da Steam"
+            git push
+          fi
