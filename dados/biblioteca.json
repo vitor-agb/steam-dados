@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-10-04T11:31:38+00:00",
+ "atualizado_em": "2026-10-05T17:34:25+00:00",
  "total": 246,
  "dados": [
   {
@@ -125,7 +125,7 @@
    "appid": 284160,
    "nome": "BeamNG.drive",
    "horas": 51.0,
-   "horas_ultimas_2_semanas": 1.3,
+   "horas_ultimas_2_semanas": 0.6,
    "ultima_vez_jogado": "2026-10-02"
   },
   {
@@ -258,7 +258,7 @@
    "appid": 3321460,
    "nome": "Crimson Desert Enhanced",
    "horas": 40.4,
-   "horas_ultimas_2_semanas": 10.1,
+   "horas_ultimas_2_semanas": 7.2,
    "ultima_vez_jogado": "2026-09-29"
   },
   {
@@ -1244,9 +1244,9 @@
   {
    "appid": 814380,
    "nome": "Sekiro™: Shadows Die Twice",
-   "horas": 6.2,
-   "horas_ultimas_2_semanas": 2.4,
-   "ultima_vez_jogado": "2026-10-03"
+   "horas": 7.2,
+   "horas_ultimas_2_semanas": 3.4,
+   "ultima_vez_jogado": "2026-10-04"
   },
   {
    "appid": 635850,
@@ -1279,9 +1279,9 @@
   {
    "appid": 2138710,
    "nome": "Sifu",
-   "horas": 0.8,
-   "horas_ultimas_2_semanas": 0.8,
-   "ultima_vez_jogado": "2026-10-03"
+   "horas": 2.1,
+   "horas_ultimas_2_semanas": 2.1,
+   "ultima_vez_jogado": "2026-10-05"
   },
   {
    "appid": 1144770,
@@ -1636,8 +1636,8 @@
   {
    "appid": 2005010,
    "nome": "Warhammer 40,000: Boltgun",
-   "horas": 3.6,
-   "horas_ultimas_2_semanas": 3.6,
+   "horas": 4.3,
+   "horas_ultimas_2_semanas": 4.3,
    "ultima_vez_jogado": "2026-10-04"
   },
   {
@@ -1671,8 +1671,8 @@
   {
    "appid": 1527950,
    "nome": "Wartales",
-   "horas": 53.5,
-   "horas_ultimas_2_semanas": 14.5,
+   "horas": 54.2,
+   "horas_ultimas_2_semanas": 11.9,
    "ultima_vez_jogado": "2026-10-04"
   },
   {

@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-10-04T11:31:57+00:00",
+ "atualizado_em": "2026-10-05T17:34:45+00:00",
  "total": 789,
  "dados": [
   {
@@ -1213,8 +1213,8 @@
   {
    "appid": 1353230,
    "nome": "Bomb Rush Cyberfunk",
-   "preco": "R$107,99",
-   "desconto_percentual": null,
+   "preco": "R$53,99",
+   "desconto_percentual": 50,
    "prioridade": 0,
    "adicionado_em": "2023-06-22"
   },
@@ -5949,8 +5949,8 @@
   {
    "appid": 3838740,
    "nome": "Lost Letter",
-   "preco": "R$10,00",
-   "desconto_percentual": null,
+   "preco": "R$5,00",
+   "desconto_percentual": 50,
    "prioridade": 0,
    "adicionado_em": "2025-10-08"
   },
