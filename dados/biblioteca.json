@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-10-05T17:34:25+00:00",
- "total": 246,
+ "atualizado_em": "2026-10-06T15:32:57+00:00",
+ "total": 248,
  "dados": [
   {
    "appid": 1473350,
@@ -125,7 +125,7 @@
    "appid": 284160,
    "nome": "BeamNG.drive",
    "horas": 51.0,
-   "horas_ultimas_2_semanas": 0.6,
+   "horas_ultimas_2_semanas": 0.1,
    "ultima_vez_jogado": "2026-10-02"
   },
   {
@@ -258,7 +258,7 @@
    "appid": 3321460,
    "nome": "Crimson Desert Enhanced",
    "horas": 40.4,
-   "horas_ultimas_2_semanas": 7.2,
+   "horas_ultimas_2_semanas": 5.7,
    "ultima_vez_jogado": "2026-09-29"
   },
   {
@@ -1294,7 +1294,7 @@
    "appid": 1465360,
    "nome": "SnowRunner",
    "horas": 24.1,
-   "horas_ultimas_2_semanas": 2.5,
+   "horas_ultimas_2_semanas": 2.2,
    "ultima_vez_jogado": "2026-09-28"
   },
   {
@@ -1636,13 +1636,27 @@
   {
    "appid": 2005010,
    "nome": "Warhammer 40,000: Boltgun",
-   "horas": 4.3,
-   "horas_ultimas_2_semanas": 4.3,
-   "ultima_vez_jogado": "2026-10-04"
+   "horas": 4.5,
+   "horas_ultimas_2_semanas": 4.5,
+   "ultima_vez_jogado": "2026-10-05"
   },
   {
    "appid": 489630,
    "nome": "Warhammer 40,000: Gladius - Relics of War",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 527430,
+   "nome": "Warhammer 40,000: Inquisitor - Martyr",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": "2026-10-06"
+  },
+  {
+   "appid": 1042800,
+   "nome": "Warhammer 40,000: Inquisitor - Prophecy",
    "horas": 0.0,
    "horas_ultimas_2_semanas": 0.0,
    "ultima_vez_jogado": null
@@ -1672,7 +1686,7 @@
    "appid": 1527950,
    "nome": "Wartales",
    "horas": 54.2,
-   "horas_ultimas_2_semanas": 11.9,
+   "horas_ultimas_2_semanas": 7.9,
    "ultima_vez_jogado": "2026-10-04"
   },
   {
