@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-10-06T15:32:57+00:00",
+ "atualizado_em": "2026-10-07T15:54:12+00:00",
  "total": 248,
  "dados": [
   {
@@ -258,7 +258,7 @@
    "appid": 3321460,
    "nome": "Crimson Desert Enhanced",
    "horas": 40.4,
-   "horas_ultimas_2_semanas": 5.7,
+   "horas_ultimas_2_semanas": 4.2,
    "ultima_vez_jogado": "2026-09-29"
   },
   {
@@ -636,7 +636,7 @@
    "appid": 4358690,
    "nome": "Graveyard Keeper 2",
    "horas": 10.8,
-   "horas_ultimas_2_semanas": 10.8,
+   "horas_ultimas_2_semanas": 9.0,
    "ultima_vez_jogado": "2026-10-02"
   },
   {
@@ -1294,7 +1294,7 @@
    "appid": 1465360,
    "nome": "SnowRunner",
    "horas": 24.1,
-   "horas_ultimas_2_semanas": 2.2,
+   "horas_ultimas_2_semanas": 0.2,
    "ultima_vez_jogado": "2026-09-28"
   },
   {
@@ -1636,9 +1636,9 @@
   {
    "appid": 2005010,
    "nome": "Warhammer 40,000: Boltgun",
-   "horas": 4.5,
-   "horas_ultimas_2_semanas": 4.5,
-   "ultima_vez_jogado": "2026-10-05"
+   "horas": 5.0,
+   "horas_ultimas_2_semanas": 5.0,
+   "ultima_vez_jogado": "2026-10-07"
   },
   {
    "appid": 489630,
@@ -1650,8 +1650,8 @@
   {
    "appid": 527430,
    "nome": "Warhammer 40,000: Inquisitor - Martyr",
-   "horas": 0.0,
-   "horas_ultimas_2_semanas": 0.0,
+   "horas": 0.6,
+   "horas_ultimas_2_semanas": 0.6,
    "ultima_vez_jogado": "2026-10-06"
   },
   {

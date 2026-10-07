@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-10-06T15:33:19+00:00",
+ "atualizado_em": "2026-10-07T15:54:33+00:00",
  "total": 789,
  "dados": [
   {
@@ -1341,8 +1341,8 @@
   {
    "appid": 1374860,
    "nome": "Nocturne",
-   "preco": "R$53,99",
-   "desconto_percentual": 10,
+   "preco": "R$59,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2026-09-22"
   },
@@ -5853,8 +5853,8 @@
   {
    "appid": 3699590,
    "nome": "Well Dweller",
-   "preco": "R$42,91",
-   "desconto_percentual": 15,
+   "preco": "R$50,49",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2026-09-23"
   },
