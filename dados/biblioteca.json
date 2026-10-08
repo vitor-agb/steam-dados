@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-10-07T15:54:12+00:00",
- "total": 248,
+ "atualizado_em": "2026-10-08T15:57:04+00:00",
+ "total": 246,
  "dados": [
   {
    "appid": 1473350,
@@ -1636,27 +1636,13 @@
   {
    "appid": 2005010,
    "nome": "Warhammer 40,000: Boltgun",
-   "horas": 5.0,
-   "horas_ultimas_2_semanas": 5.0,
-   "ultima_vez_jogado": "2026-10-07"
+   "horas": 6.1,
+   "horas_ultimas_2_semanas": 6.1,
+   "ultima_vez_jogado": "2026-10-08"
   },
   {
    "appid": 489630,
    "nome": "Warhammer 40,000: Gladius - Relics of War",
-   "horas": 0.0,
-   "horas_ultimas_2_semanas": 0.0,
-   "ultima_vez_jogado": null
-  },
-  {
-   "appid": 527430,
-   "nome": "Warhammer 40,000: Inquisitor - Martyr",
-   "horas": 0.6,
-   "horas_ultimas_2_semanas": 0.6,
-   "ultima_vez_jogado": "2026-10-06"
-  },
-  {
-   "appid": 1042800,
-   "nome": "Warhammer 40,000: Inquisitor - Prophecy",
    "horas": 0.0,
    "horas_ultimas_2_semanas": 0.0,
    "ultima_vez_jogado": null

@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-10-07T15:55:18+00:00",
- "total": 119,
+ "atualizado_em": "2026-10-08T15:58:29+00:00",
+ "total": 118,
  "dados": [
   {
    "appid": 1473350,
@@ -796,16 +796,9 @@
   {
    "appid": 2005010,
    "nome": "Warhammer 40,000: Boltgun",
-   "conquistas_feitas": 5,
+   "conquistas_feitas": 7,
    "conquistas_total": 21,
-   "percentual": 23.8
-  },
-  {
-   "appid": 527430,
-   "nome": "Warhammer 40,000: Inquisitor - Martyr",
-   "conquistas_feitas": 2,
-   "conquistas_total": 95,
-   "percentual": 2.1
+   "percentual": 33.3
   },
   {
    "appid": 2183900,
