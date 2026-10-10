@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-10-09T15:39:32+00:00",
- "total": 246,
+ "atualizado_em": "2026-10-10T14:54:23+00:00",
+ "total": 248,
  "dados": [
   {
    "appid": 1473350,
@@ -636,7 +636,7 @@
    "appid": 4358690,
    "nome": "Graveyard Keeper 2",
    "horas": 10.8,
-   "horas_ultimas_2_semanas": 9.0,
+   "horas_ultimas_2_semanas": 8.0,
    "ultima_vez_jogado": "2026-10-02"
   },
   {
@@ -1244,9 +1244,9 @@
   {
    "appid": 814380,
    "nome": "Sekiro™: Shadows Die Twice",
-   "horas": 7.2,
-   "horas_ultimas_2_semanas": 3.4,
-   "ultima_vez_jogado": "2026-10-04"
+   "horas": 8.0,
+   "horas_ultimas_2_semanas": 4.2,
+   "ultima_vez_jogado": "2026-10-10"
   },
   {
    "appid": 635850,
@@ -1543,6 +1543,13 @@
    "ultima_vez_jogado": null
   },
   {
+   "appid": 973760,
+   "nome": "Thronebreaker: The Witcher Tales",
+   "horas": 1.1,
+   "horas_ultimas_2_semanas": 1.1,
+   "ultima_vez_jogado": "2026-10-10"
+  },
+  {
    "appid": 2088570,
    "nome": "Tiny Rogues",
    "horas": 51.5,
@@ -1562,6 +1569,13 @@
    "horas": 7.1,
    "horas_ultimas_2_semanas": 0.0,
    "ultima_vez_jogado": "2024-02-24"
+  },
+  {
+   "appid": 1142710,
+   "nome": "Total War: WARHAMMER III",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
   },
   {
    "appid": 1066780,
@@ -1629,16 +1643,16 @@
   {
    "appid": 431960,
    "nome": "Wallpaper Engine",
-   "horas": 12.8,
-   "horas_ultimas_2_semanas": 0.0,
-   "ultima_vez_jogado": "2026-06-26"
+   "horas": 12.9,
+   "horas_ultimas_2_semanas": 0.1,
+   "ultima_vez_jogado": "2026-10-10"
   },
   {
    "appid": 2005010,
    "nome": "Warhammer 40,000: Boltgun",
-   "horas": 6.6,
-   "horas_ultimas_2_semanas": 6.6,
-   "ultima_vez_jogado": "2026-10-09"
+   "horas": 7.8,
+   "horas_ultimas_2_semanas": 7.8,
+   "ultima_vez_jogado": "2026-10-10"
   },
   {
    "appid": 489630,
@@ -1671,9 +1685,9 @@
   {
    "appid": 1527950,
    "nome": "Wartales",
-   "horas": 54.2,
-   "horas_ultimas_2_semanas": 7.9,
-   "ultima_vez_jogado": "2026-10-04"
+   "horas": 57.6,
+   "horas_ultimas_2_semanas": 9.3,
+   "ultima_vez_jogado": "2026-10-10"
   },
   {
    "appid": 373600,

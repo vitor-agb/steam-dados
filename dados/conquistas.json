@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-10-09T15:40:44+00:00",
- "total": 118,
+ "atualizado_em": "2026-10-10T14:55:18+00:00",
+ "total": 119,
  "dados": [
   {
    "appid": 1473350,
@@ -489,8 +489,8 @@
    "appid": 2237970,
    "nome": "Outpath",
    "conquistas_feitas": 58,
-   "conquistas_total": 89,
-   "percentual": 65.2
+   "conquistas_total": 88,
+   "percentual": 65.9
   },
   {
    "appid": 457140,
@@ -731,6 +731,13 @@
    "percentual": 5.0
   },
   {
+   "appid": 973760,
+   "nome": "Thronebreaker: The Witcher Tales",
+   "conquistas_feitas": 0,
+   "conquistas_total": 39,
+   "percentual": 0.0
+  },
+  {
    "appid": 2088570,
    "nome": "Tiny Rogues",
    "conquistas_feitas": 43,
@@ -810,9 +817,9 @@
   {
    "appid": 1527950,
    "nome": "Wartales",
-   "conquistas_feitas": 18,
+   "conquistas_feitas": 20,
    "conquistas_total": 235,
-   "percentual": 7.7
+   "percentual": 8.5
   },
   {
    "appid": 445980,

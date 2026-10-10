@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-10-09T15:39:53+00:00",
- "total": 790,
+ "atualizado_em": "2026-10-10T14:54:42+00:00",
+ "total": 791,
  "dados": [
   {
    "appid": 12210,
@@ -589,8 +589,8 @@
   {
    "appid": 1049410,
    "nome": "Superliminal",
-   "preco": "R$59,99",
-   "desconto_percentual": null,
+   "preco": "R$23,99",
+   "desconto_percentual": 60,
    "prioridade": 0,
    "adicionado_em": "2023-06-27"
   },
@@ -2173,8 +2173,8 @@
   {
    "appid": 1731070,
    "nome": "Asterigos: Curse of the Stars",
-   "preco": "R$119,00",
-   "desconto_percentual": null,
+   "preco": "R$106,59",
+   "desconto_percentual": 20,
    "prioridade": 0,
    "adicionado_em": "2025-01-12"
   },
@@ -3597,8 +3597,8 @@
   {
    "appid": 2300120,
    "nome": "Painkiller",
-   "preco": "R$159,90",
-   "desconto_percentual": null,
+   "preco": "R$31,98",
+   "desconto_percentual": 80,
    "prioridade": 0,
    "adicionado_em": "2025-11-06"
   },
@@ -4125,8 +4125,8 @@
   {
    "appid": 2487300,
    "nome": "Docked",
-   "preco": "R$99,90",
-   "desconto_percentual": null,
+   "preco": "R$65,93",
+   "desconto_percentual": 34,
    "prioridade": 0,
    "adicionado_em": "2025-08-31"
   },
@@ -4237,8 +4237,8 @@
   {
    "appid": 2545360,
    "nome": "Lonely Mountains: Snow Riders",
-   "preco": "R$74,99",
-   "desconto_percentual": null,
+   "preco": "R$44,99",
+   "desconto_percentual": 40,
    "prioridade": 0,
    "adicionado_em": "2025-02-13"
   },
@@ -4357,8 +4357,8 @@
   {
    "appid": 2619650,
    "nome": "Cauldron",
-   "preco": "R$39,99",
-   "desconto_percentual": null,
+   "preco": "R$19,99",
+   "desconto_percentual": 50,
    "prioridade": 0,
    "adicionado_em": "2025-06-03"
   },
@@ -4685,8 +4685,8 @@
   {
    "appid": 2757670,
    "nome": "NODE",
-   "preco": "R$83,99",
-   "desconto_percentual": null,
+   "preco": "R$50,39",
+   "desconto_percentual": 40,
    "prioridade": 0,
    "adicionado_em": "2024-06-08"
   },
@@ -5037,8 +5037,8 @@
   {
    "appid": 2958970,
    "nome": "The Thing: Remastered",
-   "preco": "R$88,99",
-   "desconto_percentual": null,
+   "preco": "R$48,94",
+   "desconto_percentual": 45,
    "prioridade": 0,
    "adicionado_em": "2024-06-09"
   },
@@ -5197,8 +5197,8 @@
   {
    "appid": 3090810,
    "nome": "Truckful",
-   "preco": null,
-   "desconto_percentual": null,
+   "preco": "R$48,59",
+   "desconto_percentual": 10,
    "prioridade": 0,
    "adicionado_em": "2026-02-07"
   },
@@ -6318,6 +6318,14 @@
    "appid": 5246570,
    "nome": "DAVE THE DIVER - Subnautica 2 Content Pack",
    "preco": null,
+   "desconto_percentual": null,
+   "prioridade": 0,
+   "adicionado_em": "2026-10-09"
+  },
+  {
+   "appid": 606880,
+   "nome": "GreedFall",
+   "preco": "R$119,90",
    "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2026-10-09"
