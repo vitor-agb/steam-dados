@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-10-10T14:54:23+00:00",
+ "atualizado_em": "2026-10-11T15:11:23+00:00",
  "total": 248,
  "dados": [
   {
@@ -258,7 +258,7 @@
    "appid": 3321460,
    "nome": "Crimson Desert Enhanced",
    "horas": 40.4,
-   "horas_ultimas_2_semanas": 4.2,
+   "horas_ultimas_2_semanas": 3.7,
    "ultima_vez_jogado": "2026-09-29"
   },
   {
@@ -1279,9 +1279,9 @@
   {
    "appid": 2138710,
    "nome": "Sifu",
-   "horas": 2.1,
-   "horas_ultimas_2_semanas": 2.1,
-   "ultima_vez_jogado": "2026-10-05"
+   "horas": 3.4,
+   "horas_ultimas_2_semanas": 3.4,
+   "ultima_vez_jogado": "2026-10-11"
   },
   {
    "appid": 1144770,
@@ -1412,9 +1412,9 @@
   {
    "appid": 1488200,
    "nome": "Symphony of War: The Nephilim Saga",
-   "horas": 0.9,
-   "horas_ultimas_2_semanas": 0.0,
-   "ultima_vez_jogado": "2025-02-15"
+   "horas": 2.4,
+   "horas_ultimas_2_semanas": 1.4,
+   "ultima_vez_jogado": "2026-10-10"
   },
   {
    "appid": 482400,
@@ -1545,9 +1545,9 @@
   {
    "appid": 973760,
    "nome": "Thronebreaker: The Witcher Tales",
-   "horas": 1.1,
-   "horas_ultimas_2_semanas": 1.1,
-   "ultima_vez_jogado": "2026-10-10"
+   "horas": 1.8,
+   "horas_ultimas_2_semanas": 1.8,
+   "ultima_vez_jogado": "2026-10-11"
   },
   {
    "appid": 2088570,
@@ -1573,9 +1573,9 @@
   {
    "appid": 1142710,
    "nome": "Total War: WARHAMMER III",
-   "horas": 0.0,
-   "horas_ultimas_2_semanas": 0.0,
-   "ultima_vez_jogado": null
+   "horas": 1.6,
+   "horas_ultimas_2_semanas": 1.6,
+   "ultima_vez_jogado": "2026-10-11"
   },
   {
    "appid": 1066780,
@@ -1650,9 +1650,9 @@
   {
    "appid": 2005010,
    "nome": "Warhammer 40,000: Boltgun",
-   "horas": 7.8,
-   "horas_ultimas_2_semanas": 7.8,
-   "ultima_vez_jogado": "2026-10-10"
+   "horas": 9.4,
+   "horas_ultimas_2_semanas": 9.4,
+   "ultima_vez_jogado": "2026-10-11"
   },
   {
    "appid": 489630,
@@ -1685,8 +1685,8 @@
   {
    "appid": 1527950,
    "nome": "Wartales",
-   "horas": 57.6,
-   "horas_ultimas_2_semanas": 9.3,
+   "horas": 58.1,
+   "horas_ultimas_2_semanas": 7.4,
    "ultima_vez_jogado": "2026-10-10"
   },
   {
