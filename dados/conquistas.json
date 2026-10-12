@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-10-11T15:12:32+00:00",
- "total": 120,
+ "atualizado_em": "2026-10-12T18:23:09+00:00",
+ "total": 119,
  "dados": [
   {
    "appid": 1473350,
@@ -752,13 +752,6 @@
    "percentual": 100.0
   },
   {
-   "appid": 1142710,
-   "nome": "Total War: WARHAMMER III",
-   "conquistas_feitas": 1,
-   "conquistas_total": 138,
-   "percentual": 0.7
-  },
-  {
    "appid": 1066780,
    "nome": "Transport Fever 2",
    "conquistas_feitas": 2,
@@ -810,9 +803,9 @@
   {
    "appid": 2005010,
    "nome": "Warhammer 40,000: Boltgun",
-   "conquistas_feitas": 9,
+   "conquistas_feitas": 16,
    "conquistas_total": 21,
-   "percentual": 42.9
+   "percentual": 76.2
   },
   {
    "appid": 2183900,

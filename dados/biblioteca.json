@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-10-11T15:11:23+00:00",
- "total": 248,
+ "atualizado_em": "2026-10-12T18:21:08+00:00",
+ "total": 246,
  "dados": [
   {
    "appid": 1473350,
@@ -258,7 +258,7 @@
    "appid": 3321460,
    "nome": "Crimson Desert Enhanced",
    "horas": 40.4,
-   "horas_ultimas_2_semanas": 3.7,
+   "horas_ultimas_2_semanas": 2.8,
    "ultima_vez_jogado": "2026-09-29"
   },
   {
@@ -1294,7 +1294,7 @@
    "appid": 1465360,
    "nome": "SnowRunner",
    "horas": 24.1,
-   "horas_ultimas_2_semanas": 0.2,
+   "horas_ultimas_2_semanas": 0.0,
    "ultima_vez_jogado": "2026-09-28"
   },
   {
@@ -1571,13 +1571,6 @@
    "ultima_vez_jogado": "2024-02-24"
   },
   {
-   "appid": 1142710,
-   "nome": "Total War: WARHAMMER III",
-   "horas": 1.6,
-   "horas_ultimas_2_semanas": 1.6,
-   "ultima_vez_jogado": "2026-10-11"
-  },
-  {
    "appid": 1066780,
    "nome": "Transport Fever 2",
    "horas": 2.2,
@@ -1650,20 +1643,13 @@
   {
    "appid": 2005010,
    "nome": "Warhammer 40,000: Boltgun",
-   "horas": 9.4,
-   "horas_ultimas_2_semanas": 9.4,
-   "ultima_vez_jogado": "2026-10-11"
+   "horas": 17.6,
+   "horas_ultimas_2_semanas": 17.6,
+   "ultima_vez_jogado": "2026-10-12"
   },
   {
    "appid": 489630,
    "nome": "Warhammer 40,000: Gladius - Relics of War",
-   "horas": 0.0,
-   "horas_ultimas_2_semanas": 0.0,
-   "ultima_vez_jogado": null
-  },
-  {
-   "appid": 673880,
-   "nome": "Warhammer 40,000: Mechanicus",
    "horas": 0.0,
    "horas_ultimas_2_semanas": 0.0,
    "ultima_vez_jogado": null
@@ -1686,7 +1672,7 @@
    "appid": 1527950,
    "nome": "Wartales",
    "horas": 58.1,
-   "horas_ultimas_2_semanas": 7.4,
+   "horas_ultimas_2_semanas": 6.6,
    "ultima_vez_jogado": "2026-10-10"
   },
   {
