@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-10-12T18:23:09+00:00",
- "total": 119,
+ "atualizado_em": "2026-10-13T16:36:13+00:00",
+ "total": 121,
  "dados": [
   {
    "appid": 1473350,
@@ -209,8 +209,8 @@
    "appid": 1203620,
    "nome": "Enshrouded",
    "conquistas_feitas": 14,
-   "conquistas_total": 52,
-   "percentual": 26.9
+   "conquistas_total": 58,
+   "percentual": 24.1
   },
   {
    "appid": 227300,
@@ -358,6 +358,13 @@
    "conquistas_feitas": 3,
    "conquistas_total": 13,
    "percentual": 23.1
+  },
+  {
+   "appid": 1084160,
+   "nome": "Jagged Alliance 3",
+   "conquistas_feitas": 1,
+   "conquistas_total": 50,
+   "percentual": 2.0
   },
   {
    "appid": 1954200,
@@ -771,6 +778,13 @@
    "conquistas_feitas": 22,
    "conquistas_total": 101,
    "percentual": 21.8
+  },
+  {
+   "appid": 1604030,
+   "nome": "V Rising",
+   "conquistas_feitas": 4,
+   "conquistas_total": 49,
+   "percentual": 8.2
   },
   {
    "appid": 1794680,

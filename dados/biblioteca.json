@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-10-12T18:21:08+00:00",
+ "atualizado_em": "2026-10-13T16:35:02+00:00",
  "total": 246,
  "dados": [
   {
@@ -636,7 +636,7 @@
    "appid": 4358690,
    "nome": "Graveyard Keeper 2",
    "horas": 10.8,
-   "horas_ultimas_2_semanas": 8.0,
+   "horas_ultimas_2_semanas": 4.2,
    "ultima_vez_jogado": "2026-10-02"
   },
   {
@@ -789,9 +789,9 @@
   {
    "appid": 1084160,
    "nome": "Jagged Alliance 3",
-   "horas": 0.0,
-   "horas_ultimas_2_semanas": 0.0,
-   "ultima_vez_jogado": null
+   "horas": 0.8,
+   "horas_ultimas_2_semanas": 0.8,
+   "ultima_vez_jogado": "2026-10-12"
   },
   {
    "appid": 283270,
@@ -1608,9 +1608,9 @@
   {
    "appid": 1604030,
    "nome": "V Rising",
-   "horas": 0.0,
-   "horas_ultimas_2_semanas": 0.0,
-   "ultima_vez_jogado": null
+   "horas": 1.8,
+   "horas_ultimas_2_semanas": 1.8,
+   "ultima_vez_jogado": "2026-10-13"
   },
   {
    "appid": 1794680,
@@ -1643,8 +1643,8 @@
   {
    "appid": 2005010,
    "nome": "Warhammer 40,000: Boltgun",
-   "horas": 17.6,
-   "horas_ultimas_2_semanas": 17.6,
+   "horas": 18.0,
+   "horas_ultimas_2_semanas": 18.0,
    "ultima_vez_jogado": "2026-10-12"
   },
   {
@@ -1672,7 +1672,7 @@
    "appid": 1527950,
    "nome": "Wartales",
    "horas": 58.1,
-   "horas_ultimas_2_semanas": 6.6,
+   "horas_ultimas_2_semanas": 5.7,
    "ultima_vez_jogado": "2026-10-10"
   },
   {
