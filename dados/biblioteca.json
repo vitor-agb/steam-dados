@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-10-13T16:35:02+00:00",
+ "atualizado_em": "2026-10-14T14:10:19+00:00",
  "total": 246,
  "dados": [
   {
@@ -258,7 +258,7 @@
    "appid": 3321460,
    "nome": "Crimson Desert Enhanced",
    "horas": 40.4,
-   "horas_ultimas_2_semanas": 2.8,
+   "horas_ultimas_2_semanas": 0.0,
    "ultima_vez_jogado": "2026-09-29"
   },
   {
@@ -636,7 +636,7 @@
    "appid": 4358690,
    "nome": "Graveyard Keeper 2",
    "horas": 10.8,
-   "horas_ultimas_2_semanas": 4.2,
+   "horas_ultimas_2_semanas": 0.7,
    "ultima_vez_jogado": "2026-10-02"
   },
   {
@@ -1608,9 +1608,9 @@
   {
    "appid": 1604030,
    "nome": "V Rising",
-   "horas": 1.8,
-   "horas_ultimas_2_semanas": 1.8,
-   "ultima_vez_jogado": "2026-10-13"
+   "horas": 2.8,
+   "horas_ultimas_2_semanas": 2.8,
+   "ultima_vez_jogado": "2026-10-14"
   },
   {
    "appid": 1794680,
@@ -1643,9 +1643,9 @@
   {
    "appid": 2005010,
    "nome": "Warhammer 40,000: Boltgun",
-   "horas": 18.0,
-   "horas_ultimas_2_semanas": 18.0,
-   "ultima_vez_jogado": "2026-10-12"
+   "horas": 18.6,
+   "horas_ultimas_2_semanas": 18.6,
+   "ultima_vez_jogado": "2026-10-14"
   },
   {
    "appid": 489630,
@@ -1673,7 +1673,7 @@
    "nome": "Wartales",
    "horas": 58.1,
    "horas_ultimas_2_semanas": 5.7,
-   "ultima_vez_jogado": "2026-10-10"
+   "ultima_vez_jogado": "2026-10-14"
   },
   {
    "appid": 373600,

@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-10-13T16:36:13+00:00",
+ "atualizado_em": "2026-10-14T14:11:29+00:00",
  "total": 121,
  "dados": [
   {
@@ -216,8 +216,8 @@
    "appid": 227300,
    "nome": "Euro Truck Simulator 2",
    "conquistas_feitas": 3,
-   "conquistas_total": 106,
-   "percentual": 2.8
+   "conquistas_total": 114,
+   "percentual": 2.6
   },
   {
    "appid": 3829620,
@@ -782,9 +782,9 @@
   {
    "appid": 1604030,
    "nome": "V Rising",
-   "conquistas_feitas": 4,
+   "conquistas_feitas": 6,
    "conquistas_total": 49,
-   "percentual": 8.2
+   "percentual": 12.2
   },
   {
    "appid": 1794680,
@@ -817,9 +817,9 @@
   {
    "appid": 2005010,
    "nome": "Warhammer 40,000: Boltgun",
-   "conquistas_feitas": 16,
+   "conquistas_feitas": 21,
    "conquistas_total": 21,
-   "percentual": 76.2
+   "percentual": 100.0
   },
   {
    "appid": 2183900,
