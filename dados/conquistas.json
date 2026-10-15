@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-10-14T14:11:29+00:00",
- "total": 121,
+ "atualizado_em": "2026-10-15T13:48:38+00:00",
+ "total": 122,
  "dados": [
   {
    "appid": 1473350,
@@ -757,6 +757,13 @@
    "conquistas_feitas": 48,
    "conquistas_total": 48,
    "percentual": 100.0
+  },
+  {
+   "appid": 1142710,
+   "nome": "Total War: WARHAMMER III",
+   "conquistas_feitas": 1,
+   "conquistas_total": 138,
+   "percentual": 0.7
   },
   {
    "appid": 1066780,

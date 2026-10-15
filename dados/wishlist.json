@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-10-14T14:10:39+00:00",
+ "atualizado_em": "2026-10-15T13:47:48+00:00",
  "total": 791,
  "dados": [
   {
@@ -245,8 +245,8 @@
   {
    "appid": 606880,
    "nome": "GreedFall",
-   "preco": "R$119,90",
-   "desconto_percentual": null,
+   "preco": "R$11,99",
+   "desconto_percentual": 90,
    "prioridade": 0,
    "adicionado_em": "2026-10-09"
   },
@@ -805,7 +805,7 @@
   {
    "appid": 1172710,
    "nome": "Dune: Awakening",
-   "preco": "R$179,00",
+   "preco": "R$161,10",
    "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-08-20"
@@ -1013,8 +1013,8 @@
   {
    "appid": 1284190,
    "nome": "The Planet Crafter",
-   "preco": "R$66,59",
-   "desconto_percentual": null,
+   "preco": "R$39,95",
+   "desconto_percentual": 40,
    "prioridade": 0,
    "adicionado_em": "2025-07-08"
   },
@@ -1621,32 +1621,32 @@
   {
    "appid": 1532200,
    "nome": "Mars First Logistics",
-   "preco": "R$59,99",
-   "desconto_percentual": null,
+   "preco": "R$29,99",
+   "desconto_percentual": 50,
    "prioridade": 0,
    "adicionado_em": "2023-07-03"
   },
   {
    "appid": 1533001,
    "nome": "SnowRunner - Navistar 5000-MV Tractor",
-   "preco": "R$6,90",
-   "desconto_percentual": null,
+   "preco": "R$5,52",
+   "desconto_percentual": 20,
    "prioridade": 0,
    "adicionado_em": "2026-09-01"
   },
   {
    "appid": 1533010,
    "nome": "SnowRunner - Western Star 49X",
-   "preco": "R$14,90",
-   "desconto_percentual": null,
+   "preco": "R$11,92",
+   "desconto_percentual": 20,
    "prioridade": 0,
    "adicionado_em": "2026-09-01"
   },
   {
    "appid": 1533011,
    "nome": "SnowRunner - Clasico Pack",
-   "preco": "R$14,90",
-   "desconto_percentual": null,
+   "preco": "R$11,92",
+   "desconto_percentual": 20,
    "prioridade": 0,
    "adicionado_em": "2026-09-01"
   },
@@ -1741,48 +1741,48 @@
   {
    "appid": 1585811,
    "nome": "SnowRunner - TATRA Dual Pack",
-   "preco": "R$20,90",
-   "desconto_percentual": null,
+   "preco": "R$16,72",
+   "desconto_percentual": 20,
    "prioridade": 0,
    "adicionado_em": "2026-09-01"
   },
   {
    "appid": 1585812,
    "nome": "SnowRunner - Season 5: Build & Dispatch",
-   "preco": "R$24,90",
-   "desconto_percentual": null,
+   "preco": "R$16,18",
+   "desconto_percentual": 35,
    "prioridade": 0,
    "adicionado_em": "2026-09-01"
   },
   {
    "appid": 1585813,
    "nome": "SnowRunner - Season 6: Haul & Hustle",
-   "preco": "R$24,90",
-   "desconto_percentual": null,
+   "preco": "R$16,18",
+   "desconto_percentual": 35,
    "prioridade": 0,
    "adicionado_em": "2026-09-01"
   },
   {
    "appid": 1585814,
    "nome": "SnowRunner - Season 7: Compete & Conquer",
-   "preco": "R$24,90",
-   "desconto_percentual": null,
+   "preco": "R$16,18",
+   "desconto_percentual": 35,
    "prioridade": 0,
    "adicionado_em": "2026-09-01"
   },
   {
    "appid": 1585815,
    "nome": "SnowRunner - Season 8: Grand Harvest",
-   "preco": "R$39,90",
-   "desconto_percentual": null,
+   "preco": "R$25,93",
+   "desconto_percentual": 35,
    "prioridade": 0,
    "adicionado_em": "2026-09-01"
   },
   {
    "appid": 1585816,
    "nome": "SnowRunner - GMC Brigadier",
-   "preco": "R$14,90",
-   "desconto_percentual": null,
+   "preco": "R$11,92",
+   "desconto_percentual": 20,
    "prioridade": 0,
    "adicionado_em": "2026-09-01"
   },
@@ -1869,8 +1869,8 @@
   {
    "appid": 1613110,
    "nome": "SnowRunner - Jeep Dual Pack",
-   "preco": "R$20,90",
-   "desconto_percentual": null,
+   "preco": "R$16,72",
+   "desconto_percentual": 20,
    "prioridade": 0,
    "adicionado_em": "2026-09-01"
   },
@@ -2021,8 +2021,8 @@
   {
    "appid": 1672810,
    "nome": "MIO: Memories in Orbit",
-   "preco": "R$79,90",
-   "desconto_percentual": null,
+   "preco": "R$55,93",
+   "desconto_percentual": 30,
    "prioridade": 0,
    "adicionado_em": "2025-06-21"
   },
@@ -2317,8 +2317,8 @@
   {
    "appid": 1785850,
    "nome": "SnowRunner - Land Rover Dual Pack",
-   "preco": "R$20,90",
-   "desconto_percentual": null,
+   "preco": "R$16,72",
+   "desconto_percentual": 20,
    "prioridade": 0,
    "adicionado_em": "2026-09-01"
   },
@@ -2469,8 +2469,8 @@
   {
    "appid": 1838500,
    "nome": "SnowRunner - Crocodile Pack",
-   "preco": "R$14,90",
-   "desconto_percentual": null,
+   "preco": "R$11,92",
+   "desconto_percentual": 20,
    "prioridade": 0,
    "adicionado_em": "2026-09-01"
   },
@@ -3013,16 +3013,16 @@
   {
    "appid": 2058880,
    "nome": "SnowRunner - Rezvani Hercules",
-   "preco": "R$14,90",
-   "desconto_percentual": null,
+   "preco": "R$11,92",
+   "desconto_percentual": 20,
    "prioridade": 0,
    "adicionado_em": "2026-09-01"
   },
   {
    "appid": 2058881,
    "nome": "SnowRunner - Western Star Wolf Pack",
-   "preco": "R$20,90",
-   "desconto_percentual": null,
+   "preco": "R$16,72",
+   "desconto_percentual": 20,
    "prioridade": 0,
    "adicionado_em": "2026-09-01"
   },
@@ -3141,8 +3141,8 @@
   {
    "appid": 2104890,
    "nome": "RoadCraft",
-   "preco": "R$119,92",
-   "desconto_percentual": null,
+   "preco": "R$71,95",
+   "desconto_percentual": 50,
    "prioridade": 0,
    "adicionado_em": "2024-08-20"
   },
@@ -3261,32 +3261,32 @@
   {
    "appid": 2154171,
    "nome": "SnowRunner - Season 9: Renew & Rebuild",
-   "preco": "R$24,90",
-   "desconto_percentual": null,
+   "preco": "R$16,18",
+   "desconto_percentual": 35,
    "prioridade": 0,
    "adicionado_em": "2026-09-01"
   },
   {
    "appid": 2154172,
    "nome": "SnowRunner - Season 10: Fix & Connect",
-   "preco": "R$24,90",
-   "desconto_percentual": null,
+   "preco": "R$16,18",
+   "desconto_percentual": 35,
    "prioridade": 0,
    "adicionado_em": "2026-09-01"
   },
   {
    "appid": 2154173,
    "nome": "SnowRunner - Season 11: Lights & Cameras",
-   "preco": "R$24,90",
-   "desconto_percentual": null,
+   "preco": "R$16,18",
+   "desconto_percentual": 35,
    "prioridade": 0,
    "adicionado_em": "2026-09-01"
   },
   {
    "appid": 2154174,
    "nome": "SnowRunner - Season 12: Public Energy",
-   "preco": "R$39,80",
-   "desconto_percentual": null,
+   "preco": "R$25,87",
+   "desconto_percentual": 35,
    "prioridade": 0,
    "adicionado_em": "2026-09-01"
   },
@@ -3477,8 +3477,8 @@
   {
    "appid": 2238040,
    "nome": "Tiny Terry's Turbo Trip",
-   "preco": "R$49,49",
-   "desconto_percentual": null,
+   "preco": "R$24,74",
+   "desconto_percentual": 50,
    "prioridade": 0,
    "adicionado_em": "2025-01-25"
   },
@@ -3749,32 +3749,32 @@
   {
    "appid": 2353720,
    "nome": "SnowRunner - The Mastodon",
-   "preco": "R$14,90",
-   "desconto_percentual": null,
+   "preco": "R$11,92",
+   "desconto_percentual": 20,
    "prioridade": 0,
    "adicionado_em": "2026-09-01"
   },
   {
    "appid": 2353721,
    "nome": "SnowRunner - Kenworth W990",
-   "preco": "R$14,90",
-   "desconto_percentual": null,
+   "preco": "R$11,92",
+   "desconto_percentual": 20,
    "prioridade": 0,
    "adicionado_em": "2026-09-01"
   },
   {
    "appid": 2353722,
    "nome": "SnowRunner - Jack of All Treads Tire Pack",
-   "preco": "R$9,90",
-   "desconto_percentual": null,
+   "preco": "R$7,92",
+   "desconto_percentual": 20,
    "prioridade": 0,
    "adicionado_em": "2026-09-01"
   },
   {
    "appid": 2353723,
    "nome": "SnowRunner - Kenworth Dual Pack",
-   "preco": "R$22,90",
-   "desconto_percentual": null,
+   "preco": "R$18,32",
+   "desconto_percentual": 20,
    "prioridade": 0,
    "adicionado_em": "2026-09-01"
   },
@@ -4085,8 +4085,8 @@
   {
    "appid": 2477340,
    "nome": "Expeditions: A MudRunner Game",
-   "preco": "R$132,90",
-   "desconto_percentual": null,
+   "preco": "R$46,51",
+   "desconto_percentual": 65,
    "prioridade": 0,
    "adicionado_em": "2023-09-08"
   },
@@ -4493,8 +4493,8 @@
   {
    "appid": 2682380,
    "nome": "Extinction Day",
-   "preco": "R$59,99",
-   "desconto_percentual": null,
+   "preco": "R$20,99",
+   "desconto_percentual": 65,
    "prioridade": 0,
    "adicionado_em": "2026-01-26"
   },
@@ -4541,32 +4541,32 @@
   {
    "appid": 2709450,
    "nome": "SnowRunner - Season 13: Dig & Drill",
-   "preco": "R$24,90",
-   "desconto_percentual": null,
+   "preco": "R$16,18",
+   "desconto_percentual": 35,
    "prioridade": 0,
    "adicionado_em": "2026-09-01"
   },
   {
    "appid": 2709460,
    "nome": "SnowRunner - Season 14: Reap & Sow",
-   "preco": "R$26,90",
-   "desconto_percentual": null,
+   "preco": "R$17,48",
+   "desconto_percentual": 35,
    "prioridade": 0,
    "adicionado_em": "2026-09-01"
   },
   {
    "appid": 2709470,
    "nome": "SnowRunner - Season 15: Oil & Dirt",
-   "preco": "R$26,90",
-   "desconto_percentual": null,
+   "preco": "R$17,48",
+   "desconto_percentual": 35,
    "prioridade": 0,
    "adicionado_em": "2026-09-01"
   },
   {
    "appid": 2709480,
    "nome": "SnowRunner - Season 16: High Voltage",
-   "preco": "R$44,90",
-   "desconto_percentual": null,
+   "preco": "R$31,43",
+   "desconto_percentual": 30,
    "prioridade": 0,
    "adicionado_em": "2026-09-01"
   },
@@ -4853,8 +4853,8 @@
   {
    "appid": 2856380,
    "nome": "SnowRunner - The Atom",
-   "preco": "R$14,90",
-   "desconto_percentual": null,
+   "preco": "R$11,92",
+   "desconto_percentual": 20,
    "prioridade": 0,
    "adicionado_em": "2026-09-01"
   },
@@ -4981,8 +4981,8 @@
   {
    "appid": 2929250,
    "nome": "over the hill",
-   "preco": null,
-   "desconto_percentual": null,
+   "preco": "R$37,43",
+   "desconto_percentual": 20,
    "prioridade": 0,
    "adicionado_em": "2025-02-07"
   },
@@ -5133,8 +5133,8 @@
   {
    "appid": 3023640,
    "nome": "SnowRunner - Rezvani Tank",
-   "preco": "R$14,90",
-   "desconto_percentual": null,
+   "preco": "R$11,92",
+   "desconto_percentual": 20,
    "prioridade": 0,
    "adicionado_em": "2026-09-01"
   },
@@ -5541,8 +5541,8 @@
   {
    "appid": 3398280,
    "nome": "SnowRunner - Mack Dual Pack",
-   "preco": "R$22,90",
-   "desconto_percentual": null,
+   "preco": "R$18,32",
+   "desconto_percentual": 20,
    "prioridade": 0,
    "adicionado_em": "2026-09-01"
   },
@@ -5757,16 +5757,16 @@
   {
    "appid": 3623240,
    "nome": "SnowRunner - Freightliner & Western Star Dual Pack",
-   "preco": "R$22,90",
-   "desconto_percentual": null,
+   "preco": "R$18,32",
+   "desconto_percentual": 20,
    "prioridade": 0,
    "adicionado_em": "2026-09-01"
   },
   {
    "appid": 3623250,
    "nome": "SnowRunner - Dragon Wagons Dual Pack",
-   "preco": "R$22,90",
-   "desconto_percentual": null,
+   "preco": "R$18,32",
+   "desconto_percentual": 20,
    "prioridade": 0,
    "adicionado_em": "2026-09-01"
   },
@@ -5893,16 +5893,16 @@
   {
    "appid": 3777610,
    "nome": "SnowRunner - Season 17: Repair & Rescue",
-   "preco": "R$26,90",
-   "desconto_percentual": null,
+   "preco": "R$20,17",
+   "desconto_percentual": 25,
    "prioridade": 0,
    "adicionado_em": "2026-09-01"
   },
   {
    "appid": 3777620,
    "nome": "SnowRunner - Season 18: Patch & Power",
-   "preco": "R$26,90",
-   "desconto_percentual": null,
+   "preco": "R$21,52",
+   "desconto_percentual": 20,
    "prioridade": 0,
    "adicionado_em": "2026-09-01"
   },
@@ -6213,8 +6213,8 @@
   {
    "appid": 4308420,
    "nome": "Arizona Sunshine®",
-   "preco": null,
-   "desconto_percentual": null,
+   "preco": "R$79,96",
+   "desconto_percentual": 20,
    "prioridade": 0,
    "adicionado_em": "2026-06-07"
   },
