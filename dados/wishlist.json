@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-10-15T13:47:48+00:00",
+ "atualizado_em": "2026-10-16T13:37:54+00:00",
  "total": 791,
  "dados": [
   {
@@ -421,8 +421,8 @@
   {
    "appid": 868360,
    "nome": "Project Hospital",
-   "preco": "R$70,00",
-   "desconto_percentual": null,
+   "preco": "R$28,00",
+   "desconto_percentual": 60,
    "prioridade": 0,
    "adicionado_em": "2024-08-27"
   },
@@ -837,8 +837,8 @@
   {
    "appid": 1201270,
    "nome": "A Space for the Unbound",
-   "preco": "R$29,99",
-   "desconto_percentual": 50,
+   "preco": "R$59,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2023-12-22"
   },
@@ -869,16 +869,16 @@
   {
    "appid": 1237320,
    "nome": "Sonic Frontiers",
-   "preco": "R$57,71",
-   "desconto_percentual": 65,
+   "preco": "R$164,90",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2023-04-28"
   },
   {
    "appid": 1240060,
    "nome": "A Highland Song",
-   "preco": "R$21,99",
-   "desconto_percentual": 60,
+   "preco": "R$54,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2023-06-22"
   },
@@ -989,8 +989,8 @@
   {
    "appid": 1275550,
    "nome": "Arctic Awakening",
-   "preco": "R$56,24",
-   "desconto_percentual": 25,
+   "preco": "R$74,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2023-06-22"
   },
@@ -1141,8 +1141,8 @@
   {
    "appid": 1328840,
    "nome": "Lost in Play",
-   "preco": "R$10,09",
-   "desconto_percentual": 80,
+   "preco": "R$50,49",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-07-31"
   },
@@ -1173,8 +1173,8 @@
   {
    "appid": 1340480,
    "nome": "The Cosmic Wheel Sisterhood",
-   "preco": "R$21,99",
-   "desconto_percentual": 60,
+   "preco": "R$54,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2023-07-16"
   },
@@ -1341,8 +1341,8 @@
   {
    "appid": 1374490,
    "nome": "RuneScape: Dragonwilds",
-   "preco": "R$103,49",
-   "desconto_percentual": null,
+   "preco": "R$72,44",
+   "desconto_percentual": 30,
    "prioridade": 0,
    "adicionado_em": "2025-06-28"
   },
@@ -1373,8 +1373,8 @@
   {
    "appid": 1386900,
    "nome": "Observer: System Redux",
-   "preco": "R$57,99",
-   "desconto_percentual": null,
+   "preco": "R$47,68",
+   "desconto_percentual": 44,
    "prioridade": 0,
    "adicionado_em": "2025-05-06"
   },
@@ -1709,8 +1709,8 @@
   {
    "appid": 1574820,
    "nome": "Until Then",
-   "preco": "R$20,99",
-   "desconto_percentual": 65,
+   "preco": "R$59,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2025-03-07"
   },
@@ -1797,8 +1797,8 @@
   {
    "appid": 1589120,
    "nome": "Above Snakes",
-   "preco": "R$73,99",
-   "desconto_percentual": null,
+   "preco": "R$18,49",
+   "desconto_percentual": 75,
    "prioridade": 0,
    "adicionado_em": "2023-07-22"
   },
@@ -2133,8 +2133,8 @@
   {
    "appid": 1710820,
    "nome": "Cleared Hot",
-   "preco": "R$62,99",
-   "desconto_percentual": null,
+   "preco": "R$50,39",
+   "desconto_percentual": 20,
    "prioridade": 0,
    "adicionado_em": "2025-10-07"
   },
@@ -2357,8 +2357,8 @@
   {
    "appid": 1805480,
    "nome": "Like a Dragon: Ishin!",
-   "preco": "R$41,22",
-   "desconto_percentual": 75,
+   "preco": "R$164,90",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2023-07-03"
   },
@@ -2421,8 +2421,8 @@
   {
    "appid": 1819460,
    "nome": "Mika and The Witch's Mountain",
-   "preco": "R$23,64",
-   "desconto_percentual": 66,
+   "preco": "R$59,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2025-01-21"
   },
@@ -2549,8 +2549,8 @@
   {
    "appid": 1869780,
    "nome": "UnderMine 2",
-   "preco": "R$44,99",
-   "desconto_percentual": 25,
+   "preco": "R$59,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-04-13"
   },
@@ -2725,8 +2725,8 @@
   {
    "appid": 1939970,
    "nome": "Nobody Wants to Die",
-   "preco": "R$12,40",
-   "desconto_percentual": 90,
+   "preco": "R$124,00",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-08-01"
   },
@@ -2837,8 +2837,8 @@
   {
    "appid": 1983260,
    "nome": "Dungeons of Hinterberg",
-   "preco": "R$73,11",
-   "desconto_percentual": 19,
+   "preco": "R$74,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-10-22"
   },
@@ -2997,16 +2997,16 @@
   {
    "appid": 2058180,
    "nome": "Judgment",
-   "preco": "R$49,98",
-   "desconto_percentual": 75,
+   "preco": "R$199,95",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2025-01-12"
   },
   {
    "appid": 2058190,
    "nome": "Lost Judgment",
-   "preco": "R$49,47",
-   "desconto_percentual": 70,
+   "preco": "R$164,90",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-08-26"
   },
@@ -3069,8 +3069,8 @@
   {
    "appid": 2072450,
    "nome": "Like a Dragon: Infinite Wealth",
-   "preco": "R$71,22",
-   "desconto_percentual": 75,
+   "preco": "R$299,90",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-02-07"
   },
@@ -3245,8 +3245,8 @@
   {
    "appid": 2146570,
    "nome": "RKGK / Rakugaki",
-   "preco": "R$15,39",
-   "desconto_percentual": 60,
+   "preco": "R$38,49",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-04-14"
   },
@@ -3301,8 +3301,8 @@
   {
    "appid": 2159960,
    "nome": "CorpoNation: The Sorting Process",
-   "preco": "R$20,99",
-   "desconto_percentual": 50,
+   "preco": "R$41,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2023-07-16"
   },
@@ -3453,8 +3453,8 @@
   {
    "appid": 2215200,
    "nome": "LEGO® Batman™: Legacy of the Dark Knight",
-   "preco": "R$299,99",
-   "desconto_percentual": null,
+   "preco": "R$209,99",
+   "desconto_percentual": 30,
    "prioridade": 0,
    "adicionado_em": "2026-05-20"
   },
@@ -3629,8 +3629,8 @@
   {
    "appid": 2313330,
    "nome": "TerraTech Worlds",
-   "preco": "R$60,29",
-   "desconto_percentual": 33,
+   "preco": "R$89,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2025-11-02"
   },
@@ -3797,16 +3797,16 @@
   {
    "appid": 2359120,
    "nome": "Consume Me",
-   "preco": "R$30,54",
-   "desconto_percentual": 35,
+   "preco": "R$46,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2025-09-27"
   },
   {
    "appid": 2361770,
    "nome": "SHINOBI: Art of Vengeance",
-   "preco": "R$54,95",
-   "desconto_percentual": 50,
+   "preco": "R$109,90",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2026-07-04"
   },
@@ -3853,8 +3853,8 @@
   {
    "appid": 2375550,
    "nome": "Like a Dragon Gaiden: The Man Who Erased His Name",
-   "preco": "R$62,25",
-   "desconto_percentual": 75,
+   "preco": "R$249,00",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2023-07-03"
   },
@@ -3957,8 +3957,8 @@
   {
    "appid": 2420660,
    "nome": "Neva",
-   "preco": "R$23,99",
-   "desconto_percentual": 60,
+   "preco": "R$59,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2023-07-03"
   },
@@ -4061,8 +4061,8 @@
   {
    "appid": 2466900,
    "nome": "The Posthumous Investigation",
-   "preco": "R$42,49",
-   "desconto_percentual": 15,
+   "preco": "R$49,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2026-04-01"
   },
@@ -4173,8 +4173,8 @@
   {
    "appid": 2513280,
    "nome": "SONIC X SHADOW GENERATIONS",
-   "preco": "R$62,97",
-   "desconto_percentual": 70,
+   "preco": "R$209,90",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-12-24"
   },
@@ -4445,8 +4445,8 @@
   {
    "appid": 2677660,
    "nome": "Indiana Jones and the Great Circle",
-   "preco": "R$209,40",
-   "desconto_percentual": 40,
+   "preco": "R$349,00",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-11-14"
   },
@@ -4605,8 +4605,8 @@
   {
    "appid": 2719750,
    "nome": "Star Birds",
-   "preco": "R$40,49",
-   "desconto_percentual": 25,
+   "preco": "R$53,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-07-06"
   },
@@ -4629,8 +4629,8 @@
   {
    "appid": 2727650,
    "nome": "WHAT THE CAR?",
-   "preco": "R$59,99",
-   "desconto_percentual": null,
+   "preco": "R$29,99",
+   "desconto_percentual": 50,
    "prioridade": 0,
    "adicionado_em": "2024-04-14"
   },
@@ -4693,8 +4693,8 @@
   {
    "appid": 2760560,
    "nome": "Cthulhu: The Cosmic Abyss",
-   "preco": "R$137,15",
-   "desconto_percentual": 42,
+   "preco": "R$139,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2025-03-07"
   },
@@ -5157,8 +5157,8 @@
   {
    "appid": 3041230,
    "nome": "Windrose",
-   "preco": "R$72,89",
-   "desconto_percentual": 10,
+   "preco": "R$80,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2026-05-14"
   },
@@ -5181,8 +5181,8 @@
   {
    "appid": 3061810,
    "nome": "Like a Dragon: Pirate Yakuza in Hawaii",
-   "preco": "R$62,47",
-   "desconto_percentual": 75,
+   "preco": "R$249,90",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-09-20"
   },
@@ -5269,8 +5269,8 @@
   {
    "appid": 3159570,
    "nome": "Lynked: Banner of the Spark",
-   "preco": "R$8,99",
-   "desconto_percentual": 75,
+   "preco": "R$35,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-10-23"
   },
@@ -5285,8 +5285,8 @@
   {
    "appid": 3169520,
    "nome": "Warhammer 40,000: Space Marine - Master Crafted Edition",
-   "preco": "R$47,37",
-   "desconto_percentual": 75,
+   "preco": "R$189,50",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2025-06-14"
   },
@@ -5557,8 +5557,8 @@
   {
    "appid": 3419520,
    "nome": "Quarantine Zone: The Last Check",
-   "preco": "R$53,99",
-   "desconto_percentual": null,
+   "preco": "R$35,09",
+   "desconto_percentual": 35,
    "prioridade": 0,
    "adicionado_em": "2025-08-03"
   },
@@ -5885,8 +5885,8 @@
   {
    "appid": 3768760,
    "nome": "007 First Light",
-   "preco": "R$299,00",
-   "desconto_percentual": null,
+   "preco": "R$179,40",
+   "desconto_percentual": 40,
    "prioridade": 0,
    "adicionado_em": "2025-06-13"
   },
@@ -5989,7 +5989,7 @@
   {
    "appid": 3846830,
    "nome": "Total War: SHOGUN 2 - Edição Completa",
-   "preco": "R$164,90",
+   "preco": null,
    "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2026-10-08"
@@ -6245,8 +6245,8 @@
   {
    "appid": 4394810,
    "nome": "DAVE THE DIVER - In the Jungle Content Pack",
-   "preco": "R$21,59",
-   "desconto_percentual": 20,
+   "preco": "R$26,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2026-07-17"
   },
