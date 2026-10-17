@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-10-16T13:37:54+00:00",
- "total": 791,
+ "atualizado_em": "2026-10-17T12:34:38+00:00",
+ "total": 792,
  "dados": [
   {
    "appid": 12210,
@@ -301,8 +301,8 @@
   {
    "appid": 659300,
    "nome": "Super Farming Boy",
-   "preco": "R$3,54",
-   "desconto_percentual": 95,
+   "preco": "R$70,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-06-09"
   },
@@ -345,6 +345,14 @@
    "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-11-10"
+  },
+  {
+   "appid": 798460,
+   "nome": "Ni no Kuni Wrath of the White Witch™ Remastered",
+   "preco": "R$214,90",
+   "desconto_percentual": null,
+   "prioridade": 0,
+   "adicionado_em": "2026-10-13"
   },
   {
    "appid": 798490,
@@ -1875,14 +1883,6 @@
    "adicionado_em": "2026-09-01"
   },
   {
-   "appid": 1621690,
-   "nome": "Core Keeper",
-   "preco": "R$32,39",
-   "desconto_percentual": 40,
-   "prioridade": 0,
-   "adicionado_em": "2024-08-29"
-  },
-  {
    "appid": 1622350,
    "nome": "Copycat",
    "preco": "R$15,99",
@@ -2181,8 +2181,8 @@
   {
    "appid": 1731070,
    "nome": "Asterigos: Curse of the Stars",
-   "preco": "R$106,59",
-   "desconto_percentual": 20,
+   "preco": "R$119,00",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2025-01-12"
   },
@@ -3165,8 +3165,8 @@
   {
    "appid": 2121510,
    "nome": "Tenebris Somnia",
-   "preco": null,
-   "desconto_percentual": null,
+   "preco": "R$47,99",
+   "desconto_percentual": 20,
    "prioridade": 0,
    "adicionado_em": "2024-03-23"
   },
@@ -4213,8 +4213,8 @@
   {
    "appid": 2537470,
    "nome": "Vultures - Scavengers of Death",
-   "preco": "R$42,99",
-   "desconto_percentual": null,
+   "preco": "R$42,26",
+   "desconto_percentual": 32,
    "prioridade": 0,
    "adicionado_em": "2024-06-09"
   },
@@ -4261,8 +4261,8 @@
   {
    "appid": 2570210,
    "nome": "Eden Crafters",
-   "preco": "R$59,99",
-   "desconto_percentual": null,
+   "preco": "R$29,99",
+   "desconto_percentual": 50,
    "prioridade": 0,
    "adicionado_em": "2024-10-17"
   },
@@ -5709,8 +5709,8 @@
   {
    "appid": 3573430,
    "nome": "Cargo Simulator",
-   "preco": "R$38,49",
-   "desconto_percentual": null,
+   "preco": "R$25,01",
+   "desconto_percentual": 35,
    "prioridade": 0,
    "adicionado_em": "2025-08-31"
   },
@@ -6037,8 +6037,8 @@
   {
    "appid": 3947460,
    "nome": "Crónicas do Criador",
-   "preco": "R$39,99",
-   "desconto_percentual": null,
+   "preco": "R$39,56",
+   "desconto_percentual": 34,
    "prioridade": 0,
    "adicionado_em": "2026-09-11"
   },
@@ -6197,8 +6197,8 @@
   {
    "appid": 4300090,
    "nome": "Neat!",
-   "preco": "R$37,49",
-   "desconto_percentual": null,
+   "preco": "R$37,31",
+   "desconto_percentual": 35,
    "prioridade": 0,
    "adicionado_em": "2026-09-11"
   },
@@ -6323,12 +6323,20 @@
    "adicionado_em": "2026-09-30"
   },
   {
-   "appid": 798460,
-   "nome": "Ni no Kuni Wrath of the White Witch™ Remastered",
-   "preco": "R$214,90",
+   "appid": 594570,
+   "nome": "Total War: WARHAMMER II",
+   "preco": "R$252,00",
    "desconto_percentual": null,
    "prioridade": 0,
-   "adicionado_em": "2026-10-13"
+   "adicionado_em": "2026-10-16"
+  },
+  {
+   "appid": 364360,
+   "nome": "Total War: WARHAMMER",
+   "preco": "R$252,00",
+   "desconto_percentual": null,
+   "prioridade": 0,
+   "adicionado_em": "2026-10-16"
   }
  ]
 }

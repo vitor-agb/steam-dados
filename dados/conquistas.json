@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-10-16T13:38:34+00:00",
- "total": 122,
+ "atualizado_em": "2026-10-17T12:35:15+00:00",
+ "total": 123,
  "dados": [
   {
    "appid": 1473350,
@@ -119,6 +119,13 @@
    "nome": "Construction Simulator",
    "conquistas_feitas": 0,
    "conquistas_total": 33,
+   "percentual": 0.0
+  },
+  {
+   "appid": 1621690,
+   "nome": "Core Keeper",
+   "conquistas_feitas": 0,
+   "conquistas_total": 59,
    "percentual": 0.0
   },
   {
@@ -761,9 +768,9 @@
   {
    "appid": 1142710,
    "nome": "Total War: WARHAMMER III",
-   "conquistas_feitas": 1,
+   "conquistas_feitas": 5,
    "conquistas_total": 138,
-   "percentual": 0.7
+   "percentual": 3.6
   },
   {
    "appid": 1066780,
