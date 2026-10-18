@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-10-17T12:34:38+00:00",
+ "atualizado_em": "2026-10-18T12:52:43+00:00",
  "total": 792,
  "dados": [
   {
@@ -653,8 +653,8 @@
   {
    "appid": 1084600,
    "nome": "My Time at Sandrock",
-   "preco": "R$139,90",
-   "desconto_percentual": null,
+   "preco": "R$41,97",
+   "desconto_percentual": 70,
    "prioridade": 0,
    "adicionado_em": "2023-03-25"
   },
@@ -1069,8 +1069,8 @@
   {
    "appid": 1299290,
    "nome": "Somber Echoes",
-   "preco": "R$18,79",
-   "desconto_percentual": 60,
+   "preco": "R$46,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2025-01-21"
   },
@@ -1445,8 +1445,8 @@
   {
    "appid": 1434950,
    "nome": "HighFleet",
-   "preco": "R$57,99",
-   "desconto_percentual": null,
+   "preco": "R$28,99",
+   "desconto_percentual": 50,
    "prioridade": 0,
    "adicionado_em": "2023-04-09"
   },
@@ -1701,8 +1701,8 @@
   {
    "appid": 1569580,
    "nome": "Blue Prince",
-   "preco": "R$53,39",
-   "desconto_percentual": 40,
+   "preco": "R$88,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2025-04-09"
   },
@@ -2461,8 +2461,8 @@
   {
    "appid": 1832040,
    "nome": "Flintlock: The Siege of Dawn",
-   "preco": "R$94,49",
-   "desconto_percentual": null,
+   "preco": "R$23,62",
+   "desconto_percentual": 75,
    "prioridade": 0,
    "adicionado_em": "2024-03-23"
   },
@@ -3421,8 +3421,8 @@
   {
    "appid": 2211170,
    "nome": "Unrailed 2: Back on Track",
-   "preco": "R$57,59",
-   "desconto_percentual": 41,
+   "preco": "R$42,47",
+   "desconto_percentual": 57,
    "prioridade": 0,
    "adicionado_em": "2024-03-23"
   },
@@ -3605,8 +3605,8 @@
   {
    "appid": 2305840,
    "nome": "Cat Quest III",
-   "preco": "R$49,79",
-   "desconto_percentual": null,
+   "preco": "R$19,91",
+   "desconto_percentual": 60,
    "prioridade": 0,
    "adicionado_em": "2023-07-03"
   },
@@ -3733,8 +3733,8 @@
   {
    "appid": 2350790,
    "nome": "Moonlighter 2: The Endless Vault",
-   "preco": "R$85,48",
-   "desconto_percentual": 36,
+   "preco": "R$88,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2025-04-12"
   },
@@ -3877,8 +3877,8 @@
   {
    "appid": 2386310,
    "nome": "Ultros",
-   "preco": "R$66,59",
-   "desconto_percentual": null,
+   "preco": "R$16,64",
+   "desconto_percentual": 75,
    "prioridade": 0,
    "adicionado_em": "2024-01-28"
   },
@@ -3901,8 +3901,8 @@
   {
    "appid": 2394650,
    "nome": "Crypt Custodian",
-   "preco": "R$59,38",
-   "desconto_percentual": 45,
+   "preco": "R$59,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2023-07-03"
   },
@@ -4133,8 +4133,8 @@
   {
    "appid": 2489330,
    "nome": "Whiskerwood",
-   "preco": "R$59,99",
-   "desconto_percentual": null,
+   "preco": "R$29,99",
+   "desconto_percentual": 50,
    "prioridade": 0,
    "adicionado_em": "2025-11-09"
   },
@@ -4357,8 +4357,8 @@
   {
    "appid": 2619650,
    "nome": "Cauldron",
-   "preco": "R$19,99",
-   "desconto_percentual": 50,
+   "preco": "R$39,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2025-06-03"
   },
@@ -4381,8 +4381,8 @@
   {
    "appid": 2637990,
    "nome": "Duck Detective: The Secret Salami",
-   "preco": "R$25,37",
-   "desconto_percentual": 31,
+   "preco": "R$30,98",
+   "desconto_percentual": 16,
    "prioridade": 0,
    "adicionado_em": "2024-06-09"
   },

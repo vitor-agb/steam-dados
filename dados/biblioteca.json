@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-10-17T12:34:20+00:00",
+ "atualizado_em": "2026-10-18T12:52:21+00:00",
  "total": 248,
  "dados": [
   {
@@ -244,7 +244,7 @@
    "appid": 1273400,
    "nome": "Construction Simulator",
    "horas": 1.0,
-   "horas_ultimas_2_semanas": 1.0,
+   "horas_ultimas_2_semanas": 0.0,
    "ultima_vez_jogado": "2026-10-03"
   },
   {
@@ -257,9 +257,9 @@
   {
    "appid": 1621690,
    "nome": "Core Keeper",
-   "horas": 1.0,
-   "horas_ultimas_2_semanas": 1.0,
-   "ultima_vez_jogado": "2026-10-17"
+   "horas": 2.5,
+   "horas_ultimas_2_semanas": 2.5,
+   "ultima_vez_jogado": "2026-10-18"
   },
   {
    "appid": 3321460,
@@ -1252,7 +1252,7 @@
    "appid": 814380,
    "nome": "Sekiro™: Shadows Die Twice",
    "horas": 8.0,
-   "horas_ultimas_2_semanas": 2.7,
+   "horas_ultimas_2_semanas": 1.5,
    "ultima_vez_jogado": "2026-10-10"
   },
   {
@@ -1287,7 +1287,7 @@
    "appid": 2138710,
    "nome": "Sifu",
    "horas": 3.4,
-   "horas_ultimas_2_semanas": 3.4,
+   "horas_ultimas_2_semanas": 2.5,
    "ultima_vez_jogado": "2026-10-11"
   },
   {
@@ -1658,7 +1658,7 @@
    "appid": 2005010,
    "nome": "Warhammer 40,000: Boltgun",
    "horas": 18.6,
-   "horas_ultimas_2_semanas": 18.6,
+   "horas_ultimas_2_semanas": 15.1,
    "ultima_vez_jogado": "2026-10-14"
   },
   {
@@ -1671,8 +1671,8 @@
   {
    "appid": 2183900,
    "nome": "Warhammer 40,000: Space Marine 2",
-   "horas": 26.9,
-   "horas_ultimas_2_semanas": 0.8,
+   "horas": 27.7,
+   "horas_ultimas_2_semanas": 1.6,
    "ultima_vez_jogado": "2026-10-17"
   },
   {
@@ -1685,8 +1685,8 @@
   {
    "appid": 1527950,
    "nome": "Wartales",
-   "horas": 65.4,
-   "horas_ultimas_2_semanas": 13.0,
+   "horas": 66.1,
+   "horas_ultimas_2_semanas": 12.6,
    "ultima_vez_jogado": "2026-10-17"
   },
   {
