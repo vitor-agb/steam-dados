@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-10-18T12:52:21+00:00",
+ "atualizado_em": "2026-10-19T16:00:23+00:00",
  "total": 248,
  "dados": [
   {
@@ -257,8 +257,8 @@
   {
    "appid": 1621690,
    "nome": "Core Keeper",
-   "horas": 2.5,
-   "horas_ultimas_2_semanas": 2.5,
+   "horas": 2.6,
+   "horas_ultimas_2_semanas": 2.6,
    "ultima_vez_jogado": "2026-10-18"
   },
   {
@@ -495,9 +495,9 @@
   {
    "appid": 1203620,
    "nome": "Enshrouded",
-   "horas": 24.7,
-   "horas_ultimas_2_semanas": 1.1,
-   "ultima_vez_jogado": "2026-10-17"
+   "horas": 24.9,
+   "horas_ultimas_2_semanas": 1.3,
+   "ultima_vez_jogado": "2026-10-18"
   },
   {
    "appid": 227300,
@@ -1252,7 +1252,7 @@
    "appid": 814380,
    "nome": "Sekiro™: Shadows Die Twice",
    "horas": 8.0,
-   "horas_ultimas_2_semanas": 1.5,
+   "horas_ultimas_2_semanas": 0.8,
    "ultima_vez_jogado": "2026-10-10"
   },
   {
@@ -1287,7 +1287,7 @@
    "appid": 2138710,
    "nome": "Sifu",
    "horas": 3.4,
-   "horas_ultimas_2_semanas": 2.5,
+   "horas_ultimas_2_semanas": 1.3,
    "ultima_vez_jogado": "2026-10-11"
   },
   {
@@ -1582,7 +1582,7 @@
    "nome": "Total War: WARHAMMER III",
    "horas": 2.7,
    "horas_ultimas_2_semanas": 2.7,
-   "ultima_vez_jogado": "2026-10-17"
+   "ultima_vez_jogado": "2026-10-18"
   },
   {
    "appid": 1066780,
@@ -1658,7 +1658,7 @@
    "appid": 2005010,
    "nome": "Warhammer 40,000: Boltgun",
    "horas": 18.6,
-   "horas_ultimas_2_semanas": 15.1,
+   "horas_ultimas_2_semanas": 14.3,
    "ultima_vez_jogado": "2026-10-14"
   },
   {
@@ -1671,9 +1671,9 @@
   {
    "appid": 2183900,
    "nome": "Warhammer 40,000: Space Marine 2",
-   "horas": 27.7,
-   "horas_ultimas_2_semanas": 1.6,
-   "ultima_vez_jogado": "2026-10-17"
+   "horas": 28.2,
+   "horas_ultimas_2_semanas": 2.1,
+   "ultima_vez_jogado": "2026-10-18"
   },
   {
    "appid": 552500,
@@ -1686,7 +1686,7 @@
    "appid": 1527950,
    "nome": "Wartales",
    "horas": 66.1,
-   "horas_ultimas_2_semanas": 12.6,
+   "horas_ultimas_2_semanas": 11.9,
    "ultima_vez_jogado": "2026-10-17"
   },
   {

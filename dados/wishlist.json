@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-10-18T12:52:43+00:00",
+ "atualizado_em": "2026-10-19T16:00:43+00:00",
  "total": 792,
  "dados": [
   {
@@ -89,6 +89,14 @@
    "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-02-04"
+  },
+  {
+   "appid": 364360,
+   "nome": "Total War: WARHAMMER",
+   "preco": "R$252,00",
+   "desconto_percentual": null,
+   "prioridade": 0,
+   "adicionado_em": "2026-10-16"
   },
   {
    "appid": 368260,
@@ -233,6 +241,14 @@
    "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-11-12"
+  },
+  {
+   "appid": 594570,
+   "nome": "Total War: WARHAMMER II",
+   "preco": "R$252,00",
+   "desconto_percentual": null,
+   "prioridade": 0,
+   "adicionado_em": "2026-10-16"
   },
   {
    "appid": 606160,
@@ -1933,7 +1949,7 @@
   {
    "appid": 1641960,
    "nome": "Forever Skies",
-   "preco": "R$49,20",
+   "preco": "R$39,60",
    "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-03-16"
@@ -5381,8 +5397,8 @@
   {
    "appid": 3267900,
    "nome": "Click and Conquer",
-   "preco": "R$9,99",
-   "desconto_percentual": 20,
+   "preco": "R$12,49",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2025-06-30"
   },
@@ -6321,22 +6337,6 @@
    "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2026-09-30"
-  },
-  {
-   "appid": 594570,
-   "nome": "Total War: WARHAMMER II",
-   "preco": "R$252,00",
-   "desconto_percentual": null,
-   "prioridade": 0,
-   "adicionado_em": "2026-10-16"
-  },
-  {
-   "appid": 364360,
-   "nome": "Total War: WARHAMMER",
-   "preco": "R$252,00",
-   "desconto_percentual": null,
-   "prioridade": 0,
-   "adicionado_em": "2026-10-16"
   }
  ]
 }
