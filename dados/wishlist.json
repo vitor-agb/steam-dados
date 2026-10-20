@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-10-19T16:00:43+00:00",
+ "atualizado_em": "2026-10-20T13:58:07+00:00",
  "total": 792,
  "dados": [
   {
@@ -13,8 +13,8 @@
   {
    "appid": 233450,
    "nome": "Prison Architect",
-   "preco": "R$26,99",
-   "desconto_percentual": 75,
+   "preco": "R$107,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-10-06"
   },
@@ -69,8 +69,8 @@
   {
    "appid": 312520,
    "nome": "Rain World",
-   "preco": "R$63,73",
-   "desconto_percentual": 34,
+   "preco": "R$33,21",
+   "desconto_percentual": 66,
    "prioridade": 0,
    "adicionado_em": "2023-06-22"
   },
@@ -293,8 +293,8 @@
   {
    "appid": 638510,
    "nome": "dotAGE",
-   "preco": "R$38,49",
-   "desconto_percentual": 30,
+   "preco": "R$54,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2025-03-24"
   },
@@ -325,8 +325,8 @@
   {
    "appid": 690830,
    "nome": "Foundation",
-   "preco": "R$61,19",
-   "desconto_percentual": 40,
+   "preco": "R$101,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2025-02-03"
   },
@@ -397,8 +397,8 @@
   {
    "appid": 846110,
    "nome": "The friends of Ringo Ishikawa",
-   "preco": "R$11,30",
-   "desconto_percentual": 61,
+   "preco": "R$28,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-03-18"
   },
@@ -477,8 +477,8 @@
   {
    "appid": 911430,
    "nome": "Good Company",
-   "preco": "R$47,49",
-   "desconto_percentual": null,
+   "preco": "R$28,49",
+   "desconto_percentual": 40,
    "prioridade": 0,
    "adicionado_em": "2024-10-16"
   },
@@ -629,8 +629,8 @@
   {
    "appid": 1052990,
    "nome": "A Monster's Expedition",
-   "preco": "R$59,99",
-   "desconto_percentual": null,
+   "preco": "R$17,99",
+   "desconto_percentual": 70,
    "prioridade": 0,
    "adicionado_em": "2023-04-07"
   },
@@ -653,8 +653,8 @@
   {
    "appid": 1062090,
    "nome": "Timberborn",
-   "preco": "R$101,99",
-   "desconto_percentual": null,
+   "preco": "R$71,39",
+   "desconto_percentual": 30,
    "prioridade": 0,
    "adicionado_em": "2023-04-24"
   },
@@ -1029,8 +1029,8 @@
   {
    "appid": 1283410,
    "nome": "Tails of Iron",
-   "preco": "R$9,59",
-   "desconto_percentual": 88,
+   "preco": "R$79,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-07-31"
   },
@@ -1061,8 +1061,8 @@
   {
    "appid": 1286990,
    "nome": "CONSCRIPT: Director’s Cut",
-   "preco": "R$64,79",
-   "desconto_percentual": null,
+   "preco": "R$22,02",
+   "desconto_percentual": 66,
    "prioridade": 0,
    "adicionado_em": "2024-07-29"
   },
@@ -1429,8 +1429,8 @@
   {
    "appid": 1422570,
    "nome": "EchoBlade",
-   "preco": "R$10,88",
-   "desconto_percentual": 67,
+   "preco": "R$32,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2023-07-06"
   },
@@ -1525,8 +1525,8 @@
   {
    "appid": 1466060,
    "nome": "Tainted Grail: The Fall of Avalon",
-   "preco": "R$121,99",
-   "desconto_percentual": null,
+   "preco": "R$85,39",
+   "desconto_percentual": 30,
    "prioridade": 0,
    "adicionado_em": "2025-05-25"
   },
@@ -1757,8 +1757,8 @@
   {
    "appid": 1577120,
    "nome": "The Quarry",
-   "preco": "R$349,90",
-   "desconto_percentual": null,
+   "preco": "R$34,99",
+   "desconto_percentual": 90,
    "prioridade": 0,
    "adicionado_em": "2023-07-21"
   },
@@ -2109,8 +2109,8 @@
   {
    "appid": 1687000,
    "nome": "Fading Afternoon",
-   "preco": "R$59,99",
-   "desconto_percentual": null,
+   "preco": "R$17,99",
+   "desconto_percentual": 70,
    "prioridade": 0,
    "adicionado_em": "2023-12-22"
   },
@@ -2237,8 +2237,8 @@
   {
    "appid": 1755830,
    "nome": "Astrea: Six-Sided Oracles",
-   "preco": "R$59,99",
-   "desconto_percentual": null,
+   "preco": "R$35,99",
+   "desconto_percentual": 40,
    "prioridade": 0,
    "adicionado_em": "2023-12-22"
   },
@@ -2317,16 +2317,16 @@
   {
    "appid": 1782460,
    "nome": "Hell Clock",
-   "preco": "R$59,99",
-   "desconto_percentual": null,
+   "preco": "R$32,99",
+   "desconto_percentual": 45,
    "prioridade": 0,
    "adicionado_em": "2024-12-12"
   },
   {
    "appid": 1783560,
    "nome": "The Last Caretaker",
-   "preco": "R$97,99",
-   "desconto_percentual": null,
+   "preco": "R$78,39",
+   "desconto_percentual": 20,
    "prioridade": 0,
    "adicionado_em": "2026-01-15"
   },
@@ -2349,8 +2349,8 @@
   {
    "appid": 1796790,
    "nome": "Chef RPG",
-   "preco": "R$44,99",
-   "desconto_percentual": 25,
+   "preco": "R$59,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-09-13"
   },
@@ -2365,8 +2365,8 @@
   {
    "appid": 1805320,
    "nome": "Romestead",
-   "preco": "R$32,39",
-   "desconto_percentual": 20,
+   "preco": "R$40,49",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2026-06-12"
   },
@@ -2581,8 +2581,8 @@
   {
    "appid": 1874000,
    "nome": "Life is Strange: Double Exposure",
-   "preco": "R$87,96",
-   "desconto_percentual": 60,
+   "preco": "R$219,90",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-06-12"
   },
@@ -2725,8 +2725,8 @@
   {
    "appid": 1933390,
    "nome": "Rain World: Downpour",
-   "preco": "R$44,99",
-   "desconto_percentual": null,
+   "preco": "R$29,24",
+   "desconto_percentual": 35,
    "prioridade": 0,
    "adicionado_em": "2023-06-22"
   },
@@ -2861,16 +2861,16 @@
   {
    "appid": 1983620,
    "nome": "Infinitevania",
-   "preco": "R$35,99",
-   "desconto_percentual": null,
+   "preco": "R$21,59",
+   "desconto_percentual": 40,
    "prioridade": 0,
    "adicionado_em": "2026-07-15"
   },
   {
    "appid": 1983990,
    "nome": "Nexus 5X",
-   "preco": "R$29,99",
-   "desconto_percentual": 50,
+   "preco": "R$59,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2023-07-03"
   },
@@ -2893,8 +2893,8 @@
   {
    "appid": 2000890,
    "nome": "MechWarrior 5: Clans",
-   "preco": "R$88,99",
-   "desconto_percentual": null,
+   "preco": "R$44,49",
+   "desconto_percentual": 50,
    "prioridade": 0,
    "adicionado_em": "2024-10-17"
   },
@@ -2957,8 +2957,8 @@
   {
    "appid": 2019810,
    "nome": "Boxes: Lost Fragments",
-   "preco": "R$25,84",
-   "desconto_percentual": 45,
+   "preco": "R$46,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-04-18"
   },
@@ -3269,8 +3269,8 @@
   {
    "appid": 2154070,
    "nome": "INDUSTRIA 2",
-   "preco": "R$73,99",
-   "desconto_percentual": null,
+   "preco": "R$49,57",
+   "desconto_percentual": 33,
    "prioridade": 0,
    "adicionado_em": "2024-03-23"
   },
@@ -3477,16 +3477,16 @@
   {
    "appid": 2218750,
    "nome": "Halls of Torment",
-   "preco": "R$19,99",
-   "desconto_percentual": null,
+   "preco": "R$14,99",
+   "desconto_percentual": 25,
    "prioridade": 0,
    "adicionado_em": "2024-10-22"
   },
   {
    "appid": 2230110,
    "nome": "Fae Farm",
-   "preco": "R$85,59",
-   "desconto_percentual": 23,
+   "preco": "R$88,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2023-07-03"
   },
@@ -3725,8 +3725,8 @@
   {
    "appid": 2345020,
    "nome": "Bee Island",
-   "preco": "R$21,44",
-   "desconto_percentual": 35,
+   "preco": "R$32,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2023-12-26"
   },
@@ -4093,8 +4093,8 @@
   {
    "appid": 2473480,
    "nome": "Tails of Iron 2: Whiskers of Winter",
-   "preco": "R$33,99",
-   "desconto_percentual": 60,
+   "preco": "R$84,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2025-02-03"
   },
@@ -4125,8 +4125,8 @@
   {
    "appid": 2484130,
    "nome": "Fruitbus",
-   "preco": "R$36,99",
-   "desconto_percentual": 50,
+   "preco": "R$73,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-10-30"
   },
@@ -4421,8 +4421,8 @@
   {
    "appid": 2649080,
    "nome": "Coffee Caravan",
-   "preco": "R$23,09",
-   "desconto_percentual": 40,
+   "preco": "R$38,49",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-11-17"
   },
@@ -4605,8 +4605,8 @@
   {
    "appid": 2717880,
    "nome": "The Rogue Prince of Persia",
-   "preco": "R$11,99",
-   "desconto_percentual": 70,
+   "preco": "R$39,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-04-14"
   },
@@ -4677,8 +4677,8 @@
   {
    "appid": 2751000,
    "nome": "Prince of Persia The Lost Crown",
-   "preco": "R$145,78",
-   "desconto_percentual": 15,
+   "preco": "R$149,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-08-19"
   },
@@ -4909,8 +4909,8 @@
   {
    "appid": 2870920,
    "nome": "Restaurats",
-   "preco": "R$22,55",
-   "desconto_percentual": 52,
+   "preco": "R$46,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2025-11-12"
   },
@@ -4973,8 +4973,8 @@
   {
    "appid": 2908500,
    "nome": "Buggos 2",
-   "preco": "R$80,63",
-   "desconto_percentual": null,
+   "preco": "R$40,31",
+   "desconto_percentual": 50,
    "prioridade": 0,
    "adicionado_em": "2026-01-11"
   },
@@ -5461,8 +5461,8 @@
   {
    "appid": 3292980,
    "nome": "Hacky",
-   "preco": "R$16,99",
-   "desconto_percentual": null,
+   "preco": "R$13,59",
+   "desconto_percentual": 20,
    "prioridade": 0,
    "adicionado_em": "2024-10-29"
   },
@@ -5589,16 +5589,16 @@
   {
    "appid": 3436030,
    "nome": "IDLE BOSS RUSH",
-   "preco": "R$28,11",
-   "desconto_percentual": 25,
+   "preco": "R$37,49",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2025-09-27"
   },
   {
    "appid": 3444650,
    "nome": "Mosaic of the Strange",
-   "preco": "R$12,59",
-   "desconto_percentual": 70,
+   "preco": "R$41,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2026-01-04"
   },
@@ -5989,8 +5989,8 @@
   {
    "appid": 3840050,
    "nome": "Cult of the Lamb: Woolhaven",
-   "preco": "R$39,99",
-   "desconto_percentual": 20,
+   "preco": "R$49,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2026-07-17"
   },
