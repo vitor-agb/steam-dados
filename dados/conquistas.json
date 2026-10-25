@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-10-24T13:00:41+00:00",
- "total": 123,
+ "atualizado_em": "2026-10-25T13:27:46+00:00",
+ "total": 124,
  "dados": [
   {
    "appid": 1473350,
@@ -124,9 +124,9 @@
   {
    "appid": 1621690,
    "nome": "Core Keeper",
-   "conquistas_feitas": 3,
+   "conquistas_feitas": 4,
    "conquistas_total": 59,
-   "percentual": 5.1
+   "percentual": 6.8
   },
   {
    "appid": 3321460,
@@ -456,6 +456,13 @@
    "conquistas_feitas": 0,
    "conquistas_total": 49,
    "percentual": 0.0
+  },
+  {
+   "appid": 1446780,
+   "nome": "MONSTER HUNTER RISE",
+   "conquistas_feitas": 1,
+   "conquistas_total": 100,
+   "percentual": 1.0
   },
   {
    "appid": 582010,
@@ -803,9 +810,9 @@
   {
    "appid": 1794680,
    "nome": "Vampire Survivors",
-   "conquistas_feitas": 225,
+   "conquistas_feitas": 229,
    "conquistas_total": 243,
-   "percentual": 92.6
+   "percentual": 94.2
   },
   {
    "appid": 1158470,
@@ -838,9 +845,9 @@
   {
    "appid": 2183900,
    "nome": "Warhammer 40,000: Space Marine 2",
-   "conquistas_feitas": 25,
+   "conquistas_feitas": 27,
    "conquistas_total": 50,
-   "percentual": 50.0
+   "percentual": 54.0
   },
   {
    "appid": 1527950,
