@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-10-25T13:26:47+00:00",
+ "atualizado_em": "2026-10-26T15:37:12+00:00",
  "total": 248,
  "dados": [
   {
@@ -299,8 +299,8 @@
   {
    "appid": 1091500,
    "nome": "Cyberpunk 2077",
-   "horas": 82.4,
-   "horas_ultimas_2_semanas": 2.1,
+   "horas": 82.8,
+   "horas_ultimas_2_semanas": 2.5,
    "ultima_vez_jogado": "2026-10-25"
   },
   {
@@ -1581,7 +1581,7 @@
    "appid": 1142710,
    "nome": "Total War: WARHAMMER III",
    "horas": 2.7,
-   "horas_ultimas_2_semanas": 1.1,
+   "horas_ultimas_2_semanas": 0.6,
    "ultima_vez_jogado": "2026-10-18"
   },
   {
@@ -1658,7 +1658,7 @@
    "appid": 2005010,
    "nome": "Warhammer 40,000: Boltgun",
    "horas": 18.6,
-   "horas_ultimas_2_semanas": 9.7,
+   "horas_ultimas_2_semanas": 3.5,
    "ultima_vez_jogado": "2026-10-14"
   },
   {

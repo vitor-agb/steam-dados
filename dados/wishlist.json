@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-10-25T13:27:06+00:00",
+ "atualizado_em": "2026-10-26T15:37:33+00:00",
  "total": 795,
  "dados": [
   {
@@ -69,8 +69,8 @@
   {
    "appid": 312520,
    "nome": "Rain World",
-   "preco": "R$33,21",
-   "desconto_percentual": 66,
+   "preco": "R$33,29",
+   "desconto_percentual": 55,
    "prioridade": 0,
    "adicionado_em": "2023-06-22"
   },
@@ -757,8 +757,8 @@
   {
    "appid": 1139980,
    "nome": "Travellers Rest",
-   "preco": "R$41,24",
-   "desconto_percentual": 25,
+   "preco": "R$54,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2023-07-23"
   },
@@ -1275,6 +1275,14 @@
    "adicionado_em": "2024-05-01"
   },
   {
+   "appid": 1361210,
+   "nome": "Warhammer 40,000: Darktide",
+   "preco": "R$134,95",
+   "desconto_percentual": null,
+   "prioridade": 0,
+   "adicionado_em": "2026-10-25"
+  },
+  {
    "appid": 1363080,
    "nome": "Manor Lords",
    "preco": "R$79,99",
@@ -1397,8 +1405,8 @@
   {
    "appid": 1386900,
    "nome": "Observer: System Redux",
-   "preco": "R$47,68",
-   "desconto_percentual": 44,
+   "preco": "R$57,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2025-05-06"
   },
@@ -1509,8 +1517,8 @@
   {
    "appid": 1458300,
    "nome": "The Gap",
-   "preco": "R$59,99",
-   "desconto_percentual": null,
+   "preco": "R$58,21",
+   "desconto_percentual": 40,
    "prioridade": 0,
    "adicionado_em": "2023-06-22"
   },
@@ -1701,8 +1709,8 @@
   {
    "appid": 1546310,
    "nome": "El Paso, Elsewhere",
-   "preco": "R$29,99",
-   "desconto_percentual": 50,
+   "preco": "R$59,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2023-06-22"
   },
@@ -2213,8 +2221,8 @@
   {
    "appid": 1737870,
    "nome": "REKA",
-   "preco": "R$59,99",
-   "desconto_percentual": null,
+   "preco": "R$38,99",
+   "desconto_percentual": 35,
    "prioridade": 0,
    "adicionado_em": "2023-06-22"
   },
@@ -2325,7 +2333,7 @@
   {
    "appid": 1783560,
    "nome": "The Last Caretaker",
-   "preco": "R$78,39",
+   "preco": "R$70,55",
    "desconto_percentual": 20,
    "prioridade": 0,
    "adicionado_em": "2026-01-15"
@@ -4453,8 +4461,8 @@
   {
    "appid": 2671230,
    "nome": "BLADECHIMERA",
-   "preco": "R$46,99",
-   "desconto_percentual": null,
+   "preco": "R$37,59",
+   "desconto_percentual": 20,
    "prioridade": 0,
    "adicionado_em": "2025-01-17"
   },
@@ -5101,7 +5109,7 @@
   {
    "appid": 3008130,
    "nome": "Dying Light: The Beast",
-   "preco": "R$174,00",
+   "preco": "R$249,00",
    "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-08-20"
@@ -5347,6 +5355,14 @@
    "adicionado_em": "2024-11-12"
   },
   {
+   "appid": 3218350,
+   "nome": "Melvor Idle 2",
+   "preco": null,
+   "desconto_percentual": null,
+   "prioridade": 0,
+   "adicionado_em": "2026-10-20"
+  },
+  {
    "appid": 3219410,
    "nome": "The Trolley Solution",
    "preco": "R$24,99",
@@ -5393,6 +5409,14 @@
    "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2025-10-11"
+  },
+  {
+   "appid": 3259780,
+   "nome": "FINAL FANTASY RESONANCE",
+   "preco": "R$219,90",
+   "desconto_percentual": null,
+   "prioridade": 0,
+   "adicionado_em": "2026-10-23"
   },
   {
    "appid": 3267900,
@@ -6021,8 +6045,8 @@
   {
    "appid": 3913310,
    "nome": "Ash Warden",
-   "preco": "R$23,50",
-   "desconto_percentual": null,
+   "preco": "R$15,27",
+   "desconto_percentual": 35,
    "prioridade": 0,
    "adicionado_em": "2026-01-12"
   },
@@ -6337,30 +6361,6 @@
    "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2026-09-30"
-  },
-  {
-   "appid": 3218350,
-   "nome": "Melvor Idle 2",
-   "preco": null,
-   "desconto_percentual": null,
-   "prioridade": 0,
-   "adicionado_em": "2026-10-20"
-  },
-  {
-   "appid": 3259780,
-   "nome": "FINAL FANTASY RESONANCE",
-   "preco": "R$219,90",
-   "desconto_percentual": null,
-   "prioridade": 0,
-   "adicionado_em": "2026-10-23"
-  },
-  {
-   "appid": 1361210,
-   "nome": "Warhammer 40,000: Darktide",
-   "preco": "R$134,95",
-   "desconto_percentual": null,
-   "prioridade": 0,
-   "adicionado_em": "2026-10-25"
   }
  ]
 }
