@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-10-26T15:37:33+00:00",
+ "atualizado_em": "2026-10-27T15:01:10+00:00",
  "total": 795,
  "dados": [
   {
@@ -101,8 +101,8 @@
   {
    "appid": 368260,
    "nome": "Marvel's Midnight Suns",
-   "preco": "R$299,90",
-   "desconto_percentual": null,
+   "preco": "R$44,98",
+   "desconto_percentual": 85,
    "prioridade": 0,
    "adicionado_em": "2026-10-04"
   },
@@ -133,8 +133,8 @@
   {
    "appid": 424840,
    "nome": "Little Nightmares",
-   "preco": "R$84,90",
-   "desconto_percentual": null,
+   "preco": "R$32,62",
+   "desconto_percentual": 75,
    "prioridade": 0,
    "adicionado_em": "2024-08-26"
   },
@@ -237,8 +237,8 @@
   {
    "appid": 593150,
    "nome": "Ooblets",
-   "preco": "R$88,99",
-   "desconto_percentual": null,
+   "preco": "R$57,84",
+   "desconto_percentual": 35,
    "prioridade": 0,
    "adicionado_em": "2024-11-12"
   },
@@ -253,8 +253,8 @@
   {
    "appid": 606160,
    "nome": "ROUTINE",
-   "preco": "R$73,99",
-   "desconto_percentual": null,
+   "preco": "R$48,09",
+   "desconto_percentual": 35,
    "prioridade": 0,
    "adicionado_em": "2023-06-22"
   },
@@ -277,8 +277,8 @@
   {
    "appid": 619820,
    "nome": "Heroes of Hammerwatch II",
-   "preco": "R$61,99",
-   "desconto_percentual": null,
+   "preco": "R$37,49",
+   "desconto_percentual": 50,
    "prioridade": 0,
    "adicionado_em": "2025-01-17"
   },
@@ -309,8 +309,8 @@
   {
    "appid": 653530,
    "nome": "Return of the Obra Dinn",
-   "preco": "R$59,99",
-   "desconto_percentual": null,
+   "preco": "R$40,19",
+   "desconto_percentual": 33,
    "prioridade": 0,
    "adicionado_em": "2023-04-07"
   },
@@ -373,8 +373,8 @@
   {
    "appid": 798490,
    "nome": "Othercide",
-   "preco": "R$99,90",
-   "desconto_percentual": null,
+   "preco": "R$9,99",
+   "desconto_percentual": 90,
    "prioridade": 0,
    "adicionado_em": "2023-06-22"
   },
@@ -389,8 +389,8 @@
   {
    "appid": 841190,
    "nome": "Honey, I Joined a Cult",
-   "preco": "R$115,90",
-   "desconto_percentual": null,
+   "preco": "R$31,62",
+   "desconto_percentual": 75,
    "prioridade": 0,
    "adicionado_em": "2024-01-30"
   },
@@ -437,8 +437,8 @@
   {
    "appid": 867210,
    "nome": "Songs of Conquest",
-   "preco": "R$116,29",
-   "desconto_percentual": null,
+   "preco": "R$23,25",
+   "desconto_percentual": 80,
    "prioridade": 0,
    "adicionado_em": "2025-01-18"
   },
@@ -541,8 +541,8 @@
   {
    "appid": 977510,
    "nome": "Time to Morp",
-   "preco": "R$59,98",
-   "desconto_percentual": null,
+   "preco": "R$14,99",
+   "desconto_percentual": 75,
    "prioridade": 0,
    "adicionado_em": "2025-05-13"
   },
@@ -653,8 +653,8 @@
   {
    "appid": 1062090,
    "nome": "Timberborn",
-   "preco": "R$71,39",
-   "desconto_percentual": 30,
+   "preco": "R$101,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2023-04-24"
   },
@@ -805,24 +805,24 @@
   {
    "appid": 1159690,
    "nome": "Voidtrain",
-   "preco": "R$44,49",
-   "desconto_percentual": 50,
+   "preco": "R$88,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2023-05-07"
   },
   {
    "appid": 1164940,
    "nome": "Trepang2",
-   "preco": "R$109,00",
-   "desconto_percentual": null,
+   "preco": "R$36,75",
+   "desconto_percentual": 75,
    "prioridade": 0,
    "adicionado_em": "2023-12-31"
   },
   {
    "appid": 1169040,
    "nome": "Necesse",
-   "preco": "R$42,29",
-   "desconto_percentual": null,
+   "preco": "R$27,49",
+   "desconto_percentual": 35,
    "prioridade": 0,
    "adicionado_em": "2026-08-03"
   },
@@ -909,8 +909,8 @@
   {
    "appid": 1244090,
    "nome": "Sea of Stars: Sunset Edition",
-   "preco": "R$99,99",
-   "desconto_percentual": null,
+   "preco": "R$49,99",
+   "desconto_percentual": 50,
    "prioridade": 0,
    "adicionado_em": "2023-04-09"
   },
@@ -1005,8 +1005,8 @@
   {
    "appid": 1274600,
    "nome": "The Last Faith",
-   "preco": "R$99,00",
-   "desconto_percentual": null,
+   "preco": "R$49,50",
+   "desconto_percentual": 50,
    "prioridade": 0,
    "adicionado_em": "2023-06-22"
   },
@@ -1061,7 +1061,7 @@
   {
    "appid": 1286990,
    "nome": "CONSCRIPT: Director’s Cut",
-   "preco": "R$22,02",
+   "preco": "R$24,47",
    "desconto_percentual": 66,
    "prioridade": 0,
    "adicionado_em": "2024-07-29"
@@ -1125,8 +1125,8 @@
   {
    "appid": 1310410,
    "nome": "Alone in the Dark",
-   "preco": "R$107,99",
-   "desconto_percentual": null,
+   "preco": "R$26,99",
+   "desconto_percentual": 75,
    "prioridade": 0,
    "adicionado_em": "2024-06-12"
   },
@@ -1157,8 +1157,8 @@
   {
    "appid": 1326470,
    "nome": "Sons Of The Forest",
-   "preco": "R$88,99",
-   "desconto_percentual": null,
+   "preco": "R$24,91",
+   "desconto_percentual": 72,
    "prioridade": 0,
    "adicionado_em": "2023-03-25"
   },
@@ -1357,7 +1357,7 @@
   {
    "appid": 1371980,
    "nome": "No Rest for the Wicked",
-   "preco": "R$116,99",
+   "preco": "R$112,38",
    "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-03-23"
@@ -1405,16 +1405,16 @@
   {
    "appid": 1386900,
    "nome": "Observer: System Redux",
-   "preco": "R$57,99",
-   "desconto_percentual": null,
+   "preco": "R$11,59",
+   "desconto_percentual": 80,
    "prioridade": 0,
    "adicionado_em": "2025-05-06"
   },
   {
    "appid": 1392860,
    "nome": "Little Nightmares III",
-   "preco": "R$182,90",
-   "desconto_percentual": null,
+   "preco": "R$91,45",
+   "desconto_percentual": 50,
    "prioridade": 0,
    "adicionado_em": "2024-08-20"
   },
@@ -1517,8 +1517,8 @@
   {
    "appid": 1458300,
    "nome": "The Gap",
-   "preco": "R$58,21",
-   "desconto_percentual": 40,
+   "preco": "R$11,99",
+   "desconto_percentual": 80,
    "prioridade": 0,
    "adicionado_em": "2023-06-22"
   },
@@ -1621,8 +1621,8 @@
   {
    "appid": 1507580,
    "nome": "Enigma of Fear",
-   "preco": "R$65,00",
-   "desconto_percentual": null,
+   "preco": "R$61,46",
+   "desconto_percentual": 30,
    "prioridade": 0,
    "adicionado_em": "2024-10-29"
   },
@@ -1893,8 +1893,8 @@
   {
    "appid": 1612770,
    "nome": "Sweet Transit",
-   "preco": "R$149,00",
-   "desconto_percentual": null,
+   "preco": "R$31,99",
+   "desconto_percentual": 80,
    "prioridade": 0,
    "adicionado_em": "2024-10-16"
   },
@@ -1925,8 +1925,8 @@
   {
    "appid": 1631470,
    "nome": "Critter Cove",
-   "preco": "R$73,99",
-   "desconto_percentual": null,
+   "preco": "R$48,09",
+   "desconto_percentual": 35,
    "prioridade": 0,
    "adicionado_em": "2024-12-20"
   },
@@ -2141,8 +2141,8 @@
   {
    "appid": 1708770,
    "nome": "30 Birds",
-   "preco": "R$54,99",
-   "desconto_percentual": null,
+   "preco": "R$27,49",
+   "desconto_percentual": 50,
    "prioridade": 0,
    "adicionado_em": "2023-06-22"
   },
@@ -2173,8 +2173,8 @@
   {
    "appid": 1716310,
    "nome": "Awaken - Astral Blade",
-   "preco": "R$59,99",
-   "desconto_percentual": null,
+   "preco": "R$29,99",
+   "desconto_percentual": 50,
    "prioridade": 0,
    "adicionado_em": "2024-03-23"
   },
@@ -2333,8 +2333,8 @@
   {
    "appid": 1783560,
    "nome": "The Last Caretaker",
-   "preco": "R$70,55",
-   "desconto_percentual": 20,
+   "preco": "R$88,19",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2026-01-15"
   },
@@ -2349,8 +2349,8 @@
   {
    "appid": 1790930,
    "nome": "Crisol: Theater of Idols",
-   "preco": "R$53,98",
-   "desconto_percentual": 8,
+   "preco": "R$41,24",
+   "desconto_percentual": 25,
    "prioridade": 0,
    "adicionado_em": "2026-09-19"
   },
@@ -2653,8 +2653,8 @@
   {
    "appid": 1903620,
    "nome": "Killer Frequency",
-   "preco": "R$80,10",
-   "desconto_percentual": null,
+   "preco": "R$21,80",
+   "desconto_percentual": 80,
    "prioridade": 0,
    "adicionado_em": "2024-01-30"
   },
@@ -2725,8 +2725,8 @@
   {
    "appid": 1933370,
    "nome": "Mark of the Deep",
-   "preco": "R$39,99",
-   "desconto_percentual": null,
+   "preco": "R$13,99",
+   "desconto_percentual": 65,
    "prioridade": 0,
    "adicionado_em": "2025-02-03"
   },
@@ -2741,8 +2741,8 @@
   {
    "appid": 1934570,
    "nome": "South of Midnight",
-   "preco": "R$119,00",
-   "desconto_percentual": null,
+   "preco": "R$83,30",
+   "desconto_percentual": 30,
    "prioridade": 0,
    "adicionado_em": "2025-04-07"
   },
@@ -2869,8 +2869,8 @@
   {
    "appid": 1983620,
    "nome": "Infinitevania",
-   "preco": "R$21,59",
-   "desconto_percentual": 40,
+   "preco": "R$35,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2026-07-15"
   },
@@ -2885,8 +2885,8 @@
   {
    "appid": 1989270,
    "nome": "Slay the Princess — The Pristine Cut",
-   "preco": "R$53,99",
-   "desconto_percentual": null,
+   "preco": "R$21,59",
+   "desconto_percentual": 60,
    "prioridade": 0,
    "adicionado_em": "2023-12-31"
   },
@@ -2901,8 +2901,8 @@
   {
    "appid": 2000890,
    "nome": "MechWarrior 5: Clans",
-   "preco": "R$44,49",
-   "desconto_percentual": 50,
+   "preco": "R$88,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-10-17"
   },
@@ -2981,8 +2981,8 @@
   {
    "appid": 2026820,
    "nome": "Die in the Dungeon",
-   "preco": "R$20,99",
-   "desconto_percentual": 40,
+   "preco": "R$34,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2025-03-05"
   },
@@ -3101,8 +3101,8 @@
   {
    "appid": 2073250,
    "nome": "Rift of the NecroDancer",
-   "preco": "R$55,78",
-   "desconto_percentual": 27,
+   "preco": "R$14,99",
+   "desconto_percentual": 75,
    "prioridade": 0,
    "adicionado_em": "2025-02-18"
   },
@@ -3181,8 +3181,8 @@
   {
    "appid": 2114740,
    "nome": "Blasphemous 2",
-   "preco": "R$24,52",
-   "desconto_percentual": 75,
+   "preco": "R$47,59",
+   "desconto_percentual": 66,
    "prioridade": 0,
    "adicionado_em": "2023-09-08"
   },
@@ -3205,8 +3205,8 @@
   {
    "appid": 2124490,
    "nome": "SILENT HILL 2",
-   "preco": "R$349,90",
-   "desconto_percentual": null,
+   "preco": "R$159,80",
+   "desconto_percentual": 60,
    "prioridade": 0,
    "adicionado_em": "2024-10-06"
   },
@@ -3221,8 +3221,8 @@
   {
    "appid": 2129530,
    "nome": "REANIMAL",
-   "preco": "R$107,99",
-   "desconto_percentual": null,
+   "preco": "R$80,99",
+   "desconto_percentual": 25,
    "prioridade": 0,
    "adicionado_em": "2024-08-20"
   },
@@ -3437,32 +3437,32 @@
   {
    "appid": 2198510,
    "nome": "New Cycle",
-   "preco": "R$34,99",
-   "desconto_percentual": 50,
+   "preco": "R$69,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-10-20"
   },
   {
    "appid": 2211170,
    "nome": "Unrailed 2: Back on Track",
-   "preco": "R$57,59",
-   "desconto_percentual": 41,
+   "preco": "R$63,00",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-03-23"
   },
   {
    "appid": 2213120,
    "nome": "While We Wait Here",
-   "preco": "R$16,99",
-   "desconto_percentual": null,
+   "preco": "R$11,04",
+   "desconto_percentual": 35,
    "prioridade": 0,
    "adicionado_em": "2024-10-24"
   },
   {
    "appid": 2213700,
    "nome": "Sintopia",
-   "preco": "R$130,99",
-   "desconto_percentual": null,
+   "preco": "R$91,69",
+   "desconto_percentual": 30,
    "prioridade": 0,
    "adicionado_em": "2025-04-07"
   },
@@ -3525,8 +3525,8 @@
   {
    "appid": 2239710,
    "nome": "Into the Dead: Our Darkest Days",
-   "preco": "R$66,59",
-   "desconto_percentual": null,
+   "preco": "R$53,27",
+   "desconto_percentual": 20,
    "prioridade": 0,
    "adicionado_em": "2024-06-12"
   },
@@ -3557,8 +3557,8 @@
   {
    "appid": 2272250,
    "nome": "Forgive Me Father 2",
-   "preco": "R$83,99",
-   "desconto_percentual": null,
+   "preco": "R$33,59",
+   "desconto_percentual": 60,
    "prioridade": 0,
    "adicionado_em": "2024-11-08"
   },
@@ -3589,8 +3589,8 @@
   {
    "appid": 2277560,
    "nome": "WUCHANG: Fallen Feathers",
-   "preco": "R$199,00",
-   "desconto_percentual": null,
+   "preco": "R$164,49",
+   "desconto_percentual": 30,
    "prioridade": 0,
    "adicionado_em": "2024-10-24"
   },
@@ -3957,8 +3957,8 @@
   {
    "appid": 2412960,
    "nome": "Breathedge 2",
-   "preco": "R$43,34",
-   "desconto_percentual": 25,
+   "preco": "R$57,79",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-10-09"
   },
@@ -4093,8 +4093,8 @@
   {
    "appid": 2467880,
    "nome": "Fading Echo",
-   "preco": "R$49,99",
-   "desconto_percentual": null,
+   "preco": "R$24,99",
+   "desconto_percentual": 50,
    "prioridade": 0,
    "adicionado_em": "2026-09-22"
   },
@@ -4221,8 +4221,8 @@
   {
    "appid": 2527160,
    "nome": "Desktop Explorer",
-   "preco": "R$43,19",
-   "desconto_percentual": 20,
+   "preco": "R$53,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2025-06-19"
   },
@@ -4269,16 +4269,16 @@
   {
    "appid": 2564520,
    "nome": "Lost in Random: The Eternal Die",
-   "preco": "R$60,00",
-   "desconto_percentual": null,
+   "preco": "R$24,00",
+   "desconto_percentual": 60,
    "prioridade": 0,
    "adicionado_em": "2025-06-18"
   },
   {
    "appid": 2569760,
    "nome": "The Mound: Omen of Cthulhu",
-   "preco": "R$119,99",
-   "desconto_percentual": null,
+   "preco": "R$90,99",
+   "desconto_percentual": 35,
    "prioridade": 0,
    "adicionado_em": "2025-03-07"
   },
@@ -4357,24 +4357,24 @@
   {
    "appid": 2604490,
    "nome": "I Hate This Place",
-   "preco": "R$89,99",
-   "desconto_percentual": null,
+   "preco": "R$44,99",
+   "desconto_percentual": 50,
    "prioridade": 0,
    "adicionado_em": "2026-07-16"
   },
   {
    "appid": 2608270,
    "nome": "Intravenous 2",
-   "preco": "R$29,99",
-   "desconto_percentual": 50,
+   "preco": "R$59,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-10-22"
   },
   {
    "appid": 2617700,
    "nome": "Tinkerlands",
-   "preco": "R$15,74",
-   "desconto_percentual": 30,
+   "preco": "R$22,49",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-10-09"
   },
@@ -4413,8 +4413,8 @@
   {
    "appid": 2638370,
    "nome": "Five Nights at Freddy's: Into the Pit",
-   "preco": "R$59,99",
-   "desconto_percentual": null,
+   "preco": "R$35,99",
+   "desconto_percentual": 40,
    "prioridade": 0,
    "adicionado_em": "2024-08-19"
   },
@@ -4597,8 +4597,8 @@
   {
    "appid": 2713000,
    "nome": "Resonance: A Plague Tale Legacy",
-   "preco": "R$179,99",
-   "desconto_percentual": null,
+   "preco": "R$142,18",
+   "desconto_percentual": 51,
    "prioridade": 0,
    "adicionado_em": "2026-08-16"
   },
@@ -4669,16 +4669,16 @@
   {
    "appid": 2738230,
    "nome": "The House of Tesla: Definitive Edition",
-   "preco": "R$89,00",
-   "desconto_percentual": null,
+   "preco": "R$81,13",
+   "desconto_percentual": 25,
    "prioridade": 0,
    "adicionado_em": "2025-09-28"
   },
   {
    "appid": 2748340,
    "nome": "Goblin Cleanup",
-   "preco": "R$69,99",
-   "desconto_percentual": null,
+   "preco": "R$45,49",
+   "desconto_percentual": 35,
    "prioridade": 0,
    "adicionado_em": "2024-06-09"
   },
@@ -4717,8 +4717,8 @@
   {
    "appid": 2760560,
    "nome": "Cthulhu: The Cosmic Abyss",
-   "preco": "R$139,99",
-   "desconto_percentual": null,
+   "preco": "R$136,10",
+   "desconto_percentual": 30,
    "prioridade": 0,
    "adicionado_em": "2025-03-07"
   },
@@ -4893,8 +4893,8 @@
   {
    "appid": 2863640,
    "nome": "The Midnight Walk",
-   "preco": "R$88,99",
-   "desconto_percentual": null,
+   "preco": "R$40,04",
+   "desconto_percentual": 55,
    "prioridade": 0,
    "adicionado_em": "2025-05-19"
   },
@@ -4981,8 +4981,8 @@
   {
    "appid": 2908500,
    "nome": "Buggos 2",
-   "preco": "R$40,31",
-   "desconto_percentual": 50,
+   "preco": "R$80,63",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2026-01-11"
   },
@@ -5077,8 +5077,8 @@
   {
    "appid": 2975950,
    "nome": "Solasta II",
-   "preco": "R$109,99",
-   "desconto_percentual": null,
+   "preco": "R$87,99",
+   "desconto_percentual": 20,
    "prioridade": 0,
    "adicionado_em": "2024-12-15"
   },
@@ -5109,8 +5109,8 @@
   {
    "appid": 3008130,
    "nome": "Dying Light: The Beast",
-   "preco": "R$249,00",
-   "desconto_percentual": null,
+   "preco": "R$124,50",
+   "desconto_percentual": 50,
    "prioridade": 0,
    "adicionado_em": "2024-08-20"
   },
@@ -5341,8 +5341,8 @@
   {
    "appid": 3195440,
    "nome": "Welcome to Elderfield",
-   "preco": "R$56,69",
-   "desconto_percentual": null,
+   "preco": "R$45,35",
+   "desconto_percentual": 20,
    "prioridade": 0,
    "adicionado_em": "2026-09-11"
   },
@@ -5373,8 +5373,8 @@
   {
    "appid": 3228590,
    "nome": "Deadzone: Rogue",
-   "preco": "R$31,24",
-   "desconto_percentual": 50,
+   "preco": "R$62,49",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2025-03-13"
   },
@@ -5485,8 +5485,8 @@
   {
    "appid": 3292980,
    "nome": "Hacky",
-   "preco": "R$13,59",
-   "desconto_percentual": 20,
+   "preco": "R$16,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-10-29"
   },
@@ -5773,16 +5773,16 @@
   {
    "appid": 3590290,
    "nome": "DIVE or DIE - Children of Rain",
-   "preco": "R$37,99",
-   "desconto_percentual": null,
+   "preco": "R$30,39",
+   "desconto_percentual": 20,
    "prioridade": 0,
    "adicionado_em": "2026-07-25"
   },
   {
    "appid": 3594760,
    "nome": "Pacific Drive: Whispers in the Woods",
-   "preco": "R$45,00",
-   "desconto_percentual": null,
+   "preco": "R$22,50",
+   "desconto_percentual": 50,
    "prioridade": 0,
    "adicionado_em": "2025-10-23"
   },

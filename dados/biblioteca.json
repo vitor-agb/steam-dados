@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-10-26T15:37:12+00:00",
+ "atualizado_em": "2026-10-27T15:00:50+00:00",
  "total": 248,
  "dados": [
   {
@@ -797,7 +797,7 @@
    "appid": 1084160,
    "nome": "Jagged Alliance 3",
    "horas": 0.8,
-   "horas_ultimas_2_semanas": 0.8,
+   "horas_ultimas_2_semanas": 0.0,
    "ultima_vez_jogado": "2026-10-12"
   },
   {
@@ -1623,15 +1623,15 @@
    "appid": 1604030,
    "nome": "V Rising",
    "horas": 2.8,
-   "horas_ultimas_2_semanas": 2.8,
+   "horas_ultimas_2_semanas": 0.9,
    "ultima_vez_jogado": "2026-10-14"
   },
   {
    "appid": 1794680,
    "nome": "Vampire Survivors",
-   "horas": 87.2,
-   "horas_ultimas_2_semanas": 1.9,
-   "ultima_vez_jogado": "2026-10-25"
+   "horas": 87.8,
+   "horas_ultimas_2_semanas": 2.5,
+   "ultima_vez_jogado": "2026-10-27"
   },
   {
    "appid": 1158470,
@@ -1658,7 +1658,7 @@
    "appid": 2005010,
    "nome": "Warhammer 40,000: Boltgun",
    "horas": 18.6,
-   "horas_ultimas_2_semanas": 3.5,
+   "horas_ultimas_2_semanas": 0.6,
    "ultima_vez_jogado": "2026-10-14"
   },
   {
@@ -1671,9 +1671,9 @@
   {
    "appid": 2183900,
    "nome": "Warhammer 40,000: Space Marine 2",
-   "horas": 29.9,
-   "horas_ultimas_2_semanas": 3.7,
-   "ultima_vez_jogado": "2026-10-24"
+   "horas": 30.3,
+   "horas_ultimas_2_semanas": 4.2,
+   "ultima_vez_jogado": "2026-10-27"
   },
   {
    "appid": 552500,
