@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-10-27T15:00:50+00:00",
+ "atualizado_em": "2026-10-28T15:37:10+00:00",
  "total": 248,
  "dados": [
   {
@@ -299,9 +299,9 @@
   {
    "appid": 1091500,
    "nome": "Cyberpunk 2077",
-   "horas": 82.8,
-   "horas_ultimas_2_semanas": 2.5,
-   "ultima_vez_jogado": "2026-10-25"
+   "horas": 83.6,
+   "horas_ultimas_2_semanas": 3.2,
+   "ultima_vez_jogado": "2026-10-28"
   },
   {
    "appid": 612390,
@@ -1623,7 +1623,7 @@
    "appid": 1604030,
    "nome": "V Rising",
    "horas": 2.8,
-   "horas_ultimas_2_semanas": 0.9,
+   "horas_ultimas_2_semanas": 0.0,
    "ultima_vez_jogado": "2026-10-14"
   },
   {
@@ -1658,7 +1658,7 @@
    "appid": 2005010,
    "nome": "Warhammer 40,000: Boltgun",
    "horas": 18.6,
-   "horas_ultimas_2_semanas": 0.6,
+   "horas_ultimas_2_semanas": 0.0,
    "ultima_vez_jogado": "2026-10-14"
   },
   {
@@ -1686,7 +1686,7 @@
    "appid": 1527950,
    "nome": "Wartales",
    "horas": 67.8,
-   "horas_ultimas_2_semanas": 9.7,
+   "horas_ultimas_2_semanas": 8.9,
    "ultima_vez_jogado": "2026-10-24"
   },
   {
