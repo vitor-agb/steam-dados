@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-10-29T15:44:37+00:00",
+ "atualizado_em": "2026-10-30T15:26:57+00:00",
  "total": 124,
  "dados": [
   {
@@ -132,8 +132,8 @@
    "appid": 3321460,
    "nome": "Crimson Desert Enhanced",
    "conquistas_feitas": 2,
-   "conquistas_total": 34,
-   "percentual": 5.9
+   "conquistas_total": 41,
+   "percentual": 4.9
   },
   {
    "appid": 368340,
@@ -810,9 +810,9 @@
   {
    "appid": 1794680,
    "nome": "Vampire Survivors",
-   "conquistas_feitas": 233,
+   "conquistas_feitas": 236,
    "conquistas_total": 243,
-   "percentual": 95.9
+   "percentual": 97.1
   },
   {
    "appid": 1158470,
