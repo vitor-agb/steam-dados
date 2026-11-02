@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-01T15:34:46+00:00",
+ "atualizado_em": "2026-11-02T18:57:59+00:00",
  "total": 248,
  "dados": [
   {
@@ -258,15 +258,15 @@
    "appid": 1621690,
    "nome": "Core Keeper",
    "horas": 4.5,
-   "horas_ultimas_2_semanas": 2.0,
+   "horas_ultimas_2_semanas": 1.9,
    "ultima_vez_jogado": "2026-10-24"
   },
   {
    "appid": 3321460,
    "nome": "Crimson Desert Enhanced",
-   "horas": 40.4,
-   "horas_ultimas_2_semanas": 0.0,
-   "ultima_vez_jogado": "2026-11-01"
+   "horas": 43.1,
+   "horas_ultimas_2_semanas": 2.6,
+   "ultima_vez_jogado": "2026-11-02"
   },
   {
    "appid": 368340,
@@ -496,7 +496,7 @@
    "appid": 1203620,
    "nome": "Enshrouded",
    "horas": 25.2,
-   "horas_ultimas_2_semanas": 0.5,
+   "horas_ultimas_2_semanas": 0.3,
    "ultima_vez_jogado": "2026-10-23"
   },
   {
@@ -1672,7 +1672,7 @@
    "appid": 2183900,
    "nome": "Warhammer 40,000: Space Marine 2",
    "horas": 30.6,
-   "horas_ultimas_2_semanas": 2.9,
+   "horas_ultimas_2_semanas": 2.4,
    "ultima_vez_jogado": "2026-10-29"
   },
   {
