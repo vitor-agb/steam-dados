@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-02T18:57:59+00:00",
+ "atualizado_em": "2026-11-03T16:42:57+00:00",
  "total": 248,
  "dados": [
   {
@@ -258,14 +258,14 @@
    "appid": 1621690,
    "nome": "Core Keeper",
    "horas": 4.5,
-   "horas_ultimas_2_semanas": 1.9,
+   "horas_ultimas_2_semanas": 1.1,
    "ultima_vez_jogado": "2026-10-24"
   },
   {
    "appid": 3321460,
    "nome": "Crimson Desert Enhanced",
-   "horas": 43.1,
-   "horas_ultimas_2_semanas": 2.6,
+   "horas": 43.5,
+   "horas_ultimas_2_semanas": 3.1,
    "ultima_vez_jogado": "2026-11-02"
   },
   {
@@ -516,9 +516,9 @@
   {
    "appid": 427520,
    "nome": "Factorio",
-   "horas": 650.1,
-   "horas_ultimas_2_semanas": 0.0,
-   "ultima_vez_jogado": "2026-08-23"
+   "horas": 651.6,
+   "horas_ultimas_2_semanas": 1.5,
+   "ultima_vez_jogado": "2026-11-03"
   },
   {
    "appid": 2207490,
@@ -1629,9 +1629,9 @@
   {
    "appid": 1794680,
    "nome": "Vampire Survivors",
-   "horas": 92.7,
-   "horas_ultimas_2_semanas": 6.9,
-   "ultima_vez_jogado": "2026-11-01"
+   "horas": 93.5,
+   "horas_ultimas_2_semanas": 7.6,
+   "ultima_vez_jogado": "2026-11-03"
   },
   {
    "appid": 1158470,
