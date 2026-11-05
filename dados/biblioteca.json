@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-04T16:40:48+00:00",
- "total": 248,
+ "atualizado_em": "2026-11-05T16:56:38+00:00",
+ "total": 251,
  "dados": [
   {
    "appid": 1473350,
@@ -54,9 +54,9 @@
   {
    "appid": 427410,
    "nome": "Abiotic Factor",
-   "horas": 1.2,
-   "horas_ultimas_2_semanas": 0.0,
-   "ultima_vez_jogado": "2026-06-26"
+   "horas": 1.5,
+   "horas_ultimas_2_semanas": 0.3,
+   "ultima_vez_jogado": "2026-11-05"
   },
   {
    "appid": 504390,
@@ -258,7 +258,7 @@
    "appid": 1621690,
    "nome": "Core Keeper",
    "horas": 4.5,
-   "horas_ultimas_2_semanas": 1.1,
+   "horas_ultimas_2_semanas": 0.4,
    "ultima_vez_jogado": "2026-10-24"
   },
   {
@@ -516,9 +516,9 @@
   {
    "appid": 427520,
    "nome": "Factorio",
-   "horas": 651.6,
-   "horas_ultimas_2_semanas": 1.5,
-   "ultima_vez_jogado": "2026-11-03"
+   "horas": 653.2,
+   "horas_ultimas_2_semanas": 3.1,
+   "ultima_vez_jogado": "2026-11-05"
   },
   {
    "appid": 2207490,
@@ -1221,6 +1221,13 @@
    "ultima_vez_jogado": "2026-04-18"
   },
   {
+   "appid": 391220,
+   "nome": "Rise of the Tomb Raider",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
    "appid": 220700,
    "nome": "RPG Maker VX Ace",
    "horas": 0.0,
@@ -1258,6 +1265,13 @@
   {
    "appid": 635850,
    "nome": "Sentience: The Android's Tale",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 750920,
+   "nome": "Shadow of the Tomb Raider",
    "horas": 0.0,
    "horas_ultimas_2_semanas": 0.0,
    "ultima_vez_jogado": null
@@ -1578,6 +1592,13 @@
    "ultima_vez_jogado": "2024-02-24"
   },
   {
+   "appid": 203160,
+   "nome": "Tomb Raider",
+   "horas": 0.8,
+   "horas_ultimas_2_semanas": 0.8,
+   "ultima_vez_jogado": "2026-11-04"
+  },
+  {
    "appid": 1142710,
    "nome": "Total War: WARHAMMER III",
    "horas": 2.7,
@@ -1629,9 +1650,9 @@
   {
    "appid": 1794680,
    "nome": "Vampire Survivors",
-   "horas": 93.5,
-   "horas_ultimas_2_semanas": 7.6,
-   "ultima_vez_jogado": "2026-11-03"
+   "horas": 93.6,
+   "horas_ultimas_2_semanas": 7.5,
+   "ultima_vez_jogado": "2026-11-05"
   },
   {
    "appid": 1158470,
