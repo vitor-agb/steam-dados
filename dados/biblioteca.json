@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-06T16:29:04+00:00",
- "total": 251,
+ "atualizado_em": "2026-11-07T15:16:19+00:00",
+ "total": 252,
  "dados": [
   {
    "appid": 1473350,
@@ -258,7 +258,7 @@
    "appid": 1621690,
    "nome": "Core Keeper",
    "horas": 4.5,
-   "horas_ultimas_2_semanas": 0.4,
+   "horas_ultimas_2_semanas": 0.0,
    "ultima_vez_jogado": "2026-10-24"
   },
   {
@@ -496,7 +496,7 @@
    "appid": 1203620,
    "nome": "Enshrouded",
    "horas": 25.2,
-   "horas_ultimas_2_semanas": 0.3,
+   "horas_ultimas_2_semanas": 0.0,
    "ultima_vez_jogado": "2026-10-23"
   },
   {
@@ -516,9 +516,9 @@
   {
    "appid": 427520,
    "nome": "Factorio",
-   "horas": 655.5,
-   "horas_ultimas_2_semanas": 5.4,
-   "ultima_vez_jogado": "2026-11-06"
+   "horas": 656.6,
+   "horas_ultimas_2_semanas": 6.4,
+   "ultima_vez_jogado": "2026-11-07"
   },
   {
    "appid": 2207490,
@@ -1244,9 +1244,9 @@
   {
    "appid": 526870,
    "nome": "Satisfactory",
-   "horas": 569.4,
-   "horas_ultimas_2_semanas": 0.0,
-   "ultima_vez_jogado": "2026-07-18"
+   "horas": 569.5,
+   "horas_ultimas_2_semanas": 0.2,
+   "ultima_vez_jogado": "2026-11-07"
   },
   {
    "appid": 813540,
@@ -1651,7 +1651,7 @@
    "appid": 1794680,
    "nome": "Vampire Survivors",
    "horas": 93.6,
-   "horas_ultimas_2_semanas": 7.5,
+   "horas_ultimas_2_semanas": 7.0,
    "ultima_vez_jogado": "2026-11-05"
   },
   {
@@ -1671,8 +1671,8 @@
   {
    "appid": 431960,
    "nome": "Wallpaper Engine",
-   "horas": 19.4,
-   "horas_ultimas_2_semanas": 6.5,
+   "horas": 25.6,
+   "horas_ultimas_2_semanas": 12.7,
    "ultima_vez_jogado": "2026-11-06"
   },
   {
@@ -1681,6 +1681,13 @@
    "horas": 18.6,
    "horas_ultimas_2_semanas": 0.0,
    "ultima_vez_jogado": "2026-10-14"
+  },
+  {
+   "appid": 1611910,
+   "nome": "Warhammer 40,000: Chaos Gate - Daemonhunters",
+   "horas": 0.4,
+   "horas_ultimas_2_semanas": 0.4,
+   "ultima_vez_jogado": "2026-11-07"
   },
   {
    "appid": 489630,
@@ -1693,7 +1700,7 @@
    "appid": 2183900,
    "nome": "Warhammer 40,000: Space Marine 2",
    "horas": 30.6,
-   "horas_ultimas_2_semanas": 2.4,
+   "horas_ultimas_2_semanas": 1.6,
    "ultima_vez_jogado": "2026-10-29"
   },
   {
@@ -1707,7 +1714,7 @@
    "appid": 1527950,
    "nome": "Wartales",
    "horas": 67.8,
-   "horas_ultimas_2_semanas": 1.6,
+   "horas_ultimas_2_semanas": 0.0,
    "ultima_vez_jogado": "2026-10-24"
   },
   {

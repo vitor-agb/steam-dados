@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-06T16:30:16+00:00",
- "total": 125,
+ "atualizado_em": "2026-11-07T15:17:47+00:00",
+ "total": 126,
  "dados": [
   {
    "appid": 1473350,
@@ -848,6 +848,13 @@
    "conquistas_feitas": 21,
    "conquistas_total": 21,
    "percentual": 100.0
+  },
+  {
+   "appid": 1611910,
+   "nome": "Warhammer 40,000: Chaos Gate - Daemonhunters",
+   "conquistas_feitas": 1,
+   "conquistas_total": 68,
+   "percentual": 1.5
   },
   {
    "appid": 2183900,
