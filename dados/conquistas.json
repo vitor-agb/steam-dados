@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-07T15:17:47+00:00",
+ "atualizado_em": "2026-11-08T15:40:44+00:00",
  "total": 126,
  "dados": [
   {
@@ -775,9 +775,9 @@
   {
    "appid": 203160,
    "nome": "Tomb Raider",
-   "conquistas_feitas": 0,
+   "conquistas_feitas": 1,
    "conquistas_total": 50,
-   "percentual": 0.0
+   "percentual": 2.0
   },
   {
    "appid": 1142710,
@@ -852,9 +852,9 @@
   {
    "appid": 1611910,
    "nome": "Warhammer 40,000: Chaos Gate - Daemonhunters",
-   "conquistas_feitas": 1,
+   "conquistas_feitas": 7,
    "conquistas_total": 68,
-   "percentual": 1.5
+   "percentual": 10.3
   },
   {
    "appid": 2183900,
