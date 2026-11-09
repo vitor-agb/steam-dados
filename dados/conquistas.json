@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-08T15:40:44+00:00",
+ "atualizado_em": "2026-11-09T19:21:02+00:00",
  "total": 126,
  "dados": [
   {
@@ -775,9 +775,9 @@
   {
    "appid": 203160,
    "nome": "Tomb Raider",
-   "conquistas_feitas": 1,
+   "conquistas_feitas": 4,
    "conquistas_total": 50,
-   "percentual": 2.0
+   "percentual": 8.0
   },
   {
    "appid": 1142710,
