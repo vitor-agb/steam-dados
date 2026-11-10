@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-09T19:20:00+00:00",
- "total": 797,
+ "atualizado_em": "2026-11-10T16:40:31+00:00",
+ "total": 798,
  "dados": [
   {
    "appid": 12210,
@@ -1889,14 +1889,6 @@
    "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2023-10-23"
-  },
-  {
-   "appid": 3010270,
-   "nome": "Warhammer 40,000: Chaos Gate – Deathwatch ",
-   "preco": null,
-   "desconto_percentual": null,
-   "prioridade": 0,
-   "adicionado_em": "2026-11-07"
   },
   {
    "appid": 1612770,
@@ -5123,6 +5115,14 @@
    "adicionado_em": "2024-08-20"
   },
   {
+   "appid": 3010270,
+   "nome": "Warhammer 40,000: Chaos Gate – Deathwatch ",
+   "preco": null,
+   "desconto_percentual": null,
+   "prioridade": 0,
+   "adicionado_em": "2026-11-07"
+  },
+  {
    "appid": 3010850,
    "nome": "Gears of War: E-Day",
    "preco": "R$299,00",
@@ -5433,6 +5433,14 @@
    "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2025-06-30"
+  },
+  {
+   "appid": 3273260,
+   "nome": "Lost Host",
+   "preco": "R$48,14",
+   "desconto_percentual": 10,
+   "prioridade": 0,
+   "adicionado_em": "2026-11-03"
   },
   {
    "appid": 3274580,
@@ -5853,8 +5861,8 @@
   {
    "appid": 3669620,
    "nome": "Warhammer Survivors",
-   "preco": null,
-   "desconto_percentual": null,
+   "preco": "R$24,29",
+   "desconto_percentual": 10,
    "prioridade": 0,
    "adicionado_em": "2025-11-05"
   },
@@ -6355,6 +6363,14 @@
    "adicionado_em": "2026-06-07"
   },
   {
+   "appid": 4876650,
+   "nome": "Nunca separe por cor",
+   "preco": "R$27,19",
+   "desconto_percentual": 20,
+   "prioridade": 0,
+   "adicionado_em": "2026-11-09"
+  },
+  {
    "appid": 5246570,
    "nome": "DAVE THE DIVER - Subnautica 2 Content Pack",
    "preco": null,
@@ -6369,14 +6385,6 @@
    "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2026-09-30"
-  },
-  {
-   "appid": 3273260,
-   "nome": "Lost Host",
-   "preco": "R$48,14",
-   "desconto_percentual": 10,
-   "prioridade": 0,
-   "adicionado_em": "2026-11-03"
   }
  ]
 }

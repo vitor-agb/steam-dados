@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-09T19:19:41+00:00",
+ "atualizado_em": "2026-11-10T16:40:10+00:00",
  "total": 252,
  "dados": [
   {
@@ -1594,9 +1594,9 @@
   {
    "appid": 203160,
    "nome": "Tomb Raider",
-   "horas": 4.7,
-   "horas_ultimas_2_semanas": 4.7,
-   "ultima_vez_jogado": "2026-11-09"
+   "horas": 6.1,
+   "horas_ultimas_2_semanas": 6.1,
+   "ultima_vez_jogado": "2026-11-10"
   },
   {
    "appid": 1142710,
@@ -1651,7 +1651,7 @@
    "appid": 1794680,
    "nome": "Vampire Survivors",
    "horas": 93.6,
-   "horas_ultimas_2_semanas": 6.4,
+   "horas_ultimas_2_semanas": 5.8,
    "ultima_vez_jogado": "2026-11-05"
   },
   {
@@ -1700,7 +1700,7 @@
    "appid": 2183900,
    "nome": "Warhammer 40,000: Space Marine 2",
    "horas": 30.6,
-   "horas_ultimas_2_semanas": 0.7,
+   "horas_ultimas_2_semanas": 0.3,
    "ultima_vez_jogado": "2026-10-29"
   },
   {
