@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-10T16:41:28+00:00",
- "total": 126,
+ "atualizado_em": "2026-11-11T16:46:32+00:00",
+ "total": 127,
  "dados": [
   {
    "appid": 1473350,
@@ -223,8 +223,8 @@
    "appid": 227300,
    "nome": "Euro Truck Simulator 2",
    "conquistas_feitas": 3,
-   "conquistas_total": 114,
-   "percentual": 2.6
+   "conquistas_total": 110,
+   "percentual": 2.7
   },
   {
    "appid": 3829620,
@@ -862,6 +862,13 @@
    "conquistas_feitas": 27,
    "conquistas_total": 50,
    "percentual": 54.0
+  },
+  {
+   "appid": 3669620,
+   "nome": "Warhammer Survivors",
+   "conquistas_feitas": 1,
+   "conquistas_total": 51,
+   "percentual": 2.0
   },
   {
    "appid": 1527950,

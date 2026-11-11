@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-10T16:40:10+00:00",
- "total": 252,
+ "atualizado_em": "2026-11-11T16:45:15+00:00",
+ "total": 253,
  "dados": [
   {
    "appid": 1473350,
@@ -300,7 +300,7 @@
    "appid": 1091500,
    "nome": "Cyberpunk 2077",
    "horas": 83.6,
-   "horas_ultimas_2_semanas": 0.8,
+   "horas_ultimas_2_semanas": 0.0,
    "ultima_vez_jogado": "2026-10-28"
   },
   {
@@ -1702,6 +1702,13 @@
    "horas": 30.6,
    "horas_ultimas_2_semanas": 0.3,
    "ultima_vez_jogado": "2026-10-29"
+  },
+  {
+   "appid": 3669620,
+   "nome": "Warhammer Survivors",
+   "horas": 0.4,
+   "horas_ultimas_2_semanas": 0.4,
+   "ultima_vez_jogado": "2026-11-11"
   },
   {
    "appid": 552500,
