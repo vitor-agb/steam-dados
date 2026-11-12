@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-11T16:46:32+00:00",
+ "atualizado_em": "2026-11-12T17:15:06+00:00",
  "total": 127,
  "dados": [
   {
@@ -223,8 +223,8 @@
    "appid": 227300,
    "nome": "Euro Truck Simulator 2",
    "conquistas_feitas": 3,
-   "conquistas_total": 110,
-   "percentual": 2.7
+   "conquistas_total": 114,
+   "percentual": 2.6
   },
   {
    "appid": 3829620,
@@ -775,9 +775,9 @@
   {
    "appid": 203160,
    "nome": "Tomb Raider",
-   "conquistas_feitas": 6,
+   "conquistas_feitas": 11,
    "conquistas_total": 50,
-   "percentual": 12.0
+   "percentual": 22.0
   },
   {
    "appid": 1142710,
