@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-12T17:15:06+00:00",
- "total": 127,
+ "atualizado_em": "2026-11-13T16:52:18+00:00",
+ "total": 128,
  "dados": [
   {
    "appid": 1473350,
@@ -775,9 +775,9 @@
   {
    "appid": 203160,
    "nome": "Tomb Raider",
-   "conquistas_feitas": 11,
+   "conquistas_feitas": 13,
    "conquistas_total": 50,
-   "percentual": 22.0
+   "percentual": 26.0
   },
   {
    "appid": 1142710,
@@ -855,6 +855,13 @@
    "conquistas_feitas": 7,
    "conquistas_total": 68,
    "percentual": 10.3
+  },
+  {
+   "appid": 1361210,
+   "nome": "Warhammer 40,000: Darktide",
+   "conquistas_feitas": 1,
+   "conquistas_total": 36,
+   "percentual": 2.8
   },
   {
    "appid": 2183900,

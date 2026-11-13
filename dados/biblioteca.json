@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-12T17:13:55+00:00",
- "total": 253,
+ "atualizado_em": "2026-11-13T16:50:45+00:00",
+ "total": 254,
  "dados": [
   {
    "appid": 1473350,
@@ -1594,9 +1594,9 @@
   {
    "appid": 203160,
    "nome": "Tomb Raider",
-   "horas": 7.2,
-   "horas_ultimas_2_semanas": 7.2,
-   "ultima_vez_jogado": "2026-11-12"
+   "horas": 8.7,
+   "horas_ultimas_2_semanas": 8.7,
+   "ultima_vez_jogado": "2026-11-13"
   },
   {
    "appid": 1142710,
@@ -1651,7 +1651,7 @@
    "appid": 1794680,
    "nome": "Vampire Survivors",
    "horas": 93.6,
-   "horas_ultimas_2_semanas": 5.8,
+   "horas_ultimas_2_semanas": 4.5,
    "ultima_vez_jogado": "2026-11-05"
   },
   {
@@ -1690,6 +1690,13 @@
    "ultima_vez_jogado": "2026-11-09"
   },
   {
+   "appid": 1361210,
+   "nome": "Warhammer 40,000: Darktide",
+   "horas": 0.7,
+   "horas_ultimas_2_semanas": 0.7,
+   "ultima_vez_jogado": "2026-11-13"
+  },
+  {
    "appid": 489630,
    "nome": "Warhammer 40,000: Gladius - Relics of War",
    "horas": 0.0,
@@ -1700,7 +1707,7 @@
    "appid": 2183900,
    "nome": "Warhammer 40,000: Space Marine 2",
    "horas": 30.6,
-   "horas_ultimas_2_semanas": 0.3,
+   "horas_ultimas_2_semanas": 0.0,
    "ultima_vez_jogado": "2026-10-29"
   },
   {
