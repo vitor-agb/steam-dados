@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-15T15:58:43+00:00",
- "total": 128,
+ "atualizado_em": "2026-11-16T19:03:32+00:00",
+ "total": 129,
  "dados": [
   {
    "appid": 1473350,
@@ -612,6 +612,13 @@
    "percentual": 46.4
   },
   {
+   "appid": 391220,
+   "nome": "Rise of the Tomb Raider",
+   "conquistas_feitas": 4,
+   "conquistas_total": 143,
+   "percentual": 2.8
+  },
+  {
    "appid": 2764460,
    "nome": "Sandustry",
    "conquistas_feitas": 15,
@@ -852,9 +859,9 @@
   {
    "appid": 1611910,
    "nome": "Warhammer 40,000: Chaos Gate - Daemonhunters",
-   "conquistas_feitas": 7,
+   "conquistas_feitas": 8,
    "conquistas_total": 68,
-   "percentual": 10.3
+   "percentual": 11.8
   },
   {
    "appid": 1361210,

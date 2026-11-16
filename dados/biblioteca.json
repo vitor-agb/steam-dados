@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-15T15:57:43+00:00",
+ "atualizado_em": "2026-11-16T19:02:24+00:00",
  "total": 254,
  "dados": [
   {
@@ -265,7 +265,7 @@
    "appid": 3321460,
    "nome": "Crimson Desert Enhanced",
    "horas": 43.5,
-   "horas_ultimas_2_semanas": 3.1,
+   "horas_ultimas_2_semanas": 0.0,
    "ultima_vez_jogado": "2026-11-02"
   },
   {
@@ -438,7 +438,7 @@
   },
   {
    "appid": 2019300,
-   "nome": "Dokimon",
+   "nome": "Dokimon Quest",
    "horas": 0.0,
    "horas_ultimas_2_semanas": 0.0,
    "ultima_vez_jogado": null
@@ -1223,9 +1223,9 @@
   {
    "appid": 391220,
    "nome": "Rise of the Tomb Raider",
-   "horas": 0.0,
-   "horas_ultimas_2_semanas": 0.0,
-   "ultima_vez_jogado": null
+   "horas": 1.4,
+   "horas_ultimas_2_semanas": 1.4,
+   "ultima_vez_jogado": "2026-11-16"
   },
   {
    "appid": 220700,
@@ -1244,9 +1244,9 @@
   {
    "appid": 526870,
    "nome": "Satisfactory",
-   "horas": 569.5,
-   "horas_ultimas_2_semanas": 0.2,
-   "ultima_vez_jogado": "2026-11-07"
+   "horas": 570.9,
+   "horas_ultimas_2_semanas": 1.5,
+   "ultima_vez_jogado": "2026-11-16"
   },
   {
    "appid": 813540,
@@ -1685,16 +1685,16 @@
   {
    "appid": 1611910,
    "nome": "Warhammer 40,000: Chaos Gate - Daemonhunters",
-   "horas": 5.2,
-   "horas_ultimas_2_semanas": 5.2,
-   "ultima_vez_jogado": "2026-11-15"
+   "horas": 7.0,
+   "horas_ultimas_2_semanas": 7.0,
+   "ultima_vez_jogado": "2026-11-16"
   },
   {
    "appid": 1361210,
    "nome": "Warhammer 40,000: Darktide",
-   "horas": 7.0,
-   "horas_ultimas_2_semanas": 7.0,
-   "ultima_vez_jogado": "2026-11-15"
+   "horas": 7.7,
+   "horas_ultimas_2_semanas": 7.7,
+   "ultima_vez_jogado": "2026-11-16"
   },
   {
    "appid": 489630,
@@ -1713,8 +1713,8 @@
   {
    "appid": 3669620,
    "nome": "Warhammer Survivors",
-   "horas": 2.8,
-   "horas_ultimas_2_semanas": 2.8,
+   "horas": 3.1,
+   "horas_ultimas_2_semanas": 3.1,
    "ultima_vez_jogado": "2026-11-15"
   },
   {
