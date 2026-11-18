@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-17T17:59:20+00:00",
+ "atualizado_em": "2026-11-18T17:40:51+00:00",
  "total": 798,
  "dados": [
   {
@@ -997,8 +997,8 @@
   {
    "appid": 1272320,
    "nome": "Diplomacy is Not an Option",
-   "preco": "R$35,59",
-   "desconto_percentual": 60,
+   "preco": "R$88,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2026-03-10"
   },
@@ -1213,8 +1213,8 @@
   {
    "appid": 1340990,
    "nome": "Rise of the Ronin",
-   "preco": "R$249,00",
-   "desconto_percentual": null,
+   "preco": "R$124,50",
+   "desconto_percentual": 50,
    "prioridade": 0,
    "adicionado_em": "2025-03-07"
   },
@@ -1277,7 +1277,7 @@
   {
    "appid": 1363080,
    "nome": "Manor Lords",
-   "preco": "R$79,99",
+   "preco": "R$59,97",
    "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-10-02"
@@ -1421,7 +1421,7 @@
   {
    "appid": 1422440,
    "nome": "Cataclismo",
-   "preco": "R$59,99",
+   "preco": "R$39,98",
    "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-04-13"
@@ -1517,8 +1517,8 @@
   {
    "appid": 1465470,
    "nome": "The Crust",
-   "preco": "R$53,99",
-   "desconto_percentual": 40,
+   "preco": "R$89,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-08-26"
   },
@@ -1693,7 +1693,7 @@
   {
    "appid": 1545560,
    "nome": "Shadow Gambit: The Cursed Crew",
-   "preco": "R$79,99",
+   "preco": "R$38,50",
    "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2023-06-22"
@@ -1853,8 +1853,8 @@
   {
    "appid": 1601330,
    "nome": "Survival Machine",
-   "preco": "R$33,54",
-   "desconto_percentual": 54,
+   "preco": "R$33,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-11-24"
   },
@@ -2157,8 +2157,8 @@
   {
    "appid": 1715590,
    "nome": "Wizordum",
-   "preco": "R$59,99",
-   "desconto_percentual": null,
+   "preco": "R$23,99",
+   "desconto_percentual": 60,
    "prioridade": 0,
    "adicionado_em": "2024-01-11"
   },
@@ -2405,8 +2405,8 @@
   {
    "appid": 1812210,
    "nome": "Simpler Times",
-   "preco": "R$32,99",
-   "desconto_percentual": null,
+   "preco": "R$8,24",
+   "desconto_percentual": 75,
    "prioridade": 0,
    "adicionado_em": "2023-07-03"
   },
@@ -3573,8 +3573,8 @@
   {
    "appid": 2273430,
    "nome": "BlazBlue Entropy Effect",
-   "preco": "R$59,99",
-   "desconto_percentual": null,
+   "preco": "R$35,99",
+   "desconto_percentual": 40,
    "prioridade": 0,
    "adicionado_em": "2024-02-04"
   },
@@ -3853,8 +3853,8 @@
   {
    "appid": 2369390,
    "nome": "Far Cry® 6",
-   "preco": "R$249,99",
-   "desconto_percentual": null,
+   "preco": "R$62,49",
+   "desconto_percentual": 75,
    "prioridade": 0,
    "adicionado_em": "2023-05-07"
   },
@@ -3885,8 +3885,8 @@
   {
    "appid": 2384580,
    "nome": "DYNASTY WARRIORS: ORIGINS",
-   "preco": "R$244,30",
-   "desconto_percentual": 30,
+   "preco": "R$349,00",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2025-01-17"
   },
@@ -3925,8 +3925,8 @@
   {
    "appid": 2395210,
    "nome": "Tony Hawk's™ Pro Skater™ 1 + 2",
-   "preco": "R$219,90",
-   "desconto_percentual": null,
+   "preco": "R$87,96",
+   "desconto_percentual": 60,
    "prioridade": 0,
    "adicionado_em": "2025-02-18"
   },
@@ -4133,8 +4133,8 @@
   {
    "appid": 2487150,
    "nome": "Deconstruction Simulator",
-   "preco": "R$30,93",
-   "desconto_percentual": 64,
+   "preco": "R$59,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2025-08-31"
   },
@@ -4605,8 +4605,8 @@
   {
    "appid": 2717880,
    "nome": "The Rogue Prince of Persia",
-   "preco": "R$39,99",
-   "desconto_percentual": null,
+   "preco": "R$11,99",
+   "desconto_percentual": 70,
    "prioridade": 0,
    "adicionado_em": "2024-04-14"
   },
@@ -4677,8 +4677,8 @@
   {
    "appid": 2751000,
    "nome": "Prince of Persia The Lost Crown",
-   "preco": "R$149,99",
-   "desconto_percentual": null,
+   "preco": "R$145,78",
+   "desconto_percentual": 15,
    "prioridade": 0,
    "adicionado_em": "2024-08-19"
   },
@@ -4837,16 +4837,16 @@
   {
    "appid": 2840770,
    "nome": "Avatar: Frontiers of Pandora™",
-   "preco": "R$149,99",
-   "desconto_percentual": null,
+   "preco": "R$74,99",
+   "desconto_percentual": 50,
    "prioridade": 0,
    "adicionado_em": "2024-06-09"
   },
   {
    "appid": 2842040,
    "nome": "Star Wars Outlaws",
-   "preco": "R$349,99",
-   "desconto_percentual": null,
+   "preco": "R$69,99",
+   "desconto_percentual": 80,
    "prioridade": 0,
    "adicionado_em": "2024-11-23"
   },
@@ -4957,16 +4957,16 @@
   {
    "appid": 2897700,
    "nome": "Arizona Sunshine® VR Remake",
-   "preco": "R$79,95",
-   "desconto_percentual": null,
+   "preco": "R$23,98",
+   "desconto_percentual": 70,
    "prioridade": 0,
    "adicionado_em": "2024-12-15"
   },
   {
    "appid": 2900640,
    "nome": "TOEM 2",
-   "preco": "R$53,99",
-   "desconto_percentual": null,
+   "preco": "R$43,19",
+   "desconto_percentual": 20,
    "prioridade": 0,
    "adicionado_em": "2025-06-19"
   },
@@ -5261,7 +5261,7 @@
   {
    "appid": 3123410,
    "nome": "Atelier Yumia: The Alchemist of Memories & the Envisioned Land",
-   "preco": "R$174,50",
+   "preco": "R$199,50",
    "desconto_percentual": 50,
    "prioridade": 0,
    "adicionado_em": "2025-03-20"
@@ -5437,8 +5437,8 @@
   {
    "appid": 3274580,
    "nome": "Anno 117: Pax Romana",
-   "preco": "R$179,99",
-   "desconto_percentual": 40,
+   "preco": "R$299,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2025-10-09"
   },
@@ -5549,8 +5549,8 @@
   {
    "appid": 3337140,
    "nome": "After Inc: Revival",
-   "preco": "R$32,99",
-   "desconto_percentual": 40,
+   "preco": "R$54,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-11-28"
   },
@@ -6365,8 +6365,8 @@
   {
    "appid": 4876650,
    "nome": "Nunca separe por cor",
-   "preco": "R$27,19",
-   "desconto_percentual": 20,
+   "preco": "R$33,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2026-11-09"
   },
