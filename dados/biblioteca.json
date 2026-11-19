@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-18T17:40:28+00:00",
+ "atualizado_em": "2026-11-19T17:49:35+00:00",
  "total": 254,
  "dados": [
   {
@@ -55,7 +55,7 @@
    "appid": 427410,
    "nome": "Abiotic Factor",
    "horas": 1.5,
-   "horas_ultimas_2_semanas": 0.3,
+   "horas_ultimas_2_semanas": 0.0,
    "ultima_vez_jogado": "2026-11-05"
   },
   {
@@ -517,7 +517,7 @@
    "appid": 427520,
    "nome": "Factorio",
    "horas": 656.6,
-   "horas_ultimas_2_semanas": 4.9,
+   "horas_ultimas_2_semanas": 3.4,
    "ultima_vez_jogado": "2026-11-07"
   },
   {
@@ -1595,7 +1595,7 @@
    "appid": 203160,
    "nome": "Tomb Raider",
    "horas": 15.8,
-   "horas_ultimas_2_semanas": 15.8,
+   "horas_ultimas_2_semanas": 15.0,
    "ultima_vez_jogado": "2026-11-15"
   },
   {
@@ -1651,7 +1651,7 @@
    "appid": 1794680,
    "nome": "Vampire Survivors",
    "horas": 93.6,
-   "horas_ultimas_2_semanas": 0.2,
+   "horas_ultimas_2_semanas": 0.0,
    "ultima_vez_jogado": "2026-11-05"
   },
   {
@@ -1685,16 +1685,16 @@
   {
    "appid": 1611910,
    "nome": "Warhammer 40,000: Chaos Gate - Daemonhunters",
-   "horas": 7.0,
-   "horas_ultimas_2_semanas": 7.0,
-   "ultima_vez_jogado": "2026-11-16"
+   "horas": 8.3,
+   "horas_ultimas_2_semanas": 8.3,
+   "ultima_vez_jogado": "2026-11-19"
   },
   {
    "appid": 1361210,
    "nome": "Warhammer 40,000: Darktide",
-   "horas": 8.6,
-   "horas_ultimas_2_semanas": 8.6,
-   "ultima_vez_jogado": "2026-11-17"
+   "horas": 9.2,
+   "horas_ultimas_2_semanas": 9.2,
+   "ultima_vez_jogado": "2026-11-19"
   },
   {
    "appid": 489630,
