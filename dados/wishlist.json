@@ -1,12 +1,12 @@
 {
- "atualizado_em": "2026-11-19T17:49:55+00:00",
+ "atualizado_em": "2026-11-20T17:25:11+00:00",
  "total": 798,
  "dados": [
   {
    "appid": 12210,
    "nome": "Grand Theft Auto IV: The Complete Edition",
-   "preco": "R$23,70",
-   "desconto_percentual": 70,
+   "preco": "R$79,00",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2023-06-22"
   },
@@ -37,8 +37,8 @@
   {
    "appid": 257850,
    "nome": "Hyper Light Drifter",
-   "preco": "R$36,99",
-   "desconto_percentual": null,
+   "preco": "R$9,24",
+   "desconto_percentual": 75,
    "prioridade": 0,
    "adicionado_em": "2023-04-15"
   },
@@ -205,8 +205,8 @@
   {
    "appid": 553850,
    "nome": "HELLDIVERS™ 2",
-   "preco": "R$199,50",
-   "desconto_percentual": null,
+   "preco": "R$149,62",
+   "desconto_percentual": 25,
    "prioridade": 0,
    "adicionado_em": "2024-02-07"
   },
@@ -421,8 +421,8 @@
   {
    "appid": 860890,
    "nome": "Factory Town",
-   "preco": "R$14,99",
-   "desconto_percentual": 75,
+   "preco": "R$59,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2026-01-27"
   },
@@ -509,8 +509,8 @@
   {
    "appid": 949230,
    "nome": "Cities: Skylines II",
-   "preco": "R$132,29",
-   "desconto_percentual": 30,
+   "preco": "R$188,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2023-04-24"
   },
@@ -645,8 +645,8 @@
   {
    "appid": 1057640,
    "nome": "Onirism",
-   "preco": "R$34,99",
-   "desconto_percentual": null,
+   "preco": "R$22,74",
+   "desconto_percentual": 35,
    "prioridade": 0,
    "adicionado_em": "2025-10-26"
   },
@@ -1045,8 +1045,8 @@
   {
    "appid": 1285190,
    "nome": "Borderlands 4",
-   "preco": "R$379,90",
-   "desconto_percentual": null,
+   "preco": "R$249,95",
+   "desconto_percentual": 50,
    "prioridade": 0,
    "adicionado_em": "2024-08-20"
   },
@@ -1189,8 +1189,8 @@
   {
    "appid": 1337920,
    "nome": "Serial Cleaners",
-   "preco": "R$104,00",
-   "desconto_percentual": null,
+   "preco": "R$31,20",
+   "desconto_percentual": 70,
    "prioridade": 0,
    "adicionado_em": "2023-06-22"
   },
@@ -1237,16 +1237,16 @@
   {
    "appid": 1350840,
    "nome": "Song Of The Prairie",
-   "preco": "R$29,99",
-   "desconto_percentual": 50,
+   "preco": "R$59,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-11-07"
   },
   {
    "appid": 1351240,
    "nome": "Taxi Life: A City Driving Simulator",
-   "preco": "R$29,11",
-   "desconto_percentual": 68,
+   "preco": "R$90,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2025-02-03"
   },
@@ -1677,8 +1677,8 @@
   {
    "appid": 1534840,
    "nome": "Hyper Light Breaker",
-   "preco": "R$87,99",
-   "desconto_percentual": null,
+   "preco": "R$87,51",
+   "desconto_percentual": 22,
    "prioridade": 0,
    "adicionado_em": "2023-06-22"
   },
@@ -1845,8 +1845,8 @@
   {
    "appid": 1599660,
    "nome": "Sackboy™: Uma Grande Aventura",
-   "preco": "R$249,90",
-   "desconto_percentual": null,
+   "preco": "R$82,46",
+   "desconto_percentual": 67,
    "prioridade": 0,
    "adicionado_em": "2023-07-20"
   },
@@ -1973,8 +1973,8 @@
   {
    "appid": 1649240,
    "nome": "Returnal™",
-   "preco": "R$249,90",
-   "desconto_percentual": null,
+   "preco": "R$82,46",
+   "desconto_percentual": 67,
    "prioridade": 0,
    "adicionado_em": "2023-08-10"
   },
@@ -2069,8 +2069,8 @@
   {
    "appid": 1677280,
    "nome": "Company of Heroes 3",
-   "preco": "R$52,79",
-   "desconto_percentual": 67,
+   "preco": "R$159,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2023-04-16"
   },
@@ -2285,8 +2285,8 @@
   {
    "appid": 1774580,
    "nome": "STAR WARS Jedi: Survivor™",
-   "preco": "R$299,00",
-   "desconto_percentual": null,
+   "preco": "R$44,85",
+   "desconto_percentual": 85,
    "prioridade": 0,
    "adicionado_em": "2023-04-16"
   },
@@ -2501,8 +2501,8 @@
   {
    "appid": 1845910,
    "nome": "Dragon Age™: The Veilguard",
-   "preco": "R$249,00",
-   "desconto_percentual": null,
+   "preco": "R$62,25",
+   "desconto_percentual": 75,
    "prioridade": 0,
    "adicionado_em": "2024-10-17"
   },
@@ -2589,8 +2589,8 @@
   {
    "appid": 1875060,
    "nome": "Reus 2",
-   "preco": "R$49,99",
-   "desconto_percentual": null,
+   "preco": "R$19,99",
+   "desconto_percentual": 60,
    "prioridade": 0,
    "adicionado_em": "2024-10-17"
   },
@@ -2829,8 +2829,8 @@
   {
    "appid": 1970580,
    "nome": "Backpack Hero",
-   "preco": "R$27,87",
-   "desconto_percentual": 38,
+   "preco": "R$37,03",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2023-11-15"
   },
@@ -2853,8 +2853,8 @@
   {
    "appid": 1983260,
    "nome": "Dungeons of Hinterberg",
-   "preco": "R$18,74",
-   "desconto_percentual": 75,
+   "preco": "R$74,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-10-22"
   },
@@ -2909,8 +2909,8 @@
   {
    "appid": 2001760,
    "nome": "Beast of Reincarnation",
-   "preco": "R$199,99",
-   "desconto_percentual": null,
+   "preco": "R$149,99",
+   "desconto_percentual": 25,
    "prioridade": 0,
    "adicionado_em": "2026-08-02"
   },
@@ -2965,7 +2965,7 @@
   {
    "appid": 2020710,
    "nome": "Havendock",
-   "preco": "R$59,99",
+   "preco": "R$44,48",
    "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2023-04-24"
@@ -3101,8 +3101,8 @@
   {
    "appid": 2075800,
    "nome": "STAR WARS Zero Company™",
-   "preco": "R$199,00",
-   "desconto_percentual": null,
+   "preco": "R$159,20",
+   "desconto_percentual": 20,
    "prioridade": 0,
    "adicionado_em": "2026-08-16"
   },
@@ -3365,8 +3365,8 @@
   {
    "appid": 2172010,
    "nome": "Until Dawn™",
-   "preco": "R$299,99",
-   "desconto_percentual": null,
+   "preco": "R$149,99",
+   "desconto_percentual": 50,
    "prioridade": 0,
    "adicionado_em": "2024-03-17"
   },
@@ -3389,7 +3389,7 @@
   {
    "appid": 2186680,
    "nome": "Warhammer 40,000: Rogue Trader",
-   "preco": "R$112,49",
+   "preco": "R$44,55",
    "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2026-01-22"
@@ -3557,8 +3557,8 @@
   {
    "appid": 2272400,
    "nome": "Station to Station",
-   "preco": "R$54,99",
-   "desconto_percentual": null,
+   "preco": "R$21,99",
+   "desconto_percentual": 60,
    "prioridade": 0,
    "adicionado_em": "2023-06-22"
   },
@@ -3581,8 +3581,8 @@
   {
    "appid": 2277560,
    "nome": "WUCHANG: Fallen Feathers",
-   "preco": "R$199,00",
-   "desconto_percentual": null,
+   "preco": "R$139,30",
+   "desconto_percentual": 30,
    "prioridade": 0,
    "adicionado_em": "2024-10-24"
   },
@@ -3597,8 +3597,8 @@
   {
    "appid": 2292800,
    "nome": "Blacksmith Master",
-   "preco": "R$39,99",
-   "desconto_percentual": null,
+   "preco": "R$13,19",
+   "desconto_percentual": 50,
    "prioridade": 0,
    "adicionado_em": "2024-07-29"
   },
@@ -3669,8 +3669,8 @@
   {
    "appid": 2316580,
    "nome": "Tales of Kenzera™: ZAU",
-   "preco": "R$109,00",
-   "desconto_percentual": null,
+   "preco": "R$38,15",
+   "desconto_percentual": 65,
    "prioridade": 0,
    "adicionado_em": "2024-12-15"
   },
@@ -3965,8 +3965,8 @@
   {
    "appid": 2420110,
    "nome": " Horizon Forbidden West™ Edição Completa",
-   "preco": "R$249,90",
-   "desconto_percentual": null,
+   "preco": "R$124,95",
+   "desconto_percentual": 50,
    "prioridade": 0,
    "adicionado_em": "2024-01-26"
   },
@@ -3981,8 +3981,8 @@
   {
    "appid": 2428810,
    "nome": "LEGO® Horizon Adventures™",
-   "preco": "R$229,90",
-   "desconto_percentual": null,
+   "preco": "R$114,95",
+   "desconto_percentual": 50,
    "prioridade": 0,
    "adicionado_em": "2024-11-15"
   },
@@ -4261,8 +4261,8 @@
   {
    "appid": 2564520,
    "nome": "Lost in Random: The Eternal Die",
-   "preco": "R$60,00",
-   "desconto_percentual": null,
+   "preco": "R$53,45",
+   "desconto_percentual": 33,
    "prioridade": 0,
    "adicionado_em": "2025-06-18"
   },
@@ -4429,8 +4429,8 @@
   {
    "appid": 2651280,
    "nome": "Marvel's Spider-Man 2",
-   "preco": "R$249,90",
-   "desconto_percentual": null,
+   "preco": "R$167,43",
+   "desconto_percentual": 33,
    "prioridade": 0,
    "adicionado_em": "2024-10-18"
   },
@@ -4709,8 +4709,8 @@
   {
    "appid": 2760560,
    "nome": "Cthulhu: The Cosmic Abyss",
-   "preco": "R$48,99",
-   "desconto_percentual": 65,
+   "preco": "R$137,15",
+   "desconto_percentual": 42,
    "prioridade": 0,
    "adicionado_em": "2025-03-07"
   },
@@ -5461,8 +5461,8 @@
   {
    "appid": 3280350,
    "nome": "DEATH STRANDING 2: ON THE BEACH",
-   "preco": "R$399,90",
-   "desconto_percentual": null,
+   "preco": "R$241,14",
+   "desconto_percentual": 33,
    "prioridade": 0,
    "adicionado_em": "2026-04-12"
   },
@@ -5693,8 +5693,8 @@
   {
    "appid": 3489700,
    "nome": "Stellar Blade™",
-   "preco": "R$249,90",
-   "desconto_percentual": null,
+   "preco": "R$167,43",
+   "desconto_percentual": 33,
    "prioridade": 0,
    "adicionado_em": "2025-02-13"
   },
@@ -5725,8 +5725,8 @@
   {
    "appid": 3546610,
    "nome": "Wielders of the Essence",
-   "preco": "R$21,14",
-   "desconto_percentual": 10,
+   "preco": "R$23,49",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2026-11-12"
   },
@@ -6149,8 +6149,8 @@
   {
    "appid": 4026250,
    "nome": "Project P.I.T.T.",
-   "preco": "R$32,30",
-   "desconto_percentual": 39,
+   "preco": "R$37,49",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2026-08-16"
   },
