@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-20T17:25:11+00:00",
+ "atualizado_em": "2026-11-21T16:29:30+00:00",
  "total": 798,
  "dados": [
   {
@@ -741,8 +741,8 @@
   {
    "appid": 1121640,
    "nome": "The Wandering Village",
-   "preco": "R$88,99",
-   "desconto_percentual": null,
+   "preco": "R$44,49",
+   "desconto_percentual": 50,
    "prioridade": 0,
    "adicionado_em": "2023-04-24"
   },
@@ -797,8 +797,8 @@
   {
    "appid": 1158160,
    "nome": "Coral Island",
-   "preco": "R$53,99",
-   "desconto_percentual": 40,
+   "preco": "R$89,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2023-11-15"
   },
@@ -1029,8 +1029,8 @@
   {
    "appid": 1283410,
    "nome": "Tails of Iron",
-   "preco": "R$79,99",
-   "desconto_percentual": null,
+   "preco": "R$9,59",
+   "desconto_percentual": 88,
    "prioridade": 0,
    "adicionado_em": "2024-07-31"
   },
@@ -1421,7 +1421,7 @@
   {
    "appid": 1422440,
    "nome": "Cataclismo",
-   "preco": "R$39,98",
+   "preco": "R$59,99",
    "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-04-13"
@@ -1477,8 +1477,8 @@
   {
    "appid": 1449110,
    "nome": "The Outer Worlds 2",
-   "preco": "R$299,00",
-   "desconto_percentual": null,
+   "preco": "R$119,60",
+   "desconto_percentual": 60,
    "prioridade": 0,
    "adicionado_em": "2024-12-15"
   },
@@ -1693,7 +1693,7 @@
   {
    "appid": 1545560,
    "nome": "Shadow Gambit: The Cursed Crew",
-   "preco": "R$38,50",
+   "preco": "R$79,99",
    "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2023-06-22"
@@ -1957,8 +1957,8 @@
   {
    "appid": 1643320,
    "nome": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-   "preco": "R$239,00",
-   "desconto_percentual": null,
+   "preco": "R$223,30",
+   "desconto_percentual": 30,
    "prioridade": 0,
    "adicionado_em": "2024-01-17"
   },
@@ -3005,8 +3005,8 @@
   {
    "appid": 2058140,
    "nome": "Henry Halfhead",
-   "preco": "R$35,99",
-   "desconto_percentual": null,
+   "preco": "R$17,99",
+   "desconto_percentual": 50,
    "prioridade": 0,
    "adicionado_em": "2023-07-03"
   },
@@ -3597,7 +3597,7 @@
   {
    "appid": 2292800,
    "nome": "Blacksmith Master",
-   "preco": "R$13,19",
+   "preco": "R$14,99",
    "desconto_percentual": 50,
    "prioridade": 0,
    "adicionado_em": "2024-07-29"
@@ -3757,8 +3757,8 @@
   {
    "appid": 2353250,
    "nome": "Astrometica",
-   "preco": "R$35,99",
-   "desconto_percentual": 40,
+   "preco": "R$59,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-12-10"
   },
@@ -3845,8 +3845,8 @@
   {
    "appid": 2366980,
    "nome": "Thank Goodness You're Here!",
-   "preco": "R$50,00",
-   "desconto_percentual": null,
+   "preco": "R$25,00",
+   "desconto_percentual": 50,
    "prioridade": 0,
    "adicionado_em": "2025-03-05"
   },
@@ -4053,8 +4053,8 @@
   {
    "appid": 2458830,
    "nome": "Towerborne",
-   "preco": "R$79,99",
-   "desconto_percentual": null,
+   "preco": "R$39,99",
+   "desconto_percentual": 50,
    "prioridade": 0,
    "adicionado_em": "2024-10-14"
   },
@@ -4093,8 +4093,8 @@
   {
    "appid": 2473480,
    "nome": "Tails of Iron 2: Whiskers of Winter",
-   "preco": "R$84,99",
-   "desconto_percentual": null,
+   "preco": "R$25,49",
+   "desconto_percentual": 70,
    "prioridade": 0,
    "adicionado_em": "2025-02-03"
   },
@@ -4117,8 +4117,8 @@
   {
    "appid": 2483190,
    "nome": "Forza Horizon 6",
-   "preco": "R$299,00",
-   "desconto_percentual": null,
+   "preco": "R$224,25",
+   "desconto_percentual": 25,
    "prioridade": 0,
    "adicionado_em": "2026-01-25"
   },
@@ -4237,8 +4237,8 @@
   {
    "appid": 2537590,
    "nome": "Microsoft Flight Simulator 2024",
-   "preco": "R$299,99",
-   "desconto_percentual": null,
+   "preco": "R$209,99",
+   "desconto_percentual": 30,
    "prioridade": 0,
    "adicionado_em": "2024-10-17"
   },
@@ -4437,8 +4437,8 @@
   {
    "appid": 2661300,
    "nome": "Grounded 2",
-   "preco": "R$149,00",
-   "desconto_percentual": null,
+   "preco": "R$119,20",
+   "desconto_percentual": 20,
    "prioridade": 0,
    "adicionado_em": "2025-07-20"
   },
@@ -4789,8 +4789,8 @@
   {
    "appid": 2806050,
    "nome": "Halo: Campaign Evolved",
-   "preco": "R$249,00",
-   "desconto_percentual": null,
+   "preco": "R$149,40",
+   "desconto_percentual": 40,
    "prioridade": 0,
    "adicionado_em": "2026-06-07"
   },
@@ -5117,8 +5117,8 @@
   {
    "appid": 3010850,
    "nome": "Gears of War: E-Day",
-   "preco": "R$299,00",
-   "desconto_percentual": null,
+   "preco": "R$209,30",
+   "desconto_percentual": 30,
    "prioridade": 0,
    "adicionado_em": "2024-06-12"
   },
@@ -5197,8 +5197,8 @@
   {
    "appid": 3047750,
    "nome": "Herdling",
-   "preco": "R$74,99",
-   "desconto_percentual": null,
+   "preco": "R$37,49",
+   "desconto_percentual": 50,
    "prioridade": 0,
    "adicionado_em": "2025-08-24"
   },
@@ -5685,8 +5685,8 @@
   {
    "appid": 3486530,
    "nome": "Stupid Never Dies",
-   "preco": "R$207,90",
-   "desconto_percentual": null,
+   "preco": "R$155,92",
+   "desconto_percentual": 25,
    "prioridade": 0,
    "adicionado_em": "2025-12-13"
   },
@@ -5901,8 +5901,8 @@
   {
    "appid": 3699590,
    "nome": "Well Dweller",
-   "preco": "R$40,39",
-   "desconto_percentual": 20,
+   "preco": "R$50,49",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2026-09-23"
   },

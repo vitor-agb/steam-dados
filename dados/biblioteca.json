@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-20T17:24:51+00:00",
+ "atualizado_em": "2026-11-21T16:29:11+00:00",
  "total": 254,
  "dados": [
   {
@@ -517,7 +517,7 @@
    "appid": 427520,
    "nome": "Factorio",
    "horas": 656.6,
-   "horas_ultimas_2_semanas": 1.0,
+   "horas_ultimas_2_semanas": 0.0,
    "ultima_vez_jogado": "2026-11-07"
   },
   {
@@ -1223,9 +1223,9 @@
   {
    "appid": 391220,
    "nome": "Rise of the Tomb Raider",
-   "horas": 4.5,
-   "horas_ultimas_2_semanas": 4.5,
-   "ultima_vez_jogado": "2026-11-20"
+   "horas": 7.1,
+   "horas_ultimas_2_semanas": 7.1,
+   "ultima_vez_jogado": "2026-11-21"
   },
   {
    "appid": 220700,
@@ -1244,9 +1244,9 @@
   {
    "appid": 526870,
    "nome": "Satisfactory",
-   "horas": 571.8,
-   "horas_ultimas_2_semanas": 2.4,
-   "ultima_vez_jogado": "2026-11-18"
+   "horas": 572.2,
+   "horas_ultimas_2_semanas": 2.6,
+   "ultima_vez_jogado": "2026-11-21"
   },
   {
    "appid": 813540,
@@ -1672,7 +1672,7 @@
    "appid": 431960,
    "nome": "Wallpaper Engine",
    "horas": 25.7,
-   "horas_ultimas_2_semanas": 5.1,
+   "horas_ultimas_2_semanas": 0.1,
    "ultima_vez_jogado": "2026-11-17"
   },
   {
@@ -1686,7 +1686,7 @@
    "appid": 1611910,
    "nome": "Warhammer 40,000: Chaos Gate - Daemonhunters",
    "horas": 9.1,
-   "horas_ultimas_2_semanas": 9.1,
+   "horas_ultimas_2_semanas": 8.7,
    "ultima_vez_jogado": "2026-11-20"
   },
   {
