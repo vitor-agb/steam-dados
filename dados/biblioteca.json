@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-21T16:29:11+00:00",
- "total": 254,
+ "atualizado_em": "2026-11-22T16:46:34+00:00",
+ "total": 256,
  "dados": [
   {
    "appid": 1473350,
@@ -941,6 +941,20 @@
    "ultima_vez_jogado": "2026-04-22"
   },
   {
+   "appid": 412020,
+   "nome": "Metro Exodus",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 1449560,
+   "nome": "Metro Exodus Enhanced Edition",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
    "appid": 43160,
    "nome": "Metro: Last Light Complete Edition",
    "horas": 0.0,
@@ -1223,9 +1237,9 @@
   {
    "appid": 391220,
    "nome": "Rise of the Tomb Raider",
-   "horas": 7.1,
-   "horas_ultimas_2_semanas": 7.1,
-   "ultima_vez_jogado": "2026-11-21"
+   "horas": 8.1,
+   "horas_ultimas_2_semanas": 8.1,
+   "ultima_vez_jogado": "2026-11-22"
   },
   {
    "appid": 220700,
@@ -1244,8 +1258,8 @@
   {
    "appid": 526870,
    "nome": "Satisfactory",
-   "horas": 572.2,
-   "horas_ultimas_2_semanas": 2.6,
+   "horas": 572.5,
+   "horas_ultimas_2_semanas": 3.0,
    "ultima_vez_jogado": "2026-11-21"
   },
   {
@@ -1364,7 +1378,7 @@
    "appid": 495420,
    "nome": "State of Decay 2",
    "horas": 7.7,
-   "horas_ultimas_2_semanas": 3.0,
+   "horas_ultimas_2_semanas": 1.9,
    "ultima_vez_jogado": "2026-11-08"
   },
   {
@@ -1595,7 +1609,7 @@
    "appid": 203160,
    "nome": "Tomb Raider",
    "horas": 15.8,
-   "horas_ultimas_2_semanas": 14.5,
+   "horas_ultimas_2_semanas": 12.9,
    "ultima_vez_jogado": "2026-11-15"
   },
   {
@@ -1686,7 +1700,7 @@
    "appid": 1611910,
    "nome": "Warhammer 40,000: Chaos Gate - Daemonhunters",
    "horas": 9.1,
-   "horas_ultimas_2_semanas": 8.7,
+   "horas_ultimas_2_semanas": 6.7,
    "ultima_vez_jogado": "2026-11-20"
   },
   {
