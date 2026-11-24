@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-23T20:42:31+00:00",
- "total": 256,
+ "atualizado_em": "2026-11-24T19:48:04+00:00",
+ "total": 257,
  "dados": [
   {
    "appid": 1473350,
@@ -1237,9 +1237,9 @@
   {
    "appid": 391220,
    "nome": "Rise of the Tomb Raider",
-   "horas": 11.5,
-   "horas_ultimas_2_semanas": 11.5,
-   "ultima_vez_jogado": "2026-11-23"
+   "horas": 18.2,
+   "horas_ultimas_2_semanas": 18.2,
+   "ultima_vez_jogado": "2026-11-24"
   },
   {
    "appid": 220700,
@@ -1258,9 +1258,9 @@
   {
    "appid": 526870,
    "nome": "Satisfactory",
-   "horas": 572.5,
-   "horas_ultimas_2_semanas": 3.0,
-   "ultima_vez_jogado": "2026-11-21"
+   "horas": 573.2,
+   "horas_ultimas_2_semanas": 3.6,
+   "ultima_vez_jogado": "2026-11-24"
   },
   {
    "appid": 813540,
@@ -1609,7 +1609,7 @@
    "appid": 203160,
    "nome": "Tomb Raider",
    "horas": 15.8,
-   "horas_ultimas_2_semanas": 11.1,
+   "horas_ultimas_2_semanas": 9.7,
    "ultima_vez_jogado": "2026-11-15"
   },
   {
@@ -1713,6 +1713,13 @@
   {
    "appid": 489630,
    "nome": "Warhammer 40,000: Gladius - Relics of War",
+   "horas": 0.0,
+   "horas_ultimas_2_semanas": 0.0,
+   "ultima_vez_jogado": null
+  },
+  {
+   "appid": 2186680,
+   "nome": "Warhammer 40,000: Rogue Trader",
    "horas": 0.0,
    "horas_ultimas_2_semanas": 0.0,
    "ultima_vez_jogado": null

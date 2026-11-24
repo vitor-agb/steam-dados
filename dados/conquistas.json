@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-23T20:43:51+00:00",
+ "atualizado_em": "2026-11-24T19:49:34+00:00",
  "total": 129,
  "dados": [
   {
@@ -614,9 +614,9 @@
   {
    "appid": 391220,
    "nome": "Rise of the Tomb Raider",
-   "conquistas_feitas": 23,
+   "conquistas_feitas": 34,
    "conquistas_total": 143,
-   "percentual": 16.1
+   "percentual": 23.8
   },
   {
    "appid": 2764460,
@@ -720,7 +720,7 @@
    "appid": 1488200,
    "nome": "Symphony of War: The Nephilim Saga",
    "conquistas_feitas": 0,
-   "conquistas_total": 19,
+   "conquistas_total": 37,
    "percentual": 0.0
   },
   {
