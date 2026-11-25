@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-24T19:48:27+00:00",
+ "atualizado_em": "2026-11-25T18:54:13+00:00",
  "total": 798,
  "dados": [
   {
@@ -69,8 +69,8 @@
   {
    "appid": 312520,
    "nome": "Rain World",
-   "preco": "R$73,99",
-   "desconto_percentual": null,
+   "preco": "R$63,73",
+   "desconto_percentual": 34,
    "prioridade": 0,
    "adicionado_em": "2023-06-22"
   },
@@ -325,8 +325,8 @@
   {
    "appid": 690830,
    "nome": "Foundation",
-   "preco": "R$101,99",
-   "desconto_percentual": null,
+   "preco": "R$61,19",
+   "desconto_percentual": 40,
    "prioridade": 0,
    "adicionado_em": "2025-02-03"
   },
@@ -533,8 +533,8 @@
   {
    "appid": 964800,
    "nome": "Prodeus",
-   "preco": "R$74,99",
-   "desconto_percentual": null,
+   "preco": "R$52,49",
+   "desconto_percentual": 30,
    "prioridade": 0,
    "adicionado_em": "2023-04-15"
   },
@@ -1053,8 +1053,8 @@
   {
    "appid": 1286220,
    "nome": "Sea Power : Naval Combat in the Missile Age",
-   "preco": "R$107,99",
-   "desconto_percentual": 20,
+   "preco": "R$134,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-11-14"
   },
@@ -1309,8 +1309,8 @@
   {
    "appid": 1368030,
    "nome": "ANNO: Mutationem",
-   "preco": "R$54,38",
-   "desconto_percentual": 25,
+   "preco": "R$54,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2023-06-22"
   },
@@ -1397,8 +1397,8 @@
   {
    "appid": 1386900,
    "nome": "Observer: System Redux",
-   "preco": "R$57,99",
-   "desconto_percentual": null,
+   "preco": "R$47,68",
+   "desconto_percentual": 44,
    "prioridade": 0,
    "adicionado_em": "2025-05-06"
   },
@@ -1461,8 +1461,8 @@
   {
    "appid": 1434950,
    "nome": "HighFleet",
-   "preco": "R$57,99",
-   "desconto_percentual": null,
+   "preco": "R$26,09",
+   "desconto_percentual": 55,
    "prioridade": 0,
    "adicionado_em": "2023-04-09"
   },
@@ -2469,8 +2469,8 @@
   {
    "appid": 1830970,
    "nome": "The Last Flame",
-   "preco": "R$15,99",
-   "desconto_percentual": 60,
+   "preco": "R$39,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-01-03"
   },
@@ -2605,8 +2605,8 @@
   {
    "appid": 1880610,
    "nome": "Deliver At All Costs",
-   "preco": "R$149,50",
-   "desconto_percentual": null,
+   "preco": "R$59,80",
+   "desconto_percentual": 60,
    "prioridade": 0,
    "adicionado_em": "2025-02-18"
   },
@@ -2669,8 +2669,8 @@
   {
    "appid": 1920780,
    "nome": "Stray Gods: The Roleplaying Musical",
-   "preco": "R$88,99",
-   "desconto_percentual": null,
+   "preco": "R$44,49",
+   "desconto_percentual": 50,
    "prioridade": 0,
    "adicionado_em": "2023-06-22"
   },
@@ -2701,8 +2701,8 @@
   {
    "appid": 1931180,
    "nome": "Lost Skies",
-   "preco": "R$73,99",
-   "desconto_percentual": null,
+   "preco": "R$51,79",
+   "desconto_percentual": 30,
    "prioridade": 0,
    "adicionado_em": "2025-03-07"
   },
@@ -2885,8 +2885,8 @@
   {
    "appid": 1991300,
    "nome": "Closer the Distance",
-   "preco": "R$59,99",
-   "desconto_percentual": null,
+   "preco": "R$58,64",
+   "desconto_percentual": 19,
    "prioridade": 0,
    "adicionado_em": "2024-12-15"
   },
@@ -3061,8 +3061,8 @@
   {
    "appid": 2060790,
    "nome": "Hauntii",
-   "preco": "R$59,99",
-   "desconto_percentual": null,
+   "preco": "R$29,99",
+   "desconto_percentual": 50,
    "prioridade": 0,
    "adicionado_em": "2023-07-03"
   },
@@ -3189,16 +3189,16 @@
   {
    "appid": 2124120,
    "nome": "SULFUR",
-   "preco": "R$78,29",
-   "desconto_percentual": null,
+   "preco": "R$81,18",
+   "desconto_percentual": 13,
    "prioridade": 0,
    "adicionado_em": "2023-07-16"
   },
   {
    "appid": 2124490,
    "nome": "SILENT HILL 2",
-   "preco": "R$349,90",
-   "desconto_percentual": null,
+   "preco": "R$97,97",
+   "desconto_percentual": 72,
    "prioridade": 0,
    "adicionado_em": "2024-10-06"
   },
@@ -3221,8 +3221,8 @@
   {
    "appid": 2132560,
    "nome": "On Your Tail",
-   "preco": "R$59,99",
-   "desconto_percentual": null,
+   "preco": "R$41,99",
+   "desconto_percentual": 30,
    "prioridade": 0,
    "adicionado_em": "2024-12-20"
   },
@@ -3429,16 +3429,16 @@
   {
    "appid": 2198510,
    "nome": "New Cycle",
-   "preco": "R$69,99",
-   "desconto_percentual": null,
+   "preco": "R$34,99",
+   "desconto_percentual": 50,
    "prioridade": 0,
    "adicionado_em": "2024-10-20"
   },
   {
    "appid": 2211170,
    "nome": "Unrailed 2: Back on Track",
-   "preco": "R$37,80",
-   "desconto_percentual": 40,
+   "preco": "R$37,43",
+   "desconto_percentual": 62,
    "prioridade": 0,
    "adicionado_em": "2024-03-23"
   },
@@ -3501,8 +3501,8 @@
   {
    "appid": 2239150,
    "nome": "Thronefall",
-   "preco": "R$20,99",
-   "desconto_percentual": 50,
+   "preco": "R$41,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-10-16"
   },
@@ -3957,8 +3957,8 @@
   {
    "appid": 2417610,
    "nome": "METAL GEAR SOLID Δ: SNAKE EATER",
-   "preco": "R$284,90",
-   "desconto_percentual": null,
+   "preco": "R$170,94",
+   "desconto_percentual": 40,
    "prioridade": 0,
    "adicionado_em": "2023-07-03"
   },
@@ -4597,8 +4597,8 @@
   {
    "appid": 2716400,
    "nome": "The Rise of the Golden Idol",
-   "preco": "R$41,99",
-   "desconto_percentual": 30,
+   "preco": "R$59,99",
+   "desconto_percentual": null,
    "prioridade": 0,
    "adicionado_em": "2024-06-12"
   },
@@ -5293,8 +5293,8 @@
   {
    "appid": 3159570,
    "nome": "Lynked: Banner of the Spark",
-   "preco": "R$35,99",
-   "desconto_percentual": null,
+   "preco": "R$8,99",
+   "desconto_percentual": 75,
    "prioridade": 0,
    "adicionado_em": "2024-10-23"
   },
@@ -5373,8 +5373,8 @@
   {
    "appid": 3228590,
    "nome": "Deadzone: Rogue",
-   "preco": "R$62,49",
-   "desconto_percentual": null,
+   "preco": "R$31,24",
+   "desconto_percentual": 50,
    "prioridade": 0,
    "adicionado_em": "2025-03-13"
   },
@@ -5501,8 +5501,8 @@
   {
    "appid": 3293010,
    "nome": "Easy Delivery Co.",
-   "preco": "R$28,79",
-   "desconto_percentual": null,
+   "preco": "R$20,15",
+   "desconto_percentual": 30,
    "prioridade": 0,
    "adicionado_em": "2025-10-06"
   },
