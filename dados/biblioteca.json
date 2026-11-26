@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-25T18:53:51+00:00",
+ "atualizado_em": "2026-11-26T18:42:43+00:00",
  "total": 257,
  "dados": [
   {
@@ -1237,9 +1237,9 @@
   {
    "appid": 391220,
    "nome": "Rise of the Tomb Raider",
-   "horas": 19.9,
-   "horas_ultimas_2_semanas": 19.9,
-   "ultima_vez_jogado": "2026-11-24"
+   "horas": 21.6,
+   "horas_ultimas_2_semanas": 21.6,
+   "ultima_vez_jogado": "2026-11-26"
   },
   {
    "appid": 220700,
@@ -1609,7 +1609,7 @@
    "appid": 203160,
    "nome": "Tomb Raider",
    "horas": 15.8,
-   "horas_ultimas_2_semanas": 9.7,
+   "horas_ultimas_2_semanas": 8.6,
    "ultima_vez_jogado": "2026-11-15"
   },
   {
@@ -1735,7 +1735,7 @@
    "appid": 3669620,
    "nome": "Warhammer Survivors",
    "horas": 3.1,
-   "horas_ultimas_2_semanas": 2.8,
+   "horas_ultimas_2_semanas": 2.7,
    "ultima_vez_jogado": "2026-11-17"
   },
   {
